@@ -1,0 +1,651 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- Don't let the glasses browser serve a stale build after a deploy. -->
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <!-- Referrer must flow to YouTube or the embed throws error 153 -->
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <!-- MRBD conventions -->
+  <meta name="viewport" content="width=600, height=600, initial-scale=1.0, user-scalable=no">
+  <meta name="description" content="YouTube playlist player for Meta Ray-Ban Display">
+  <meta name="mrbd-web-app-capable" content="yes">
+  <title>Glasses Playlist</title>
+  <style>
+    html, body {
+      margin: 0;
+      width: 600px;
+      height: 600px;
+      background: #000;            /* pure black = transparent on the additive display */
+      overflow: hidden;
+      font-family: system-ui, sans-serif;
+      color: #cfefff;
+    }
+    [hidden] { display: none !important; }
+
+    /* ---- Playlist selection screen ---- */
+    #playlist-screen { display: flex; flex-direction: column; height: 600px; }
+    #pl-title {
+      height: 52px; line-height: 52px;
+      text-align: center; font-size: 24px; color: #9fe8ff;
+    }
+    #playlists {
+      flex: 1 1 auto;
+      display: flex; flex-direction: column; gap: 12px;
+      padding: 8px 12px; overflow-y: auto;
+    }
+    .pl-item {
+      min-height: 92px;             /* glasses minimum tap target */
+      font-size: 24px; font-weight: 600;
+      color: #cfefff; background: #101418;
+      border: 2px solid #2a3a44; border-radius: 14px;
+      transition: all 150ms ease;
+    }
+    .pl-item:focus {
+      outline: none;
+      color: #ffffff;
+      border-color: #00d4ff;
+      box-shadow: 0 0 20px rgba(0, 212, 255, 0.45);
+      background: #0a2a36;
+    }
+    #pl-hint {
+      height: 28px; line-height: 28px;
+      text-align: center; font-size: 16px; color: #6fb8d4;
+    }
+
+    /* ---- Player screen ---- */
+    #status {
+      height: 26px; line-height: 26px;
+      text-align: center; font-size: 20px; color: #9fe8ff;
+    }
+    #player { width: 600px; height: 338px; background: #000; }
+    #vtitle {
+      height: 30px; line-height: 30px; padding: 0 12px;
+      text-align: center; font-size: 18px; color: #ffffff;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    #controls {
+      display: flex; justify-content: center; gap: 8px;
+      padding: 6px 4px;
+    }
+    #controls button {
+      flex: 1 1 0; max-width: 112px;
+      min-height: 92px;             /* glasses minimum tap target */
+      font-size: 22px; font-weight: 600;
+      color: #cfefff; background: #101418;
+      border: 2px solid #2a3a44; border-radius: 14px;
+      transition: all 150ms ease;
+    }
+    #controls button:focus {
+      outline: none;
+      color: #ffffff;
+      border-color: #00d4ff;
+      box-shadow: 0 0 20px rgba(0, 212, 255, 0.45);
+      background: #0a2a36;
+    }
+    #hint {
+      height: 24px; line-height: 24px;
+      text-align: center; font-size: 16px; color: #6fb8d4;
+    }
+    #err {
+      height: 44px; padding: 0 12px;
+      text-align: center; font-size: 16px; color: #ff8f8f;
+    }
+  </style>
+</head>
+<body>
+  <!-- Screen 1: pick a playlist. Shown first. -->
+  <div id="playlist-screen">
+    <div id="pl-title">Choose a playlist</div>
+    <div id="playlists"></div>
+    <div id="pl-hint">Swipe to choose &middot; Pinch to select</div>
+  </div>
+
+  <!-- Screen 2: the player. Shown after a playlist is selected. -->
+  <div id="player-screen" hidden>
+    <div id="status">Loading player&hellip;</div>
+    <div id="player"></div>
+    <div id="vtitle"></div>
+    <div id="controls">
+      <button id="prev"   class="focusable">Prev</button>
+      <button id="toggle" class="focusable">Play</button>
+      <button id="next"   class="focusable">Next</button>
+      <button id="back15" class="focusable">&lt;15</button>
+      <button id="fwd30"  class="focusable">&gt;30</button>
+      <button id="speed2" class="focusable">2x</button>
+    </div>
+    <div id="hint">Swipe &middot; Pinch to select &middot; Prev &times;2 = playlists</div>
+    <div id="err"></div>
+  </div>
+
+  <script>
+    // Each entry is a YouTube playlist ({ name, list }) or self-hosted files
+    // ({ name, videos: [{title, src}, ...] }). Add `consume: true` to make a
+    // playlist drop videos you finish to the end (skipped/unfinished ones
+    // stay). Without it a playlist is retained and loops forever.
+    var PLAYLISTS = [
+      { name: 'Tech',    list: 'PLbnyQ6wMjZrE', consume: true },
+      { name: 'Flight',  list: 'PLXOhq7WErQjs', consume: true },
+      { name: 'Glasses', list: 'PLWuwaqqWR-30' },
+      // Not-mine playlists — retain (never dropped). consume is local-only and
+      // never edits YouTube, so it is safe to add here too if you ever want it.
+      { name: 'AI Headline News', list: 'PLRYSuzHGhXPnXgy2FJDUV2FajmYGGl5d2' },
+      { name: 'AI Breakdown',     list: 'PLRYSuzHGhXPmKnOpd-f588cNNmTe2S9FP' },
+      { name: 'All In Podcast',   list: 'PLn5MTSAqaf8peDZQ57QkJBzewJU1aUokl' },
+      { name: 'The Argument',     list: 'PLrfqnYenbG0YMrYXUu3Xrg0oEvXqcOk9W' },
+      { name: 'Ezra Klein',       list: 'PL4n3AtGdRxJgywUZQYUk3k2-HXIQ_fIHE' },
+      { name: 'Econ 102',         list: 'PLR1HfbuwOI0Vq_XMNRP2NXbNOKGN629-A' }
+    ];
+    var SHUFFLE = false;            // set true for random order
+
+    var player = null;              // active YouTube player (null in local mode)
+    var ready = false;
+    var ctl = null;                 // active controller: YouTube or the local <video>
+    var managed = null;             // active consume-queue (null on retain/native playlists)
+    var lastPrev = 0;               // timestamp of the previous Prev press
+
+    // YouTube's bot check ("Sign in to confirm you're not a bot") also
+    // surfaces through the IFrame API as error 150, so 101/150 do not
+    // necessarily mean the owner disabled embedding.
+    var ERR = {
+      2:   'invalid playlist or video id',
+      5:   'HTML5 player error',
+      100: 'video not found (skipping)',
+      101: 'playback refused (embed disabled or bot check) — skipping',
+      150: 'playback refused (embed disabled or bot check) — skipping',
+      153: 'Referer not sent: this browser is not sending the Referer header, so YouTube refuses the embed'
+    };
+    var errStreak = 0;              // consecutive refused videos
+    var MAX_SKIPS = 3;              // this many in a row = YouTube is blocking us, not the owners
+
+    var ytApiReady = false;         // IFrame API script has loaded
+    var ytLoading = false;          // ...or is loading
+    var pendingYT = null;           // playlist selected before the API was ready
+
+    function $(id) { return document.getElementById(id); }
+    function setStatus(t) { $('status').textContent = t; }
+    function setErr(t)    { $('err').textContent = t; }
+
+    function showScreen(which) {
+      $('playlist-screen').hidden = (which !== 'playlist');
+      $('player-screen').hidden   = (which !== 'player');
+    }
+
+    // ---------- Finished-video memory (consume playlists) ----------
+    // Videos you finish in a consume playlist are remembered here so they stay
+    // gone across reloads. Retain playlists are never recorded. To bring a
+    // playlist's finished videos back, run glassesForget('<playlist id>') in
+    // the console (the id is the `list`/`name` from PLAYLISTS).
+    function consumedKey(k) { return 'glasses:consumed:' + k; }
+    function loadConsumed(k) {
+      try { return JSON.parse(localStorage.getItem(consumedKey(k))) || {}; }
+      catch (e) { return {}; }
+    }
+    function saveConsumed(k, map) {
+      try { localStorage.setItem(consumedKey(k), JSON.stringify(map)); } catch (e) {}
+    }
+    window.glassesForget = function (k) {
+      try { localStorage.removeItem(consumedKey(k)); } catch (e) {}
+    };
+
+    // ---------- Shared play-queue: order, skipping, consume-on-finish ----------
+    // items: [{ key, ... }] where key is a stable id (YouTube video id or file
+    // src). The caller supplies play(item, autoplay), finished(), status(text).
+    // ended() is what enforces the rule: only finishing a video consumes it.
+    function makeQueue(items, opts) {
+      var consume  = !!opts.consume;
+      var consumed = consume ? loadConsumed(opts.storeKey) : {};
+      var live     = items.filter(function (it) { return !consumed[it.key]; });
+      var pos = 0, current = null, q;
+
+      function label() {
+        return live.length ? ('Video ' + (pos + 1) + ' of ' + live.length) : 'Playlist finished';
+      }
+      function playAt(autoplay) {
+        if (!live.length) { current = null; opts.finished(); return; }
+        if (pos < 0) { pos = live.length - 1; }
+        if (pos >= live.length) { pos = 0; }
+        current = live[pos];
+        opts.play(current, autoplay);
+        opts.status(label());
+      }
+
+      q = {
+        start: function () { pos = 0; playAt(false); },
+        next:  function () { if (live.length) { pos = (pos + 1) % live.length; } playAt(true); },
+        prev:  function () { if (live.length) { pos = (pos - 1 + live.length) % live.length; } playAt(true); },
+        // The current video played through to the very end.
+        ended: function () {
+          if (consume && current) {
+            consumed[current.key] = 1;
+            saveConsumed(opts.storeKey, consumed);
+            live.splice(pos, 1);               // drop the finished video
+            if (pos >= live.length) { pos = 0; }
+            playAt(true);
+          } else {
+            q.next();                          // retain: just advance (loops)
+          }
+        },
+        label:     label,
+        remaining: function () { return live.length; }
+      };
+      return q;
+    }
+
+    // ---------- Playlist selection screen ----------
+
+    function renderPlaylists() {
+      var box = $('playlists');
+      box.innerHTML = '';
+      PLAYLISTS.forEach(function (pl, i) {
+        var b = document.createElement('button');
+        b.className = 'pl-item focusable';
+        b.textContent = pl.name || ('Playlist ' + (i + 1));
+        b.addEventListener('click', function () { selectPlaylist(i); });
+        box.appendChild(b);
+      });
+      showScreen('playlist');
+      var first = box.querySelector('.pl-item');
+      if (first) { first.focus(); }
+    }
+
+    function selectPlaylist(i) {
+      var pl = PLAYLISTS[i];
+      if (!pl) { return; }
+      teardown();
+      showScreen('player');
+      ready = false; errStreak = 0; ctl = null; managed = null; lastPrev = 0;
+      $('vtitle').textContent = '';
+      $('toggle').textContent = 'Play';
+      setErr('');
+      setStatus('Loading…');
+      if (pl.videos && pl.videos.length) { initLocal(pl.videos, pl); }
+      else { createYouTubePlayer(pl); }
+    }
+
+    // Prev-pressed-twice escape hatch, and the Back path in general.
+    function backToPlaylists() {
+      teardown();
+      setStatus('Loading player…');
+      renderPlaylists();
+    }
+
+    // Stop and remove whatever is currently playing so nothing keeps running
+    // (or making sound) behind the selection screen.
+    function teardown() {
+      ready = false;
+      ctl = null;
+      managed = null;
+      if (player) {
+        try { player.destroy(); } catch (e) {}
+        player = null;
+      }
+      var host = $('player');
+      var vids = host.getElementsByTagName('video');
+      for (var k = 0; k < vids.length; k++) {
+        try { vids[k].pause(); vids[k].removeAttribute('src'); vids[k].load(); } catch (e) {}
+      }
+      host.innerHTML = '';
+    }
+
+    // ---------- YouTube mode ----------
+
+    // Load the IFrame Player API once; onYouTubeIframeAPIReady fires when ready.
+    function ensureYouTubeApi() {
+      if (ytApiReady || ytLoading) { return; }
+      ytLoading = true;
+      var tag = document.createElement('script');
+      tag.src = 'https://www.youtube.com/iframe_api';
+      tag.onerror = function () { setErr('Could not load YouTube player script (network blocked?)'); };
+      document.head.appendChild(tag);
+    }
+
+    // Global callback: the API calls this when loaded.
+    function onYouTubeIframeAPIReady() {
+      ytApiReady = true;
+      if (pendingYT) { var f = pendingYT; pendingYT = null; f(); }
+    }
+
+    function togglePlay() {
+      if (player.getPlayerState() === YT.PlayerState.PLAYING) { player.pauseVideo(); }
+      else { player.playVideo(); }    // pinch is a user gesture, so audio is allowed
+    }
+    function ytBack15() { player.seekTo(Math.max(0, player.getCurrentTime() - 15), true); }
+    function ytFwd30()  {
+      var target = player.getCurrentTime() + 30;
+      var duration = player.getDuration();
+      if (duration) { target = Math.min(duration, target); }
+      player.seekTo(target, true);
+    }
+    function ytSpeed2() {
+      var rate = player.getPlaybackRate() === 2 ? 1 : 2;
+      player.setPlaybackRate(rate);
+      setStatus('Speed ' + rate + 'x');
+    }
+
+    function createYouTubePlayer(pl) {
+      // Selected before the API finished loading? Queue it.
+      if (!ytApiReady) {
+        pendingYT = function () { createYouTubePlayer(pl); };
+        ensureYouTubeApi();
+        return;
+      }
+      var host = $('player');
+      host.innerHTML = '';
+      var mount = document.createElement('div');   // YT.Player replaces this node
+      host.appendChild(mount);
+
+      var vars = {
+        listType: 'playlist',
+        list: pl.list,
+        playsinline: 1,
+        controls: 0,          // playback is driven by the buttons below
+        rel: 0,
+        fs: 0,
+        disablekb: 1,
+        iv_load_policy: 3
+      };
+      if (location.protocol === 'https:' || location.protocol === 'http:') {
+        vars.origin = location.origin;
+        vars.widget_referrer = location.href;
+      }
+      player = new YT.Player(mount, {
+        width: 600,
+        height: 338,
+        // www.youtube.com, NOT youtube-nocookie.com: privacy-enhanced mode
+        // strips cookies, and cookie-less embeds trip YouTube's "confirm
+        // you're not a bot" wall, which then reports error 150 on every video.
+        host: 'https://www.youtube.com',
+        playerVars: vars,
+        events: {
+          onReady: function () {
+            // Retain playlists keep YouTube's own looping playlist navigation.
+            // Consume playlists take over so we can drop finished videos and
+            // so ENDED fires reliably per video (it doesn't inside a playlist).
+            if (pl.consume) {
+              setStatus('Loading playlist…');
+              waitForPlaylistIds(pl, 0);
+            } else {
+              setupNativeYT();
+            }
+          },
+          onStateChange: function (e) {
+            var d = player.getVideoData ? player.getVideoData() : null;
+            if (d && d.title) { $('vtitle').textContent = d.title; }
+            if (e.data === YT.PlayerState.PLAYING) {
+              $('toggle').textContent = 'Pause';
+              if (managed) {
+                setStatus(managed.label());
+              } else {
+                var i = player.getPlaylistIndex() + 1;
+                var list = player.getPlaylist() || [];
+                setStatus('Video ' + i + (list.length ? ' of ' + list.length : ''));
+              }
+              clearBlocked();
+              setErr('');
+            } else if (e.data === YT.PlayerState.PAUSED) {
+              $('toggle').textContent = 'Play';
+              setStatus('Paused');
+            } else if (e.data === YT.PlayerState.BUFFERING) {
+              setStatus('Buffering…');
+            } else if (e.data === YT.PlayerState.ENDED) {
+              if (managed) {
+                managed.ended();          // finished to the end → consume + advance
+              } else {
+                $('toggle').textContent = 'Play';
+                setStatus('Playlist ended');
+              }
+            }
+          },
+          onError: function (e) {
+            // No devtools on glasses, so surface the code on the lens.
+            setErr('YouTube error ' + e.data + (ERR[e.data] ? ': ' + ERR[e.data] : ''));
+            if (e.data === 100 || e.data === 101 || e.data === 150) {
+              errStreak++;
+              // An unplayable video is not a finished one — skip without consuming.
+              if (errStreak < MAX_SKIPS) { if (managed) { managed.next(); } else { player.nextVideo(); } }
+              else { showBlocked(); }   // stop skip-looping the whole playlist
+            }
+          }
+        }
+      });
+    }
+
+    // Retain playlist: YouTube drives order and looping, nothing is dropped.
+    function setupNativeYT() {
+      ctl = {
+        prev:   function () { player.previousVideo(); },
+        next:   function () { player.nextVideo(); },
+        toggle: togglePlay,
+        back15: ytBack15,
+        fwd30:  ytFwd30,
+        speed2: ytSpeed2
+      };
+      ready = true;
+      player.setLoop(true);
+      if (SHUFFLE) { player.setShuffle(true); }
+      setStatus('Ready');
+      $('toggle').focus();
+    }
+
+    // Consume playlist: read the playlist's video ids, then drive them one at a
+    // time so finished videos can be dropped. getPlaylist() is empty until the
+    // playlist metadata loads, so poll briefly.
+    function waitForPlaylistIds(pl, tries) {
+      var ids = (player.getPlaylist && player.getPlaylist()) || [];
+      if (ids.length) { initManagedYT(pl, ids); return; }
+      if (tries < 25) { setTimeout(function () { waitForPlaylistIds(pl, tries + 1); }, 200); return; }
+      // Couldn't read the list — fall back to plain looping so the app still works.
+      setErr('Could not read playlist — auto-remove off');
+      setupNativeYT();
+    }
+
+    function initManagedYT(pl, ids) {
+      if (SHUFFLE) {
+        ids = ids.slice();
+        for (var s = ids.length - 1; s > 0; s--) {
+          var r = Math.floor(Math.random() * (s + 1));
+          var t = ids[s]; ids[s] = ids[r]; ids[r] = t;
+        }
+      }
+      var items = ids.map(function (id) { return { key: id }; });
+      managed = makeQueue(items, {
+        consume:  true,
+        storeKey: pl.list,
+        play: function (item, autoplay) {
+          if (autoplay) { player.loadVideoById(item.key); }
+          else { player.cueVideoById(item.key); }
+        },
+        finished: function () {
+          $('vtitle').textContent = '';
+          $('toggle').textContent = 'Play';
+          setStatus('Playlist finished');
+        },
+        status: function (text) { setStatus(text); }
+      });
+      ctl = {
+        prev:   function () { managed.prev(); },
+        next:   function () { managed.next(); },
+        toggle: togglePlay,
+        back15: ytBack15,
+        fwd30:  ytFwd30,
+        speed2: ytSpeed2
+      };
+      ready = true;
+      managed.start();          // cues the first remaining video
+      $('toggle').focus();
+    }
+
+    // ---------- Self-hosted mode: same controls, no YouTube, no bot wall ----------
+
+    function initLocal(list, pl) {
+      list = list.slice();
+      if (SHUFFLE) {
+        for (var s = list.length - 1; s > 0; s--) {
+          var r = Math.floor(Math.random() * (s + 1));
+          var t = list[s]; list[s] = list[r]; list[r] = t;
+        }
+      }
+      var v = document.createElement('video');
+      v.width = 600; v.height = 338;
+      v.setAttribute('playsinline', '');
+      v.preload = 'auto';
+      $('player').appendChild(v);
+
+      function tryPlay() {
+        var p = v.play();
+        // Before the first pinch the browser may veto autoplay; just wait.
+        if (p && p.catch) { p.catch(function () { $('toggle').textContent = 'Play'; setStatus('Press Play'); }); }
+      }
+
+      var items = list.map(function (x) { return { key: x.src, title: x.title || x.src, src: x.src }; });
+      var q = makeQueue(items, {
+        consume:  !!(pl && pl.consume),
+        storeKey: (pl && pl.name) || 'local',
+        play: function (item, autoplay) {
+          v.src = item.src;
+          $('vtitle').textContent = item.title;
+          setErr('');
+          if (autoplay) { tryPlay(); }
+        },
+        finished: function () { setStatus('Playlist finished'); $('toggle').textContent = 'Play'; },
+        status: function (text) { setStatus(text); }
+      });
+
+      v.addEventListener('playing', function () {
+        errStreak = 0;
+        $('toggle').textContent = 'Pause';
+        setStatus(q.label());
+        setErr('');
+      });
+      v.addEventListener('pause', function () {
+        if (!v.ended) { $('toggle').textContent = 'Play'; setStatus('Paused'); }
+      });
+      v.addEventListener('waiting', function () { setStatus('Buffering…'); });
+      v.addEventListener('ended', function () { q.ended(); });   // finished → consume/advance
+      v.addEventListener('error', function () {
+        setErr('Could not play "' + ($('vtitle').textContent) + '" (skipping)');
+        errStreak++;
+        // Unplayable is not finished — skip without consuming.
+        if (errStreak < items.length) { q.next(); }
+        else { setStatus('No playable videos'); $('toggle').textContent = 'Play'; }
+      });
+
+      ctl = {
+        prev:    function () { q.prev(); },
+        next:    function () { q.next(); },
+        toggle:  function () { if (v.paused || v.ended) { tryPlay(); } else { v.pause(); } },
+        back15:  function () { v.currentTime = Math.max(0, v.currentTime - 15); },
+        fwd30:   function () {
+          var target = v.currentTime + 30;
+          if (isFinite(v.duration)) { target = Math.min(v.duration, target); }
+          v.currentTime = target;
+        },
+        speed2:  function () {
+          var rate = v.playbackRate === 2 ? 1 : 2;
+          v.playbackRate = rate;
+          setStatus('Speed ' + rate + 'x');
+        }
+      };
+      ready = true;
+      q.start();               // loads the first remaining video (no autoplay)
+      $('toggle').focus();
+    }
+
+    // Every video refused in a row: YouTube's bot wall has flagged this
+    // browser or network, not individual videos — it even blocks the plain
+    // playlist page. The two known cures are a signed-in Google session and
+    // a different egress IP.
+    function showBlocked() {
+      setStatus('Playback blocked');
+      setErr('YouTube is blocking this browser (bot check). Switch Wi-Fi/hotspot and retry.');
+      $('toggle').focus();
+    }
+    function clearBlocked() { errStreak = 0; }
+
+    function guarded(fn) {
+      return function () {
+        if (!ready) { setStatus('Still loading…'); return; }
+        fn();
+      };
+    }
+
+    // Prev twice within 2 seconds = escape back to the playlist screen.
+    // Otherwise Prev just goes to the previous video (a skip, so it is kept).
+    $('prev').addEventListener('click', guarded(function () {
+      var now = Date.now();
+      if (now - lastPrev <= 2000) { lastPrev = 0; backToPlaylists(); return; }
+      lastPrev = now;
+      clearBlocked(); ctl.prev();
+    }));
+    $('toggle').addEventListener('click', guarded(function () { lastPrev = 0; clearBlocked(); ctl.toggle(); }));
+    $('next').addEventListener('click',   guarded(function () { lastPrev = 0; clearBlocked(); ctl.next(); }));
+    $('back15').addEventListener('click', guarded(function () { lastPrev = 0; ctl.back15(); }));
+    $('fwd30').addEventListener('click',  guarded(function () { lastPrev = 0; ctl.fwd30(); }));
+    $('speed2').addEventListener('click', guarded(function () { lastPrev = 0; ctl.speed2(); }));
+
+    // MRBD input model: swipes arrive as arrow keys, index pinch/tap as Enter.
+    // Arrows move focus across whatever buttons are on screen (playlist items
+    // or player controls); Enter activates the focused one.
+    function visibleFocusables() {
+      return Array.prototype.slice.call(document.querySelectorAll('.focusable'))
+        .filter(function (el) { return el.offsetParent !== null; });
+    }
+    function moveFocus(back) {
+      var f = visibleFocusables();
+      if (!f.length) { return; }
+      var i = f.indexOf(document.activeElement);
+      if (i === -1) {
+        var toggle = $('toggle');
+        (f.indexOf(toggle) >= 0 ? toggle : f[0]).focus();   // default to Play/Pause on the player
+        return;
+      }
+      var n = back ? (i > 0 ? i - 1 : f.length - 1)
+                   : (i < f.length - 1 ? i + 1 : 0);
+      f[n].focus();
+    }
+    document.addEventListener('keydown', function (e) {
+      switch (e.key) {
+        case 'ArrowLeft':
+        case 'ArrowUp':    moveFocus(true);  break;
+        case 'ArrowRight':
+        case 'ArrowDown':  moveFocus(false); break;
+        case 'Enter':
+          if (document.activeElement && document.activeElement.classList &&
+              document.activeElement.classList.contains('focusable')) {
+            document.activeElement.click();
+          } else {
+            var first = visibleFocusables()[0];
+            if (first) { first.focus(); }
+          }
+          break;
+        default: return;   // don't preventDefault on unhandled keys
+      }
+      e.preventDefault();
+    });
+
+    // ---------- Boot ----------
+    // A videos.json manifest in the repo still works: it becomes an extra
+    // "Self-hosted" playlist on the selection screen. YouTube's bot wall
+    // currently blocks this browser outright, so self-hosted is the path that
+    // cannot be blocked (see README).
+    function boot() {
+      if (PLAYLISTS.some(function (p) { return p.list; })) { ensureYouTubeApi(); }
+      renderPlaylists();
+    }
+    if (typeof fetch !== 'function') {
+      boot();
+    } else {
+      fetch('videos.json')
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .catch(function () { return null; })
+        .then(function (list) {
+          if (list && list.length) { PLAYLISTS.push({ name: 'Self-hosted', videos: list }); }
+          boot();
+        });
+    }
+  </script>
+</body>
+</html>
