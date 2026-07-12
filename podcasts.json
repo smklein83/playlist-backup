@@ -1,4 +1,609 @@
 {
-  "updated": 0,
-  "shows": []
+  "updated": 1783891676,
+  "shows": [
+    {
+      "name": "The AI Daily Brief",
+      "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
+      "episodes": [
+        {
+          "title": "How to Help People Thrive with AI",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122718777/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-12%2F427802521-44100-2-51652db76c0c6.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-12T10:47:12+00:00",
+          "duration": "00:22:48"
+        },
+        {
+          "title": "ChatGPT Just Became a Work Agent",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122668151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-10%2F427735252-44100-2-49bb9c467bcfd.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-10T19:29:38+00:00",
+          "duration": "00:29:15"
+        },
+        {
+          "title": "How the 4 New AI Models Change How You Work",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122618033/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-9%2F427668619-44100-2-ca38591984be7.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-09T19:08:26+00:00",
+          "duration": "00:34:33"
+        },
+        {
+          "title": "AI Costs Are Surging and the Cheap Model Fix Might Not Last",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122569088/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-8%2F427602169-44100-2-2b8405ca472b9.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-08T18:25:23+00:00",
+          "duration": "00:26:49"
+        },
+        {
+          "title": "Anthropic Can Now Read Claude’s Mind",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122520534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F427536462-44100-2-c5ae42cc253d6.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-07T19:00:28+00:00",
+          "duration": "00:28:49"
+        },
+        {
+          "title": "AI Is Making One-Person Million-Dollar Companies More Common",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122474294/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-6%2F427473088-44100-2-dae9d3713f0cd.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-06T20:44:44+00:00",
+          "duration": "00:24:39"
+        },
+        {
+          "title": "The Job Positions of the AI Future",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122409355/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-6%2F427441168-44100-2-ec58618d373ef.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-05T13:14:22+00:00",
+          "duration": "00:26:43"
+        },
+        {
+          "title": "The Big Ways AI Just Changed",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122358665/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-3%2F427318940-44100-2-09d3a7add8348.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-04T01:17:29+00:00",
+          "duration": "00:21:31"
+        },
+        {
+          "title": "AI Companies Are Hiring More",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122306858/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-2%2F427250204-44100-2-fb63b6b8fad26.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-02T18:30:13+00:00",
+          "duration": "00:27:47"
+        },
+        {
+          "title": "Fable is Back: Here's What You Should Try First",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122263095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427190589-44100-2-79244ad1db14d.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-01T20:39:08+00:00",
+          "duration": "00:29:59"
+        },
+        {
+          "title": "How Big Is the AI Economy?",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122214781/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-30%2F427125407-44100-2-3b3f2301a9ba9.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-30T20:56:32+00:00",
+          "duration": "00:27:54"
+        },
+        {
+          "title": "Mythos Comes Back But Not for Everyone",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122157650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-29%2F427049048-44100-2-59c08c0e54e42.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-29T18:13:14+00:00",
+          "duration": "00:33:12"
+        },
+        {
+          "title": "The Capability Overhang Playbook",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122094487/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-28%2F426966199-44100-2-33e95372fce36.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-28T11:52:35+00:00",
+          "duration": "00:26:02"
+        },
+        {
+          "title": "The Ad Hoc AI Licensing Regime",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122069131/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-27%2F426933172-44100-2-fb4074f84cbc5.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-27T16:18:40+00:00",
+          "duration": "00:10:55"
+        },
+        {
+          "title": "Botsitting: The Work Draining AI Gains",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122037285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-26%2F426890295-44100-2-f6243a3b5a155.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-26T18:30:26+00:00",
+          "duration": "00:25:19"
+        },
+        {
+          "title": "CEO-Led AI Gets 3X the ROI",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122001402/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-25%2F426841819-44100-2-47724beb733c2.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-25T22:03:34+00:00",
+          "duration": "00:30:04"
+        },
+        {
+          "title": "5 Ways Claude Tag Could Change How You Use AI",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/121955264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-24%2F426778566-44100-2-70956cc9dffab.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-24T22:02:03+00:00",
+          "duration": "00:27:01"
+        },
+        {
+          "title": "The Right Way to Deal With AI Data Centers",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/121901656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-23%2F426705102-44100-2-93552e1c81a4.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-23T19:51:47+00:00",
+          "duration": "00:25:59"
+        },
+        {
+          "title": "Why AI Users Are Raving About GLM 5.2",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/121847804/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-22%2F426632470-44100-2-1fd697f62d833.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-22T19:44:29+00:00",
+          "duration": "00:29:29"
+        },
+        {
+          "title": "Why Local AI Matters and How to Use It",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/121785944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-21%2F426551944-44100-2-eace034712683.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-21T15:20:32+00:00",
+          "duration": "00:45:16"
+        },
+        {
+          "title": "The 5-Minute AI Weekly Recap: Realignment Week",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/121749223/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-20%2F426503865-44100-2-bdadaca3da607.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-20T15:00:00+00:00",
+          "duration": "00:05:56"
+        },
+        {
+          "title": "Your Company Doesn’t Need an AI Strategy",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/121720961/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-19%2F426468386-44100-2-fd814bd4b4bde.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-19T18:36:11+00:00",
+          "duration": "00:29:45"
+        },
+        {
+          "title": "The Models Trying to Fill the Fable Gap",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/121678379/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2F426409736-44100-2-516cc7c1cc4ab.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-18T19:49:40+00:00",
+          "duration": "00:29:23"
+        },
+        {
+          "title": "A Big Shift in the AI Race",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/121630082/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-17%2F426344289-44100-2-f615e1af1eea9.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-17T20:10:46+00:00",
+          "duration": "00:26:32"
+        },
+        {
+          "title": "Why Only AI Training Can Save the Economy",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/121551135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-16%2F426238037-44100-2-237b0353b5dee.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-16T19:00:00+00:00",
+          "duration": "00:22:27"
+        }
+      ]
+    },
+    {
+      "name": "All-In",
+      "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "episodes": [
+        {
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E280_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-07-11T02:12:00+00:00",
+          "duration": "01:42:05"
+        },
+        {
+          "title": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/PARIS_Versailles_Ch4.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-07-10T01:26:00+00:00",
+          "duration": "01:03:57"
+        },
+        {
+          "title": "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E279_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-07-03T22:12:00+00:00",
+          "duration": "01:42:11"
+        },
+        {
+          "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/FINAL_PASS_NATE_SILVER.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-06-29T15:47:00+00:00",
+          "duration": "01:00:42"
+        },
+        {
+          "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E278_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-06-26T23:53:00+00:00",
+          "duration": "01:41:43"
+        },
+        {
+          "title": "GameStop CEO Ryan Cohen's $56B Plan to Take Over eBay",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_Cohen_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-06-23T20:52:00+00:00",
+          "duration": "01:03:03"
+        },
+        {
+          "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E277_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-06-19T22:07:00+00:00",
+          "duration": "01:24:30"
+        },
+        {
+          "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E276_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-06-13T04:51:00+00:00",
+          "duration": "01:42:00"
+        },
+        {
+          "title": "All-In's Best Ideas Pitch Competition: 4 Investors Present Their Top Trades Live",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_BestIdeas_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-06-12T01:25:00+00:00",
+          "duration": "01:07:57"
+        },
+        {
+          "title": "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_PASens_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-06-10T18:05:00+00:00",
+          "duration": "43:23"
+        },
+        {
+          "title": "Dan Dreyfus: America's Critical Minerals Crisis is Here",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_DanDreyfus_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-06-10T03:04:00+00:00",
+          "duration": "24:37"
+        },
+        {
+          "title": "Bill Maris: How Google Could Crush AI Competitors, Why Small Funds Win, and AI's Atari Stage",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_BillMaris_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-06-09T15:07:00+00:00",
+          "duration": "28:42"
+        },
+        {
+          "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_NikeshArora_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-06-08T19:34:00+00:00",
+          "duration": "31:22"
+        },
+        {
+          "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_MarketsPanel_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-06-07T18:14:00+00:00",
+          "duration": "39:38"
+        },
+        {
+          "title": "The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_IPOPANEL_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-06-06T16:30:00+00:00",
+          "duration": "32:29"
+        },
+        {
+          "title": "Dan Loeb: The Lost Art of Short Selling, and Why Stock Picking is Back",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/DanLoeb_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-06-05T19:18:00+00:00",
+          "duration": "31:16"
+        },
+        {
+          "title": "Thomas Laffont: The $4T AI IPO Wave, 2026's Unicorn Economy, and the 10X Paradox",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/TL_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-06-04T18:23:00+00:00",
+          "duration": "32:45"
+        },
+        {
+          "title": "Bill Ackman: Investment Strategy, What the Market is Missing, How AI Breaks Businesses",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Ackman_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-06-03T03:06:00+00:00",
+          "duration": "29:59"
+        },
+        {
+          "title": "OpenAI CFO Sarah Friar: IPO, AI Rivalries, New Device, and Spending $100B+ on Compute",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Friar_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-06-02T14:31:00+00:00",
+          "duration": "32:02"
+        },
+        {
+          "title": "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E275_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-05-29T22:23:00+00:00",
+          "duration": "01:34:57"
+        },
+        {
+          "title": "SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E274_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-05-22T22:46:00+00:00",
+          "duration": "01:42:00"
+        },
+        {
+          "title": "Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E273_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-05-15T21:21:00+00:00",
+          "duration": "01:16:31"
+        },
+        {
+          "title": "Charles & Chase Koch on How They Quietly Built a $150B Empire",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Koch_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-05-12T21:03:00+00:00",
+          "duration": "01:35:27"
+        },
+        {
+          "title": "Spencer Pratt on Fixing LA: Wildfires, Homelessness, Corruption & the Fight to Take It Back",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/PRATT_FINAL_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-05-10T21:00:00+00:00",
+          "duration": "01:11:19"
+        },
+        {
+          "title": "Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E272_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-05-08T22:16:00+00:00",
+          "duration": "01:22:02"
+        }
+      ]
+    },
+    {
+      "name": "The Ezra Klein Show",
+      "feed": "https://feeds.simplecast.com/kEKXbjuJ",
+      "episodes": [
+        {
+          "title": "The Very Good and Very Bad News on Climate",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/1f000edc-74ef-45b9-97d4-2733237870c1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=1f000edc-74ef-45b9-97d4-2733237870c1&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-07-10T09:00:00+00:00",
+          "duration": "01:25:22"
+        },
+        {
+          "title": "A Radical Vision for Israelis and Palestinians",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/5991c912-39dc-450f-b87d-31efa097e9c8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=5991c912-39dc-450f-b87d-31efa097e9c8&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-07-07T09:00:00+00:00",
+          "duration": "01:25:38"
+        },
+        {
+          "title": "The America That’s Still Possible",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/3bb6968e-6155-4bd6-9afc-8b3b02825c04/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=3bb6968e-6155-4bd6-9afc-8b3b02825c04&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-07-03T09:00:00+00:00",
+          "duration": "01:45:37"
+        },
+        {
+          "title": "About the Coming Paywall",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/7724ecc9-c252-4f17-a2c3-48c62eb9f4e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=7724ecc9-c252-4f17-a2c3-48c62eb9f4e0&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2024-10-02T09:00:00+00:00",
+          "duration": "00:04:10"
+        },
+        {
+          "title": "Coming Soon: The Ezra Klein Show",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/a2972dd0-56cb-40e9-8e58-3927c583108c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=a2972dd0-56cb-40e9-8e58-3927c583108c&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2021-01-13T01:40:00+00:00",
+          "duration": "00:02:12"
+        }
+      ]
+    },
+    {
+      "name": "The Argument",
+      "feed": "https://feeds.simplecast.com/p5iAFWNi",
+      "episodes": [
+        {
+          "title": "Is It Time to Break Up With Your Political Party?",
+          "src": "https://nyt.simplecastaudio.com/1fe58c15-392f-4bd2-9c69-5e2935220d3c/episodes/04ed6a25-0c6f-440a-a1fa-25bcff0148bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=1fe58c15-392f-4bd2-9c69-5e2935220d3c&awEpisodeId=04ed6a25-0c6f-440a-a1fa-25bcff0148bf&feed=p5iAFWNi",
+          "type": "audio/mpeg",
+          "date": "2022-12-14T10:00:00+00:00",
+          "duration": "00:38:56"
+        },
+        {
+          "title": "Should America Intervene in Haiti? ‘Go to Hell’ and Other Views",
+          "src": "https://nyt.simplecastaudio.com/1fe58c15-392f-4bd2-9c69-5e2935220d3c/episodes/1f8f2402-a0c9-4036-a360-6efcd1aa4e0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=1fe58c15-392f-4bd2-9c69-5e2935220d3c&awEpisodeId=1f8f2402-a0c9-4036-a360-6efcd1aa4e0d&feed=p5iAFWNi",
+          "type": "audio/mpeg",
+          "date": "2022-12-07T10:00:00+00:00",
+          "duration": "00:29:30"
+        }
+      ]
+    },
+    {
+      "name": "Econ 102",
+      "feed": "https://feeds.simplecast.com/dG9scp92",
+      "episodes": [
+        {
+          "title": "What AI Means for Anthropic, Washington, and Jobs",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/6e94cda0-21f4-476d-9e4d-8a69a88ca57a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=6e94cda0-21f4-476d-9e4d-8a69a88ca57a&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2026-03-24T12:00:00+00:00",
+          "duration": "00:29:27"
+        },
+        {
+          "title": "Technology, Crime, and Public Safety w/ Garrett Langley, CEO of Flock Safety",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/0e0e042e-6de1-474f-b4cd-3f74acfc5e39/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=0e0e042e-6de1-474f-b4cd-3f74acfc5e39&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2026-02-09T14:00:00+00:00",
+          "duration": "00:44:07"
+        },
+        {
+          "title": "Europe's Future, Online Politics, and Populism in America",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/61dd57e1-9d93-47b0-94de-6388d03aae30/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=61dd57e1-9d93-47b0-94de-6388d03aae30&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2026-01-02T18:03:51+00:00",
+          "duration": "00:43:11"
+        },
+        {
+          "title": "Immigration Debate w/ Pascal-Emmanuel Gobry and Noah Smith",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/9741995d-a7d6-41f2-955c-e5f332ac1813/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=9741995d-a7d6-41f2-955c-e5f332ac1813&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-12-05T11:33:23+00:00",
+          "duration": "01:24:15"
+        },
+        {
+          "title": "AI Business Models, Rare Earths, and China's Economic Challenges",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/35d89a36-0656-4e4b-b57b-4af664d4ed79/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=35d89a36-0656-4e4b-b57b-4af664d4ed79&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-11-11T13:12:23+00:00",
+          "duration": "00:54:49"
+        },
+        {
+          "title": "Manufacturing's Future, The Electric Tech Stack, and Automation",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/9bf5f2dd-9d75-4ce3-8c9f-2e1e24ada41e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=9bf5f2dd-9d75-4ce3-8c9f-2e1e24ada41e&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-10-08T10:00:00+00:00",
+          "duration": "00:56:02"
+        },
+        {
+          "title": "Who Profits from AI?",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/7ccf35d0-1ff7-4841-9e35-19e8e43dc219/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=7ccf35d0-1ff7-4841-9e35-19e8e43dc219&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-08-27T08:00:00+00:00",
+          "duration": "00:56:07"
+        },
+        {
+          "title": "AGI Thought Experiment with Dwarkesh Patel, Noah Smith, and Erik Torenberg | From the a16z Podcast",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/056170fc-2bba-4d57-ab71-a1128e4cdc2c/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=056170fc-2bba-4d57-ab71-a1128e4cdc2c&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-08-15T08:00:00+00:00",
+          "duration": "01:15:55"
+        },
+        {
+          "title": "Making Sense of Milei, AI & Employment, and America's Future",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/e358e437-6ca2-4d05-bc42-0833d5c46c86/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=e358e437-6ca2-4d05-bc42-0833d5c46c86&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-07-31T09:06:00+00:00",
+          "duration": "00:53:57"
+        },
+        {
+          "title": "Sam D'Amico and Noah Smith on How China Masters Manufacturing (And How America Can Catch Up)",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/6fde4bf0-df49-4ceb-8eb7-4ff16ac5251d/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=6fde4bf0-df49-4ceb-8eb7-4ff16ac5251d&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-07-22T10:00:00+00:00",
+          "duration": "00:55:12"
+        },
+        {
+          "title": "The 2nd China Shock: Why Chinese Companies Are Making Zero Profit",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/fa8f855b-ea60-4931-a986-b3eab1b6b795/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=fa8f855b-ea60-4931-a986-b3eab1b6b795&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-07-15T08:15:00+00:00",
+          "duration": "00:50:29"
+        },
+        {
+          "title": "Derek Thompson on Why America Can't Build, Abundance, and Substack",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/2a02d2f5-f65e-441a-a289-71679b2c6dc9/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=2a02d2f5-f65e-441a-a289-71679b2c6dc9&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-07-08T10:52:00+00:00",
+          "duration": "01:09:55"
+        },
+        {
+          "title": "What Replaces Twitter? With Noah Smith & Chris Best, CEO of Substack",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/c0c07860-667d-4a7d-af69-90b02b9071a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=c0c07860-667d-4a7d-af69-90b02b9071a6&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-06-21T09:10:00+00:00",
+          "duration": "00:46:05"
+        },
+        {
+          "title": "China, Tesla, and the Electric Tech Stack Revolution",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/e6e7af89-379a-4c0f-87b6-1c65f345e137/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=e6e7af89-379a-4c0f-87b6-1c65f345e137&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-06-12T10:00:00+00:00",
+          "duration": "00:45:07"
+        },
+        {
+          "title": "Cost Disease, USAID Debate, and is Curtis Yarvin Trapped in 2020",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/1e81f215-60b8-40d0-b2ec-32facc3afb73/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=1e81f215-60b8-40d0-b2ec-32facc3afb73&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-06-04T07:00:00+00:00",
+          "duration": "00:38:44"
+        },
+        {
+          "title": "Noah Smith & Matt Yglesias on the Electric Technology Crisis, China, and America's Future",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/58912eef-8851-4ac9-8959-17b2679441e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=58912eef-8851-4ac9-8959-17b2679441e7&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-05-28T08:30:00+00:00",
+          "duration": "01:13:07"
+        },
+        {
+          "title": "India-Pakistan, Building Back Military Power, and Immigration",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/2727ff67-4f4d-4351-b4f5-8d5e36674716/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=2727ff67-4f4d-4351-b4f5-8d5e36674716&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-05-23T08:30:00+00:00",
+          "duration": "00:59:04"
+        },
+        {
+          "title": "The Middle Class Myth, China's Future, and What Really Happened in 1971",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/5d70bf40-f54d-4552-967f-16511c0781a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=5d70bf40-f54d-4552-967f-16511c0781a3&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-05-15T07:00:00+00:00",
+          "duration": "00:52:04"
+        },
+        {
+          "title": "You Can't Tariff Your Way to Greatness",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/7a7e1bc2-5058-49f6-a4ae-6fa3b0f84caa/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=7a7e1bc2-5058-49f6-a4ae-6fa3b0f84caa&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-05-02T07:00:00+00:00",
+          "duration": "01:00:34"
+        },
+        {
+          "title": "The Deindustrialization Paradox",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/1eaf5d99-94ae-48c2-a02f-375eb059f33e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=1eaf5d99-94ae-48c2-a02f-375eb059f33e&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-04-24T07:00:00+00:00",
+          "duration": "00:45:02"
+        },
+        {
+          "title": "The Bond Market Rules Everything",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/64820b11-ff40-41b1-b1df-ec3aa1928959/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=64820b11-ff40-41b1-b1df-ec3aa1928959&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-04-18T07:00:00+00:00",
+          "duration": "00:57:23"
+        },
+        {
+          "title": "Tariff Mayhem and Capital Flight",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/3a61d025-eeae-445e-8358-aa793c118d34/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=3a61d025-eeae-445e-8358-aa793c118d34&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-04-14T08:45:00+00:00",
+          "duration": "00:59:35"
+        },
+        {
+          "title": "The New Left vs The New Right",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/2a95e98a-287c-4c01-b4cd-f4b0926275ae/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=2a95e98a-287c-4c01-b4cd-f4b0926275ae&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-04-01T07:30:00+00:00",
+          "duration": "01:11:01"
+        },
+        {
+          "title": "Abundance Debate, Sex Politics, and Left vs Right Economic Populism",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/268e1446-8e4f-49e1-85c7-cd85ba48a8fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=268e1446-8e4f-49e1-85c7-cd85ba48a8fd&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-03-25T07:00:00+00:00",
+          "duration": "00:58:32"
+        },
+        {
+          "title": "How Europe, America and China are Repositioning",
+          "src": "https://afp-848985-injected.calisto.simplecastaudio.com/2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565/episodes/0e478c7a-3c2c-4bb7-a49f-3ae0c42477fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=2e1e7fab-705e-4b9e-a7a3-ab2ff6d3b565&awEpisodeId=0e478c7a-3c2c-4bb7-a49f-3ae0c42477fe&feed=dG9scp92",
+          "type": "audio/mpeg",
+          "date": "2025-03-18T09:00:00+00:00",
+          "duration": "00:52:56"
+        }
+      ]
+    }
+  ]
 }
