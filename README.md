@@ -134,6 +134,37 @@ Each entry resolves to a feed in priority order: explicit `feed` URL, then
 log (it prints the resolved feed for each show) and pin anything that matched
 the wrong podcast with an exact `feed` URL or `itunesId`.
 
+## Private / paid feeds (Substack, Patreon) — via GitHub Secrets
+
+Paid podcasts hand you a **private RSS URL** with a secret token baked in (no
+password). To use one without committing the token to this public repo, a feed
+entry can read its URL from an environment variable instead:
+
+```json
+{ "name": "My Paid Show", "feedEnv": "SUBSTACK_FEED" }
+```
+
+Setup:
+
+1. **Get the private feed URL** — e.g. a paid Substack's "Listen in podcast
+   app" / RSS link, or Patreon's "Connect to podcast app" URL.
+2. Repo **Settings → Secrets and variables → Actions → New repository secret**.
+   Name it **`SUBSTACK_FEED`**, paste the URL, save.
+3. `feeds.json` already ships the entry above. Rename `"name"` to the show if
+   you like. The fetcher reads the URL from the Secret at build time — the
+   token never touches the repo (it's skipped with a log line until the Secret
+   exists).
+4. Run the workflow (or wait for the 6h cron); the show appears.
+
+Add more private feeds by creating another Secret, mapping it under `env:` in
+`.github/workflows/refresh-podcasts.yml`, and adding another `feedEnv` entry.
+
+**Security caveat:** the Secret hides the feed *token*, but the generated
+`podcasts.json` is public (GitHub Pages) and lists the episode media URLs. If
+those URLs are themselves tokenized, they're exposed to anyone reading the repo.
+For genuinely private content use a **private repo** (Pages then needs a paid
+GitHub plan), or download those episodes and self-host them.
+
 ## Refreshing
 
 - **Automatic:** `.github/workflows/refresh-podcasts.yml` runs every 6 hours

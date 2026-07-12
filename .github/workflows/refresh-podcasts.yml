@@ -31,6 +31,11 @@ jobs:
           python-version: '3.x'
 
       - name: Build podcasts.json
+        env:
+          # Private/paid feed URLs live in repo Secrets, never in the code. Add
+          # one Secret per private feed and map it here, then reference it from
+          # feeds.json with { "name": "...", "feedEnv": "SUBSTACK_FEED" }.
+          SUBSTACK_FEED: ${{ secrets.SUBSTACK_FEED }}
         run: python3 feed2json.py
 
       - name: Commit if changed

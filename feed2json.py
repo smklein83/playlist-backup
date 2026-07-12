@@ -14,6 +14,7 @@ stdlib only, no pip installs. Run from the repo root:  python3 feed2json.py
 """
 
 import json
+import os
 import sys
 import time
 import urllib.parse
@@ -43,7 +44,11 @@ def itunes(path):
 
 
 def resolve_feed(show):
-    """Return (feed_url, resolved_name). Explicit feed > iTunes id > search."""
+    """Return (feed_url, resolved_name). feedEnv > explicit feed > iTunes id > search."""
+    if show.get('feedEnv'):
+        # Private/paid feed URL kept in an env var (a GitHub Actions Secret), so
+        # the token never lives in the repo. Empty/unset -> skip quietly.
+        return (os.environ.get(show['feedEnv'], '').strip() or None), show.get('name')
     if show.get('feed'):
         return show['feed'], show.get('name')
     if show.get('itunesId'):
@@ -100,6 +105,10 @@ def main():
     shows = []
     for show in feeds:
         name = show.get('name') or show.get('search') or 'Show'
+        if show.get('feedEnv') and not os.environ.get(show['feedEnv'], '').strip():
+            print('  - %-22s private feed: secret %s not set — skipping' % (name, show['feedEnv']),
+                  file=sys.stderr)
+            continue
         try:
             feed_url, resolved = resolve_feed(show)
         except Exception as e:
