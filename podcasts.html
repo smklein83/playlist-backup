@@ -1,0 +1,418 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- Don't let the glasses browser serve a stale build after a deploy. -->
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <!-- MRBD conventions -->
+  <meta name="viewport" content="width=600, height=600, initial-scale=1.0, user-scalable=no">
+  <meta name="description" content="Podcast player for Meta Ray-Ban Display">
+  <meta name="mrbd-web-app-capable" content="yes">
+  <title>Glasses Podcasts</title>
+  <style>
+    html, body {
+      margin: 0;
+      width: 600px;
+      height: 600px;
+      background: #000;            /* pure black = transparent on the additive display */
+      overflow: hidden;
+      font-family: system-ui, sans-serif;
+      color: #cfefff;
+    }
+    [hidden] { display: none !important; }
+
+    /* ---- Shared list screens ---- */
+    .screen { display: flex; flex-direction: column; height: 600px; }
+    .title {
+      height: 52px; line-height: 52px;
+      text-align: center; font-size: 24px; color: #9fe8ff;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis; padding: 0 12px;
+    }
+    .list {
+      flex: 1 1 auto;
+      display: flex; flex-direction: column; gap: 12px;
+      padding: 8px 12px; overflow-y: auto;
+    }
+    .row {
+      min-height: 92px;             /* glasses minimum tap target */
+      text-align: left; padding: 10px 16px;
+      font-size: 23px; font-weight: 600;
+      color: #cfefff; background: #101418;
+      border: 2px solid #2a3a44; border-radius: 14px;
+      transition: all 150ms ease;
+    }
+    .row:focus {
+      outline: none;
+      color: #ffffff;
+      border-color: #00d4ff;
+      box-shadow: 0 0 20px rgba(0, 212, 255, 0.45);
+      background: #0a2a36;
+    }
+    .row .meta { display: block; margin-top: 4px; font-size: 15px; font-weight: 400; color: #6fb8d4; }
+    .row.done { opacity: 0.55; }
+    .row.done .check { color: #00d4ff; }
+    .back { color: #9fe8ff; }
+    .hint {
+      height: 28px; line-height: 28px;
+      text-align: center; font-size: 16px; color: #6fb8d4;
+    }
+
+    /* ---- Player screen ---- */
+    #player-screen { display: flex; flex-direction: column; height: 600px; }
+    #status {
+      height: 30px; line-height: 30px;
+      text-align: center; font-size: 20px; color: #9fe8ff;
+    }
+    #show-name {
+      height: 24px; line-height: 24px;
+      text-align: center; font-size: 16px; color: #6fb8d4;
+    }
+    #ep-title {
+      flex: 1 1 auto;
+      display: flex; align-items: center; justify-content: center;
+      padding: 6px 20px; text-align: center;
+      font-size: 26px; font-weight: 600; color: #ffffff;
+      overflow: hidden;
+    }
+    #time {
+      height: 26px; line-height: 26px;
+      text-align: center; font-size: 18px; color: #9fe8ff;
+      font-variant-numeric: tabular-nums;
+    }
+    #controls {
+      display: flex; justify-content: center; gap: 8px;
+      padding: 6px 4px;
+    }
+    #controls button {
+      flex: 1 1 0; max-width: 112px;
+      min-height: 92px;             /* glasses minimum tap target */
+      font-size: 22px; font-weight: 600;
+      color: #cfefff; background: #101418;
+      border: 2px solid #2a3a44; border-radius: 14px;
+      transition: all 150ms ease;
+    }
+    #controls button:focus {
+      outline: none;
+      color: #ffffff;
+      border-color: #00d4ff;
+      box-shadow: 0 0 20px rgba(0, 212, 255, 0.45);
+      background: #0a2a36;
+    }
+    #p-hint {
+      height: 24px; line-height: 24px;
+      text-align: center; font-size: 15px; color: #6fb8d4;
+    }
+    #err {
+      height: 38px; padding: 0 12px;
+      text-align: center; font-size: 15px; color: #ff8f8f;
+    }
+  </style>
+</head>
+<body>
+  <!-- Screen 1: pick a show. -->
+  <div id="shows-screen" class="screen">
+    <div class="title">Podcasts</div>
+    <div id="shows" class="list"></div>
+    <div id="shows-hint" class="hint">Swipe to choose &middot; Pinch to select</div>
+  </div>
+
+  <!-- Screen 2: pick an episode. -->
+  <div id="episodes-screen" class="screen" hidden>
+    <div id="episodes-title" class="title"></div>
+    <div id="episodes" class="list"></div>
+    <div class="hint">Swipe &middot; Pinch to play &middot; top row = back</div>
+  </div>
+
+  <!-- Screen 3: the player. -->
+  <div id="player-screen" hidden>
+    <div id="status">Loading&hellip;</div>
+    <div id="show-name"></div>
+    <div id="ep-title"></div>
+    <div id="time">0:00</div>
+    <div id="controls">
+      <button id="prev"   class="focusable">Prev</button>
+      <button id="toggle" class="focusable">Play</button>
+      <button id="next"   class="focusable">Next</button>
+      <button id="back15" class="focusable">&lt;15</button>
+      <button id="fwd30"  class="focusable">&gt;30</button>
+      <button id="speed2" class="focusable">2x</button>
+    </div>
+    <div id="p-hint">Swipe &middot; Pinch &middot; Prev &times;2 = episodes</div>
+    <div id="err"></div>
+  </div>
+
+  <script>
+    var DATA = { updated: 0, shows: [] };
+    var showIdx = -1, epIdx = -1;
+    var lastPrev = 0, lastSave = 0;
+
+    var audio = new Audio();
+    audio.preload = 'metadata';
+
+    function $(id) { return document.getElementById(id); }
+    function setStatus(t) { $('status').textContent = t; }
+    function setErr(t)    { $('err').textContent = t; }
+
+    function showScreen(which) {
+      $('shows-screen').hidden    = (which !== 'shows');
+      $('episodes-screen').hidden = (which !== 'episodes');
+      $('player-screen').hidden   = (which !== 'player');
+    }
+
+    // ---------- Progress memory (per episode, keyed by audio URL) ----------
+    function posKey(src)  { return 'pod:pos:'  + src; }
+    function doneKey(src) { return 'pod:done:' + src; }
+    function getPos(src)  { try { return parseFloat(localStorage.getItem(posKey(src))) || 0; } catch (e) { return 0; } }
+    function setPos(src, t) { try { localStorage.setItem(posKey(src), String(Math.floor(t))); } catch (e) {} }
+    function clearPos(src) { try { localStorage.removeItem(posKey(src)); } catch (e) {} }
+    function isDone(src)  { try { return localStorage.getItem(doneKey(src)) === '1'; } catch (e) { return false; } }
+    function markDone(src) { try { localStorage.setItem(doneKey(src), '1'); } catch (e) {} clearPos(src); }
+
+    // ---------- Formatting ----------
+    function fmtTime(s) {
+      if (!isFinite(s) || s < 0) { s = 0; }
+      s = Math.floor(s);
+      var h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), ss = s % 60;
+      var mm = (h && m < 10) ? '0' + m : String(m);
+      var pad = function (n) { return n < 10 ? '0' + n : String(n); };
+      return (h ? h + ':' + mm : m) + ':' + pad(ss);
+    }
+    function fmtDate(iso) {
+      if (!iso) { return ''; }
+      var d = new Date(iso);
+      if (isNaN(d.getTime())) { return ''; }
+      return d.toLocaleDateString(undefined, { month: 'short', day: 'numeric' });
+    }
+    function fmtAgo(epoch) {
+      if (!epoch) { return 'not refreshed yet'; }
+      var mins = Math.floor((Date.now() / 1000 - epoch) / 60);
+      if (mins < 1)   { return 'updated just now'; }
+      if (mins < 60)  { return 'updated ' + mins + 'm ago'; }
+      var h = Math.floor(mins / 60);
+      if (h < 24)     { return 'updated ' + h + 'h ago'; }
+      return 'updated ' + Math.floor(h / 24) + 'd ago';
+    }
+
+    // ---------- Screen 1: shows ----------
+    function renderShows() {
+      var box = $('shows');
+      box.innerHTML = '';
+      if (!DATA.shows.length) {
+        $('shows-hint').textContent = 'No episodes yet — the refresh hasn’t run. Try again soon.';
+        return;
+      }
+      $('shows-hint').textContent = 'Swipe to choose · Pinch to select · ' + fmtAgo(DATA.updated);
+      DATA.shows.forEach(function (sh, i) {
+        var b = document.createElement('button');
+        b.className = 'row focusable';
+        var n = sh.episodes ? sh.episodes.length : 0;
+        b.innerHTML = '';
+        b.appendChild(document.createTextNode(sh.name || ('Show ' + (i + 1))));
+        var m = document.createElement('span');
+        m.className = 'meta';
+        m.textContent = n + ' episode' + (n === 1 ? '' : 's');
+        b.appendChild(m);
+        b.addEventListener('click', function () { selectShow(i); });
+        box.appendChild(b);
+      });
+      showScreen('shows');
+      var first = box.querySelector('.row');
+      if (first) { first.focus(); }
+    }
+
+    // ---------- Screen 2: episodes ----------
+    function selectShow(i) {
+      showIdx = i;
+      renderEpisodes();
+    }
+    function renderEpisodes() {
+      var sh = DATA.shows[showIdx];
+      if (!sh) { renderShows(); return; }
+      $('episodes-title').textContent = sh.name || 'Episodes';
+      var box = $('episodes');
+      box.innerHTML = '';
+
+      var back = document.createElement('button');
+      back.className = 'row back focusable';
+      back.textContent = '‹ Back to shows';
+      back.addEventListener('click', backToShows);
+      box.appendChild(back);
+
+      (sh.episodes || []).forEach(function (ep, i) {
+        var b = document.createElement('button');
+        b.className = 'row focusable' + (isDone(ep.src) ? ' done' : '');
+        b.appendChild(document.createTextNode(ep.title || ('Episode ' + (i + 1))));
+        var m = document.createElement('span');
+        m.className = 'meta';
+        var bits = [];
+        if (fmtDate(ep.date)) { bits.push(fmtDate(ep.date)); }
+        if (ep.duration)      { bits.push(ep.duration); }
+        if (isDone(ep.src))   { bits.push('✓ played'); }
+        else if (getPos(ep.src) > 5) { bits.push('resume ' + fmtTime(getPos(ep.src))); }
+        m.textContent = bits.join('  ·  ');
+        b.appendChild(m);
+        b.addEventListener('click', function () { selectEpisode(i); });
+        box.appendChild(b);
+      });
+
+      showScreen('episodes');
+      var first = box.querySelector('.row');
+      if (first) { first.focus(); }
+    }
+    function backToShows() {
+      audio.pause();
+      showIdx = -1; epIdx = -1;
+      renderShows();
+    }
+
+    // ---------- Screen 3: player ----------
+    function selectEpisode(i) {
+      epIdx = i;
+      setErr('');
+      showScreen('player');
+      play();
+      $('toggle').focus();
+    }
+    function currentEp() {
+      var sh = DATA.shows[showIdx];
+      return sh && sh.episodes ? sh.episodes[epIdx] : null;
+    }
+    function play() {
+      var ep = currentEp();
+      if (!ep) { return; }
+      var sh = DATA.shows[showIdx];
+      $('show-name').textContent = sh.name || '';
+      $('ep-title').textContent = ep.title || '';
+      $('time').textContent = '0:00';
+      $('toggle').textContent = 'Play';
+      setStatus('Episode ' + (epIdx + 1) + ' of ' + sh.episodes.length);
+      audio.src = ep.src;
+      audio.playbackRate = 1;
+      audio.load();
+      var p = audio.play();      // pinch is a user gesture, so audio is allowed
+      if (p && p.catch) { p.catch(function () { $('toggle').textContent = 'Play'; setStatus('Press Play'); }); }
+    }
+
+    audio.addEventListener('loadedmetadata', function () {
+      var ep = currentEp();
+      if (!ep) { return; }
+      var resume = getPos(ep.src);
+      if (resume > 5 && isFinite(audio.duration) && resume < audio.duration - 10) {
+        try { audio.currentTime = resume; } catch (e) {}
+      }
+      $('time').textContent = fmtTime(audio.currentTime) + ' / ' + fmtTime(audio.duration);
+    });
+    audio.addEventListener('timeupdate', function () {
+      $('time').textContent = fmtTime(audio.currentTime) + ' / ' + fmtTime(audio.duration);
+      var ep = currentEp();
+      if (ep && audio.currentTime - lastSave >= 5) { lastSave = audio.currentTime; setPos(ep.src, audio.currentTime); }
+    });
+    audio.addEventListener('playing', function () { $('toggle').textContent = 'Pause'; setErr(''); });
+    audio.addEventListener('pause', function () {
+      if (!audio.ended) {
+        $('toggle').textContent = 'Play';
+        var ep = currentEp();
+        if (ep) { setPos(ep.src, audio.currentTime); }
+      }
+    });
+    audio.addEventListener('waiting', function () { setStatus('Buffering…'); });
+    audio.addEventListener('ended', function () {
+      var ep = currentEp();
+      if (ep) { markDone(ep.src); }
+      nextEpisode(true);
+    });
+    audio.addEventListener('error', function () {
+      setErr('Could not play this episode (skipping)');
+      nextEpisode(true);
+    });
+
+    function togglePlay() {
+      if (audio.paused) {
+        var p = audio.play();
+        if (p && p.catch) { p.catch(function () {}); }
+      } else { audio.pause(); }
+    }
+    function nextEpisode(auto) {
+      var sh = DATA.shows[showIdx];
+      if (!sh) { return; }
+      if (epIdx + 1 < sh.episodes.length) { epIdx++; lastSave = 0; play(); }
+      else { audio.pause(); setStatus('End of list'); $('toggle').textContent = 'Play'; if (!auto) { /* stay */ } }
+    }
+    function prevEpisode() {
+      if (epIdx > 0) { epIdx--; lastSave = 0; play(); }
+      else { setStatus('Newest episode'); }
+    }
+    function back15() { audio.currentTime = Math.max(0, audio.currentTime - 15); }
+    function fwd30()  {
+      var t = audio.currentTime + 30;
+      if (isFinite(audio.duration)) { t = Math.min(audio.duration, t); }
+      audio.currentTime = t;
+    }
+    function speed2() {
+      audio.playbackRate = audio.playbackRate === 2 ? 1 : 2;
+      setStatus('Speed ' + audio.playbackRate + 'x');
+    }
+
+    // Prev twice within 2s = back to the episode list. A single Prev = previous episode.
+    $('prev').addEventListener('click', function () {
+      var now = Date.now();
+      if (now - lastPrev <= 2000) { lastPrev = 0; audio.pause(); renderEpisodes(); return; }
+      lastPrev = now; prevEpisode();
+    });
+    $('toggle').addEventListener('click', function () { lastPrev = 0; togglePlay(); });
+    $('next').addEventListener('click',   function () { lastPrev = 0; nextEpisode(false); });
+    $('back15').addEventListener('click', function () { lastPrev = 0; back15(); });
+    $('fwd30').addEventListener('click',  function () { lastPrev = 0; fwd30(); });
+    $('speed2').addEventListener('click', function () { lastPrev = 0; speed2(); });
+
+    // ---------- MRBD input: swipes = arrows (move focus), pinch/tap = Enter ----------
+    function visibleFocusables() {
+      return Array.prototype.slice.call(document.querySelectorAll('.row, .focusable'))
+        .filter(function (el) { return el.offsetParent !== null; });
+    }
+    function moveFocus(back) {
+      var f = visibleFocusables();
+      if (!f.length) { return; }
+      var i = f.indexOf(document.activeElement);
+      if (i === -1) { f[0].focus(); return; }
+      var n = back ? (i > 0 ? i - 1 : f.length - 1)
+                   : (i < f.length - 1 ? i + 1 : 0);
+      f[n].focus();
+    }
+    document.addEventListener('keydown', function (e) {
+      switch (e.key) {
+        case 'ArrowLeft':
+        case 'ArrowUp':    moveFocus(true);  break;
+        case 'ArrowRight':
+        case 'ArrowDown':  moveFocus(false); break;
+        case 'Enter':
+          if (document.activeElement && document.activeElement.classList &&
+              (document.activeElement.classList.contains('row') ||
+               document.activeElement.classList.contains('focusable'))) {
+            document.activeElement.click();
+          } else {
+            var first = visibleFocusables()[0];
+            if (first) { first.focus(); }
+          }
+          break;
+        default: return;
+      }
+      e.preventDefault();
+    });
+
+    // ---------- Boot ----------
+    function boot() {
+      fetch('podcasts.json', { cache: 'no-store' })
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .catch(function () { return null; })
+        .then(function (data) {
+          if (data && data.shows) { DATA = data; }
+          renderShows();
+        });
+    }
+    boot();
+  </script>
+</body>
+</html>

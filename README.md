@@ -93,3 +93,57 @@ Practical notes:
 - Only add content you have the right to copy. Your own YouTube uploads
   can be downloaded legitimately from YouTube Studio; ripping other
   people's videos is against YouTube's terms.
+
+# Podcast player (audio) — `podcasts.html`
+
+A sibling app at **`/podcasts.html`** that plays podcasts instead of YouTube.
+Podcasts are distributed as open RSS feeds with direct audio URLs, so this
+path **never touches YouTube and can't be bot-walled** — no sign-in, no embed,
+nothing to flag. It reuses the same lens UI and input model (swipe = move,
+pinch = select), with a **shows → episodes → player** flow, per-episode
+**resume**, and a ✓ on finished episodes.
+
+## How the data gets there (no browser CORS problem)
+
+A browser on `github.io` can't reliably `fetch()` a cross-origin RSS feed
+(most hosts don't send CORS headers). So the feeds are fetched **server-side**
+and baked into a static `podcasts.json` that the app reads same-origin; the
+audio itself streams live from the publisher (media elements don't enforce
+CORS). Only the *episode list* is as fresh as the last refresh — the audio is
+never stale, and these shows publish at most daily.
+
+```
+feeds.json  ──►  feed2json.py  ──►  podcasts.json  ──►  podcasts.html
+ (shows)         (Action / local)     (committed)         (on Pages)
+```
+
+## Choosing shows — `feeds.json`
+
+Each entry resolves to a feed in priority order: explicit `feed` URL, then
+`itunesId`, then an iTunes `search` term.
+
+```json
+[
+  { "name": "The Ezra Klein Show", "search": "The Ezra Klein Show" },
+  { "name": "All-In",              "itunesId": 1502871393 },
+  { "name": "My Show",             "feed": "https://example.com/rss" }
+]
+```
+
+`search` is convenient but fuzzy — after the first refresh, check the Action
+log (it prints the resolved feed for each show) and pin anything that matched
+the wrong podcast with an exact `feed` URL or `itunesId`.
+
+## Refreshing
+
+- **Automatic:** `.github/workflows/refresh-podcasts.yml` runs every 6 hours
+  (and on any change to `feeds.json`), regenerates `podcasts.json`, and commits
+  it. Scheduled runs only fire from the **default branch**, so this starts
+  working once the workflow is on `main`.
+- **On demand:** the same workflow has a "Run workflow" button
+  (`workflow_dispatch`).
+- **Locally:** `python3 feed2json.py` (stdlib only) writes `podcasts.json`;
+  commit it yourself.
+
+Controls match the video player: Prev, Play/Pause, Next, `<15`, `>30`, `2x`.
+**Prev ×2** within 2 seconds jumps back to the episode list.
