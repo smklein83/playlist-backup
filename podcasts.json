@@ -1,5 +1,5 @@
 {
-  "updated": 1783891676,
+  "updated": 1783892115,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -401,26 +401,6 @@
           "type": "audio/mpeg",
           "date": "2021-01-13T01:40:00+00:00",
           "duration": "00:02:12"
-        }
-      ]
-    },
-    {
-      "name": "The Argument",
-      "feed": "https://feeds.simplecast.com/p5iAFWNi",
-      "episodes": [
-        {
-          "title": "Is It Time to Break Up With Your Political Party?",
-          "src": "https://nyt.simplecastaudio.com/1fe58c15-392f-4bd2-9c69-5e2935220d3c/episodes/04ed6a25-0c6f-440a-a1fa-25bcff0148bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=1fe58c15-392f-4bd2-9c69-5e2935220d3c&awEpisodeId=04ed6a25-0c6f-440a-a1fa-25bcff0148bf&feed=p5iAFWNi",
-          "type": "audio/mpeg",
-          "date": "2022-12-14T10:00:00+00:00",
-          "duration": "00:38:56"
-        },
-        {
-          "title": "Should America Intervene in Haiti? ‘Go to Hell’ and Other Views",
-          "src": "https://nyt.simplecastaudio.com/1fe58c15-392f-4bd2-9c69-5e2935220d3c/episodes/1f8f2402-a0c9-4036-a360-6efcd1aa4e0d/audio/128/default.mp3?aid=rss_feed&awCollectionId=1fe58c15-392f-4bd2-9c69-5e2935220d3c&awEpisodeId=1f8f2402-a0c9-4036-a360-6efcd1aa4e0d&feed=p5iAFWNi",
-          "type": "audio/mpeg",
-          "date": "2022-12-07T10:00:00+00:00",
-          "duration": "00:29:30"
         }
       ]
     },
