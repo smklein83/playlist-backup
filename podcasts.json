@@ -1,5 +1,5 @@
 {
-  "updated": 1783892115,
+  "updated": 1783892641,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -582,6 +582,549 @@
           "type": "audio/mpeg",
           "date": "2025-03-18T09:00:00+00:00",
           "duration": "00:52:56"
+        }
+      ]
+    },
+    {
+      "name": "TBPN",
+      "feed": "https://feeds.transistor.fm/technology-brother",
+      "episodes": [
+        {
+          "title": "GPT-5.6 Reactions, Phoebe Gates’ Phia Drama, Hollywood Chases Internet Horror | Diet TBPN",
+          "src": "https://media.transistor.fm/d98b6530/02b41907.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-10T16:45:22-07:00",
+          "duration": "1955"
+        },
+        {
+          "title": "Hollywood Chases Internet Horror, Love Island Prediction Markets, Phoebe Gates Affiliate Drama, 𝕏 Timeline Reactions & More",
+          "src": "https://media.transistor.fm/54cb7d97/f775df17.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-10T13:27:27-07:00",
+          "duration": "6590"
+        },
+        {
+          "title": "Model Mayhem: OpenAI’s 5.6 and Meta’s Muse Spark 1.1 | Diet TBPN",
+          "src": "https://media.transistor.fm/d392269c/29261fa4.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-09T16:02:10-07:00",
+          "duration": "1475"
+        },
+        {
+          "title": "Meta Releases Muse 1.1, GPT-5.6 Sol Reactions, New Robot Hand Alert | Eric Seufert, Bernt Børnich, Josh Lindgren, Jeffrey Morgan, Thibault Sottiaux, Sean Frank",
+          "src": "https://media.transistor.fm/5676e6f2/bdd1c058.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-09T13:45:45-07:00",
+          "duration": "8576"
+        },
+        {
+          "title": "Blue Origin Raises Capital, Getty-Shutterstock Deal Dies, GPT-5.6 Launches Tomorrow | Diet TBPN",
+          "src": "https://media.transistor.fm/60d3d67b/56a35324.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-08T17:18:45-07:00",
+          "duration": "1686"
+        },
+        {
+          "title": "Ben Thompson Explains the XBOX Disaster",
+          "src": "https://media.transistor.fm/d9234efb/7648862c.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-08T15:03:36-07:00",
+          "duration": "1663"
+        },
+        {
+          "title": "GPT-5.6 Sol Reactions, Coatue Bets Big on Blue Origin, Cheaper Vision Pro Delayed | Vincent Weisser, Ben Thompson, Rodrigo Liang, Alana Palmedo, Byron Boots, Will Mayer, Tucker Brown",
+          "src": "https://media.transistor.fm/bed12620/3c2c4e27.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-08T14:27:33-07:00",
+          "duration": "9877"
+        },
+        {
+          "title": "China Considers AI Export Controls, SK Hynix Eyes $28B IPO, Banks Target Payment Business | Diet TBPN",
+          "src": "https://media.transistor.fm/0a812114/bd78cd7b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-07T17:48:16-07:00",
+          "duration": "1504"
+        },
+        {
+          "title": "China Export Controls, Jeremy Giffon Breaks Silence, Alex Hormozi in the Ultradome | Josh Zoffer, John McElhone, Deena Shakir, Hussein Fazal, John Nay",
+          "src": "https://media.transistor.fm/fc38ff83/4ca73845.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-07T13:45:03-07:00",
+          "duration": "8391"
+        },
+        {
+          "title": "Alex Hormozi's Playbook for Building Billion-Dollar Businesses",
+          "src": "https://media.transistor.fm/0165318c/df50fbb0.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-07T13:25:21-07:00",
+          "duration": "3642"
+        },
+        {
+          "title": "XBOX Layoffs, Tesla's New Model Y, $12.8M Lottery Dispute | Diet TBPN",
+          "src": "https://media.transistor.fm/a54882ec/13488a55.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-06T18:06:51-07:00",
+          "duration": "1830"
+        },
+        {
+          "title": "XBOX Layoffs, \"Manual\" Ferrari, Circle K Lottery Dispute | Baiju Bhatt, Daniel English, Michele Catasta",
+          "src": "https://media.transistor.fm/5fcc7e7e/6ee348b3.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-06T13:32:29-07:00",
+          "duration": "7558"
+        },
+        {
+          "title": "Jersey Mikes's IPO, AI Lab Nationalization, SpaceX AIPhone | Diet TBPN",
+          "src": "https://media.transistor.fm/8ec2c53c/1ef039db.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-02T17:55:05-07:00",
+          "duration": "1868"
+        },
+        {
+          "title": "SpaceX Phone, U.S. Stake in OpenAI, Jersey Mike's IPO | Andrew Collins, Vipul Ved Prakash, Isaiah Taylor, Dean Ball, Rob Toews, Tuhin Srivastava",
+          "src": "https://media.transistor.fm/eebe04f7/d079d4eb.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-02T13:51:28-07:00",
+          "duration": "8764"
+        },
+        {
+          "title": "The Meta Compute Debate | Diet TBPN",
+          "src": "https://media.transistor.fm/61fbb0dd/47992973.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-01T19:47:11-07:00",
+          "duration": "1409"
+        },
+        {
+          "title": "MetaCloud, Bending Spoons IPO with Founder Luca Ferrari, Amble Founder Joins | Mark Pincus, Shubh Sinha, Wayne Ting, Jeffery Liu & Jon Wang, Eliot Pence, Luca Ferrari, Nick Grossman, Julian Hoenig",
+          "src": "https://media.transistor.fm/d5a4b762/927362ec.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-01T14:18:55-07:00",
+          "duration": "9418"
+        },
+        {
+          "title": "Rocket Lab Enters SpaceX Arena, Meta’s Prediction Market, America’s Tech Wishlist | Diet TBPN",
+          "src": "https://media.transistor.fm/b343e9fe/094fd0fa.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-30T19:24:39-07:00",
+          "duration": "1965"
+        },
+        {
+          "title": "America's Tech Wishlist, Comcast Splits in Two, Tristan Thompson in the Ultradome | Zach Laberge, Gavin Uberti, Eren Bali, Larsen Jensen, Ricky Rosa, Andrew Rea, Michael Anderson, Tristan Thompson, Grant Gregory & Ian Rountree",
+          "src": "https://media.transistor.fm/e6565b95/82547d1b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-30T14:48:34-07:00",
+          "duration": "10473"
+        },
+        {
+          "title": "Open Source vs. Closed Source, Memory Chips Eat AI Profits, Comcast Restructures | Diet TBPN",
+          "src": "https://media.transistor.fm/f51867af/d0d7f5ee.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-29T16:55:02-07:00",
+          "duration": "1927"
+        },
+        {
+          "title": "Open-Source AI Battle, Google Throttles Meta, Micron Margins Moon | Edward Coristine & Tai Groot, Chad Rigetti, Pim de Witte, Yadin Soffer, Jack Morris, Neil Movva, Jakob Diepenbrock, Chris Altchek",
+          "src": "https://media.transistor.fm/66c0ffeb/5d14456f.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-29T13:43:58-07:00",
+          "duration": "8459"
+        },
+        {
+          "title": "Shifts In The Creator Economy, Kylie Jenner x Meta, GPT 5.6 Limited Release | Diet TBPN",
+          "src": "https://media.transistor.fm/1d14f184/85c1a286.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-26T19:10:00-07:00",
+          "duration": "1932"
+        },
+        {
+          "title": "Mini Truck Boom, Kylie and Zuck vs Spiegel and RDJ, Europe Considers AC",
+          "src": "https://media.transistor.fm/b0c102e1/4ad19d2b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-26T13:52:58-07:00",
+          "duration": "8247"
+        },
+        {
+          "title": "Midjourney Goes Medical, Noam Shazeer & Dean Ball Join OpenAI | Diet TBPN",
+          "src": "https://media.transistor.fm/957bef2c/d619c8e3.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-18T18:56:32-07:00",
+          "duration": "1651"
+        },
+        {
+          "title": "Jake Paul Thinks We'll Live Forever",
+          "src": "https://media.transistor.fm/4ed8418d/ed7ec161.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-18T15:20:23-07:00",
+          "duration": "1830"
+        },
+        {
+          "title": "Midjourney Medical, AI Talent Wars 2.0, Jake Paul Joins | Derek Thompson, Rene Haas, Robert Slaughter, Rob Reid, Thais Castello Branco, David Senra, Jake Paul & Geoffrey Woo",
+          "src": "https://media.transistor.fm/6eb6780f/2582ea90.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-18T15:05:43-07:00",
+          "duration": "13296"
+        }
+      ]
+    },
+    {
+      "name": "Dwarkesh Podcast",
+      "feed": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
+      "episodes": [
+        {
+          "title": "Adam Brown – A deep but accessible introduction to general relativity",
+          "src": "https://api.substack.com/feed/podcast/206445844/59f976809738bf5ad158b7617346dda3.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-10T16:23:56+00:00",
+          "duration": "5904"
+        },
+        {
+          "title": "Grant Sanderson – AI and the future of math",
+          "src": "https://api.substack.com/feed/podcast/204275916/5f3632cca68272c292349f10debc3573.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-30T15:53:19+00:00",
+          "duration": "5619"
+        },
+        {
+          "title": "The next big breakthrough will be AIs learning on the job",
+          "src": "https://api.substack.com/feed/podcast/203704568/b3a3986f8a780f554393d02d34bdcf51.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-26T15:51:34+00:00",
+          "duration": "1193"
+        },
+        {
+          "title": "The data black hole at the center of AI",
+          "src": "https://api.substack.com/feed/podcast/202734201/6bfb394237f089ea0355b8632dfa3537.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-19T16:45:03+00:00",
+          "duration": "717"
+        },
+        {
+          "title": "Ada Palmer – Machiavelli is the most misunderstood thinker of all time",
+          "src": "https://api.substack.com/feed/podcast/202271948/4c92db6bd398d39a8e70cbea4a732f3f.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-16T17:27:51+00:00",
+          "duration": "7700"
+        },
+        {
+          "title": "Alex Imas and Phil Trammell – What remains scarce after AGI?",
+          "src": "https://api.substack.com/feed/podcast/200613353/da820d19eca949d5e111f641ab5e378d.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-06-04T16:14:49+00:00",
+          "duration": "4568"
+        },
+        {
+          "title": "Reiner Pope – Chip design from the bottom up",
+          "src": "https://api.substack.com/feed/podcast/198847047/4554a355fabc7d08073d273fc9f192d4.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-05-22T15:38:34+00:00",
+          "duration": "4830"
+        },
+        {
+          "title": "Eric Jang – Building AlphaGo from scratch",
+          "src": "https://api.substack.com/feed/podcast/197852876/5642f97b323e24b00efd0d89ace15d58.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-05-15T16:04:58+00:00",
+          "duration": "9449"
+        },
+        {
+          "title": "David Reich – Why the Bronze Age was an inflection point in human evolution",
+          "src": "https://api.substack.com/feed/podcast/196892360/60c5fc38586fe814f5fd91f0895a59c1.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-05-08T16:38:22+00:00",
+          "duration": "8000"
+        },
+        {
+          "title": "Reiner Pope – The math behind how LLMs are trained and served",
+          "src": "https://api.substack.com/feed/podcast/195859978/d0ec0edfef14862f0fc2e095a1ee64b0.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-04-29T17:07:03+00:00",
+          "duration": "8030"
+        },
+        {
+          "title": "Jensen Huang – TPU competition, why we should sell chips to China, & Nvidia’s supply chain moat",
+          "src": "https://api.substack.com/feed/podcast/194289889/4ad9f4582dd59f13b5a5cc452125b1f6.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-04-15T15:45:23+00:00",
+          "duration": "6192"
+        },
+        {
+          "title": "Michael Nielsen – How science actually progresses",
+          "src": "https://api.substack.com/feed/podcast/193466212/e5343bce6cf37efafa778abc5594aa67.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-04-07T15:49:28+00:00",
+          "duration": "7383"
+        },
+        {
+          "title": "Terence Tao – Kepler, Newton, and the true nature of mathematical discovery",
+          "src": "https://api.substack.com/feed/podcast/191582481/09bfc20781f3d248e53c5f3350823514.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-03-20T16:00:55+00:00",
+          "duration": "5024"
+        },
+        {
+          "title": "Dylan Patel — Deep dive on the 3 big bottlenecks to scaling AI compute",
+          "src": "https://api.substack.com/feed/podcast/190839917/e3c75a06762af10f374661e8af1d1af6.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-03-13T16:00:42+00:00",
+          "duration": "9044"
+        },
+        {
+          "title": "The most important question nobody's asking about AI",
+          "src": "https://api.substack.com/feed/podcast/190633588/94a1857634f9ebd3857e20d95893ec75.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-03-11T18:55:20+00:00",
+          "duration": "1478"
+        },
+        {
+          "title": "Why Leonardo was a saboteur, Gutenberg went broke, and Florence was weird – Ada Palmer",
+          "src": "https://api.substack.com/feed/podcast/190118311/8c3433af58d7b7ad7ee60c28c569017a.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-03-06T17:14:20+00:00",
+          "duration": "7339"
+        },
+        {
+          "title": "Dario Amodei — \"We are near the end of the exponential\"",
+          "src": "https://api.substack.com/feed/podcast/187852154/cecdbe38125e2786cbfebe31dd083d4f.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-02-13T16:46:36+00:00",
+          "duration": "8540"
+        },
+        {
+          "title": "Elon Musk — \"In 36 months, the cheapest place to put AI will be space”",
+          "src": "https://api.substack.com/feed/podcast/186967347/7e1421b0bbe8243af32f70dda75bef63.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-02-05T16:45:08+00:00",
+          "duration": "10185"
+        },
+        {
+          "title": "Adam Marblestone — AI is missing something fundamental about the brain",
+          "src": "https://api.substack.com/feed/podcast/182960540/b1d297278a7f613027bddbaa7f0efcb7.mp3",
+          "type": "audio/mpeg",
+          "date": "2025-12-30T17:07:17+00:00",
+          "duration": "6593"
+        },
+        {
+          "title": "Thoughts on AI progress (Dec 2025)",
+          "src": "https://api.substack.com/feed/podcast/182443852/96b56036528bac04a698ae3a0a775b6c.mp3",
+          "type": "audio/mpeg",
+          "date": "2025-12-23T20:24:48+00:00",
+          "duration": "748"
+        },
+        {
+          "title": "Sarah Paine — Why Russia Lost the Cold War",
+          "src": "https://api.substack.com/feed/podcast/182083324/a9228654256b25131ba83e82fb0db5da.mp3",
+          "type": "audio/mpeg",
+          "date": "2025-12-19T17:41:19+00:00",
+          "duration": "6895"
+        },
+        {
+          "title": "Ilya Sutskever — We're moving from the age of scaling to the age of research",
+          "src": "https://api.substack.com/feed/podcast/179924094/8fff4c8da77eff5a44fad5d13ae599e2.mp3",
+          "type": "audio/mpeg",
+          "date": "2025-11-25T17:04:02+00:00",
+          "duration": "5763"
+        },
+        {
+          "title": "Satya Nadella — How Microsoft is preparing for AGI",
+          "src": "https://api.substack.com/feed/podcast/178688356/17d73f3abbe37253ebebe0113754e6d5.mp3",
+          "type": "audio/mpeg",
+          "date": "2025-11-12T17:03:08+00:00",
+          "duration": "5267"
+        },
+        {
+          "title": "Sarah Paine — How Russia sabotaged China's rise",
+          "src": "https://api.substack.com/feed/podcast/177641179/7438c63434262b0f316c17d347d058c1.mp3",
+          "type": "audio/mpeg",
+          "date": "2025-10-31T15:01:37+00:00",
+          "duration": "5436"
+        },
+        {
+          "title": "Andrej Karpathy — AGI is still a decade away",
+          "src": "https://api.substack.com/feed/podcast/176425744/3127b612a1604474d2b28ab4e9b658f4.mp3",
+          "type": "audio/mpeg",
+          "date": "2025-10-17T16:54:33+00:00",
+          "duration": "8719"
+        }
+      ]
+    },
+    {
+      "name": "Odd Lots",
+      "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/podcast.rss",
+      "episodes": [
+        {
+          "title": "The Korean Levered ETFs Shaking Markets All Around the World",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/59c7d65a-dfbb-447c-8ed4-b482014569c9/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-07-10T08:00:00+00:00",
+          "duration": "2608"
+        },
+        {
+          "title": "One of the World's Largest Hedge Funds on Its 86x Growth in Token Spending",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ee665e22-5abb-4981-a58d-b481016ff97e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-07-09T08:00:00+00:00",
+          "duration": "3149"
+        },
+        {
+          "title": "These Are the Sharps Actually Making Money on Prediction Markets",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/7ed31c1e-3cf5-467d-a302-b47b014db8c5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-07-06T08:00:00+00:00",
+          "duration": "2901"
+        },
+        {
+          "title": "How a Major Grocery Store Chain Can Dramatically Lower the Cost of Food",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8e5cf07d-8bf4-43a2-9703-b47b014a5166/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-07-03T08:00:00+00:00",
+          "duration": "3030"
+        },
+        {
+          "title": "What Dan Wang Saw on His Last Trip to China",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/6f683bb0-bf70-4fb7-8c81-b47a013f78c2/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-07-02T08:00:00+00:00",
+          "duration": "2929"
+        },
+        {
+          "title": "Baidu's CFO on How It Became a Full-Stack AI Player",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f5c05315-7559-4fa4-a6da-b47400f7cb90/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-06-29T08:00:00+00:00",
+          "duration": "2852"
+        },
+        {
+          "title": "How Lenovo's CFO Is Allocating Capital During One of History's Biggest Booms",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b1fa9369-e153-4071-8b62-b47400f4a30f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-06-27T08:00:00+00:00",
+          "duration": "3372"
+        },
+        {
+          "title": "Rory Johnston on Why His $200 Oil Prediction Didn't Turn Out Right",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/774dd005-8b31-4ba1-9549-b474011e8753/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-06-26T08:00:00+00:00",
+          "duration": "1935"
+        },
+        {
+          "title": "How the 1994 World Cup Transformed the Business of Football Forever",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/c2695185-bd74-4f28-9efa-b47300f4a97a/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-06-25T08:00:00+00:00",
+          "duration": "3044"
+        },
+        {
+          "title": "Grace Shao on What the World Should Know About Chinese AI",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ec8ef41e-9021-43ba-a6fb-b46d013a0fc5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-06-22T08:00:00+00:00",
+          "duration": "3064"
+        },
+        {
+          "title": "How Substack Creators Are Covering This Strange Markets Era",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/af2e1113-d234-4b94-89ce-b46d0139fa3f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-06-20T08:00:00+00:00",
+          "duration": "1874"
+        },
+        {
+          "title": "Anthropic's Co-Founder and Top Economist on Doing Research at the AI Frontier",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3b7f6933-fbbc-4e6e-a0de-b46d00ff8723/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-06-19T08:00:00+00:00",
+          "duration": "3986"
+        },
+        {
+          "title": "Jeremy Grantham on How to Tell If a Bubble Is About to Burst",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/60f6b6ac-8fe5-49e8-80a2-b46c01750478/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-06-18T08:00:00+00:00",
+          "duration": "3580"
+        },
+        {
+          "title": "The Iran War’s Lasting Scars Across Asia",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bd6581ca-5dff-41c1-b4c5-b46b01441d87/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-06-16T20:00:00+00:00",
+          "duration": "1204"
+        },
+        {
+          "title": "Carmen Li's Plan to Build a Futures Market for Compute",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/60472ab3-350e-4e47-a612-b4670121babd/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-06-15T08:00:00+00:00",
+          "duration": "1976"
+        },
+        {
+          "title": "Anjney Midha's Plan to Radically Lower the Price of Compute",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/90cd8aa8-11c9-4cd3-813a-b467011c7f57/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-06-13T08:00:00+00:00",
+          "duration": "3021"
+        },
+        {
+          "title": "How a Vibecoded Newsletter Is Making the Hay Market More Transparent",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3cfa0968-658f-4cce-a2df-b466015e5042/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-06-12T08:00:00+00:00",
+          "duration": "2427"
+        },
+        {
+          "title": "Why Tomatoes Are the Most Expensive They've Been in Four Decades",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bb971e9b-4530-4ff9-bd68-b46500d94544/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-06-11T08:00:00+00:00",
+          "duration": "3295"
+        },
+        {
+          "title": "How CoreWeave Sees the Market for Compute Right Now",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/450514c3-2648-49a8-9794-b46000d1738a/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-06-08T08:00:00+00:00",
+          "duration": "3050"
+        },
+        {
+          "title": "Why Susquehanna Is Building a Prediction Markets Business",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ba11bcd6-2009-4d79-98f8-b46001259850/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-06-06T08:00:00+00:00",
+          "duration": "1916"
+        },
+        {
+          "title": "Inside Hudson River Trading's Blistering Token Burn",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/02b9e5a8-91d2-4e4e-a6a7-b45f0138ad2f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-06-05T08:00:00+00:00",
+          "duration": "1880"
+        },
+        {
+          "title": "Goldman Sachs CEO David Solomon on Running a Bank in the Age of AI",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bf5b0ae1-c442-4354-8c4f-b45f00126aa1/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-06-04T08:00:00+00:00",
+          "duration": "3944"
+        },
+        {
+          "title": "The Hidden Plumbing of Commodity Finance",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/9d19da5c-6eca-418c-9fda-b4590139c80f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-06-01T08:00:00+00:00",
+          "duration": "2776"
+        },
+        {
+          "title": "How the Invention of Rope Gave Us Modern Civilization",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/019909ba-ab60-4975-bbb2-b45900e53a59/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-05-30T08:00:00+00:00",
+          "duration": "2211"
+        },
+        {
+          "title": "Gita Gopinath on Why Interest Rates Have Surged All Around the World",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4fea018c-8268-43c3-bdb9-b45801086d9d/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-05-29T08:00:00+00:00",
+          "duration": "3104"
         }
       ]
     }
