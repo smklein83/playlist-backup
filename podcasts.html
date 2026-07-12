@@ -76,6 +76,10 @@
       font-size: 26px; font-weight: 600; color: #ffffff;
       overflow: hidden;
     }
+    /* Video episodes: show the frame and shrink the title to a caption. */
+    #media { display: none; width: 600px; height: 338px; background: #000; }
+    #player-screen.video #media { display: block; }
+    #player-screen.video #ep-title { flex: 0 0 auto; font-size: 17px; padding: 4px 20px; }
     #time {
       height: 26px; line-height: 26px;
       text-align: center; font-size: 18px; color: #9fe8ff;
@@ -141,6 +145,7 @@
   <div id="player-screen" hidden>
     <div id="status">Loading&hellip;</div>
     <div id="show-name"></div>
+    <video id="media" playsinline></video>
     <div id="ep-title"></div>
     <div id="time">0:00</div>
     <div id="controls">
@@ -164,7 +169,11 @@
     var showIdx = -1, epIdx = -1;
     var lastPrev = 0, lastSave = 0;
 
-    var audio = new Audio();
+    // `audio` is a <video> element so one code path plays both audio and video
+    // podcast enclosures. Audio-only episodes keep it hidden (CSS display:none)
+    // and just play sound; a video/* enclosure adds the .video class and shows
+    // the frame. Every HTMLMediaElement call below works identically on both.
+    var audio = document.getElementById('media');
     audio.preload = 'metadata';
 
     function $(id) { return document.getElementById(id); }
@@ -301,6 +310,7 @@
       var sh = DATA.shows[showIdx];
       $('show-name').textContent = sh.name || '';
       $('ep-title').textContent = ep.title || '';
+      $('player-screen').classList.toggle('video', (ep.type || '').indexOf('video') === 0);
       $('time').textContent = '0:00';
       $('toggle').textContent = 'Play';
       setStatus('Episode ' + (epIdx + 1) + ' of ' + sh.episodes.length);
