@@ -15,18 +15,21 @@ stdlib only, no pip installs. Run from the repo root:  python3 feed2json.py
 
 import json
 import os
+import re
 import sys
 import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
+from html.parser import HTMLParser
 
 FEEDS_FILE = 'feeds.json'
 OUT_FILE = 'podcasts.json'
 EPISODES_PER_SHOW = 25
 UA = 'glasses-podcasts/1.0 (+https://github.com/smklein83/playlist-backup)'
 ITUNES_NS = '{http://www.itunes.com/dtds/podcast-1.0.dtd}'
+CONTENT_NS = '{http://purl.org/rss/1.0/modules/content/}'
 
 
 def http_get(url, accept=None):
@@ -68,13 +71,45 @@ def text(el, tag, ns=''):
     return (child.text or '').strip() if child is not None else ''
 
 
-def parse_feed(xml_bytes, limit):
+class _Text(HTMLParser):
+    """Collapse post HTML to readable plain text for text-to-speech."""
+    def __init__(self):
+        HTMLParser.__init__(self, convert_charrefs=True)
+        self.parts, self.skip = [], 0
+
+    def handle_starttag(self, tag, attrs):
+        if tag in ('script', 'style'):
+            self.skip += 1
+        elif tag in ('p', 'br', 'div', 'li', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'tr'):
+            self.parts.append('\n')
+
+    def handle_endtag(self, tag):
+        if tag in ('script', 'style') and self.skip:
+            self.skip -= 1
+
+    def handle_data(self, data):
+        if not self.skip:
+            self.parts.append(data)
+
+
+def html_to_text(s):
+    if not s:
+        return ''
+    p = _Text()
+    try:
+        p.feed(s)
+        out = ''.join(p.parts)
+    except Exception:
+        out = re.sub(r'<[^>]+>', ' ', s)
+    out = re.sub(r'[ \t]+', ' ', out)
+    out = re.sub(r'\n\s*\n+', '\n\n', out)
+    return out.strip()
+
+
+def parse_feed(xml_bytes, limit, include_articles=False):
     root = ET.fromstring(xml_bytes)
     rows = []
     for it in root.findall('.//item'):
-        enc = it.find('enclosure')
-        if enc is None or not enc.get('url'):
-            continue                       # no downloadable media on this item
         raw_date = text(it, 'pubDate')
         ts, iso = -1.0, raw_date
         try:
@@ -83,13 +118,27 @@ def parse_feed(xml_bytes, limit):
                 ts, iso = dt.timestamp(), dt.isoformat()
         except Exception:
             pass
-        rows.append((ts, {
-            'title': text(it, 'title') or 'Untitled',
-            'src': enc.get('url'),
-            'type': enc.get('type', ''),
-            'date': iso,
-            'duration': text(it, 'duration', ITUNES_NS),
-        }))
+        title = text(it, 'title') or 'Untitled'
+        enc = it.find('enclosure')
+        if enc is not None and enc.get('url'):
+            etype = enc.get('type', '')
+            rows.append((ts, {
+                'kind': 'video' if etype.startswith('video') else 'audio',
+                'title': title,
+                'src': enc.get('url'),
+                'type': etype,
+                'date': iso,
+                'duration': text(it, 'duration', ITUNES_NS),
+            }))
+        elif include_articles:                 # text post — keep it for read-aloud
+            body = html_to_text(text(it, 'encoded', CONTENT_NS) or text(it, 'description'))
+            if body:
+                rows.append((ts, {
+                    'kind': 'article',
+                    'title': title,
+                    'date': iso,
+                    'text': body[:20000],
+                }))
     rows.sort(key=lambda r: r[0], reverse=True)   # newest first, whatever the feed order
     return [d for _, d in rows[:limit]]
 
@@ -120,7 +169,7 @@ def main():
         try:
             episodes = parse_feed(
                 http_get(feed_url, accept='application/rss+xml, application/xml, text/xml'),
-                EPISODES_PER_SHOW)
+                EPISODES_PER_SHOW, include_articles=bool(show.get('articles')))
         except Exception as e:
             print('  ! %-22s fetch/parse failed: %s' % (name, e), file=sys.stderr)
             continue

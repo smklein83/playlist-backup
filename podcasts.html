@@ -168,6 +168,7 @@
     var DATA = { updated: 0, shows: [] };
     var showIdx = -1, epIdx = -1;
     var lastPrev = 0, lastSave = 0;
+    var ttsRate = 1;                // read-aloud speed for articles
 
     // `audio` is a <video> element so one code path plays both audio and video
     // podcast enclosures. Audio-only episodes keep it hidden (CSS display:none)
@@ -266,16 +267,18 @@
       box.appendChild(back);
 
       (sh.episodes || []).forEach(function (ep, i) {
+        var k = keyOf(ep), article = kindOf(ep) === 'article';
         var b = document.createElement('button');
-        b.className = 'row focusable' + (isDone(ep.src) ? ' done' : '');
+        b.className = 'row focusable' + (isDone(k) ? ' done' : '');
         b.appendChild(document.createTextNode(ep.title || ('Episode ' + (i + 1))));
         var m = document.createElement('span');
         m.className = 'meta';
         var bits = [];
         if (fmtDate(ep.date)) { bits.push(fmtDate(ep.date)); }
-        if (ep.duration)      { bits.push(ep.duration); }
-        if (isDone(ep.src))   { bits.push('✓ played'); }
-        else if (getPos(ep.src) > 5) { bits.push('resume ' + fmtTime(getPos(ep.src))); }
+        if (article)          { bits.push('📄 ~' + readMins(ep) + ' min read'); }
+        else if (ep.duration) { bits.push(ep.duration); }
+        if (isDone(k))        { bits.push(article ? '✓ read' : '✓ played'); }
+        else if (!article && getPos(k) > 5) { bits.push('resume ' + fmtTime(getPos(k))); }
         m.textContent = bits.join('  ·  ');
         b.appendChild(m);
         b.addEventListener('click', function () { selectEpisode(i); });
@@ -287,9 +290,50 @@
       if (first) { first.focus(); }
     }
     function backToShows() {
-      audio.pause();
+      audio.pause(); stopSpeech();
       showIdx = -1; epIdx = -1;
       renderShows();
+    }
+
+    // ---------- Episode kind + storage key ----------
+    function kindOf(ep) {
+      return ep.kind || (ep.src ? ((ep.type || '').indexOf('video') === 0 ? 'video' : 'audio') : 'article');
+    }
+    function keyOf(ep) { return ep.src || ('art:' + (ep.date || '') + ':' + (ep.title || '')); }
+    function isArticleEp() { var ep = currentEp(); return !!ep && kindOf(ep) === 'article'; }
+    function readMins(ep) { return Math.max(1, Math.round((ep.text || '').split(/\s+/).length / 200)); }
+
+    // ---------- Article playback via text-to-speech ----------
+    // Chunk by sentence so long posts don't hit the browser's ~15s utterance
+    // cap; a token makes a superseded read (user switched away) stop cleanly.
+    var speakToken = 0;
+    function stopSpeech() { speakToken++; try { if (window.speechSynthesis) { speechSynthesis.cancel(); } } catch (e) {} }
+    function speakArticle(ep) {
+      if (!('speechSynthesis' in window) || typeof SpeechSynthesisUtterance === 'undefined') {
+        setErr('This browser can’t read aloud (no text-to-speech).');
+        setStatus('Can’t read article'); $('toggle').textContent = 'Play';
+        return;
+      }
+      var full = (ep.title ? ep.title + '. ' : '') + (ep.text || '');
+      var pieces = full.match(/[^.!?\n]+[.!?]*\s*|\n+/g) || [full];
+      var chunks = [], buf = '';
+      pieces.forEach(function (c) {
+        if ((buf + c).length > 220) { if (buf.trim()) { chunks.push(buf); } buf = c; }
+        else { buf += c; }
+      });
+      if (buf.trim()) { chunks.push(buf); }
+      var myToken = ++speakToken, idx = 0;
+      function next() {
+        if (myToken !== speakToken) { return; }         // superseded
+        if (idx >= chunks.length) { markDone(keyOf(ep)); nextEpisode(true); return; }
+        var u = new SpeechSynthesisUtterance(chunks[idx++]);
+        u.rate = ttsRate;
+        u.onend = next;
+        u.onerror = next;
+        try { speechSynthesis.speak(u); } catch (e) {}
+      }
+      setStatus('Reading…'); $('toggle').textContent = 'Pause';
+      next();
     }
 
     // ---------- Screen 3: player ----------
@@ -308,24 +352,33 @@
       var ep = currentEp();
       if (!ep) { return; }
       var sh = DATA.shows[showIdx];
+      var kind = kindOf(ep);
       $('show-name').textContent = sh.name || '';
       $('ep-title').textContent = ep.title || '';
-      $('player-screen').classList.toggle('video', (ep.type || '').indexOf('video') === 0);
-      $('time').textContent = '0:00';
+      $('player-screen').classList.toggle('video', kind === 'video');
+      $('player-screen').classList.toggle('article', kind === 'article');
       $('toggle').textContent = 'Play';
       setStatus('Episode ' + (epIdx + 1) + ' of ' + sh.episodes.length);
       updateMediaSession();
-      audio.src = ep.src;
-      audio.playbackRate = 1;
-      audio.load();
-      var p = audio.play();      // pinch is a user gesture, so audio is allowed
-      if (p && p.catch) { p.catch(function () { $('toggle').textContent = 'Play'; setStatus('Press Play'); }); }
+      stopSpeech();
+      if (kind === 'article') {
+        try { audio.pause(); } catch (e) {}
+        $('time').textContent = '📄 ~' + readMins(ep) + ' min read';
+        speakArticle(ep);
+      } else {
+        $('time').textContent = '0:00';
+        audio.src = ep.src;
+        audio.playbackRate = 1;
+        audio.load();
+        var p = audio.play();      // pinch is a user gesture, so audio is allowed
+        if (p && p.catch) { p.catch(function () { $('toggle').textContent = 'Play'; setStatus('Press Play'); }); }
+      }
     }
 
     audio.addEventListener('loadedmetadata', function () {
       var ep = currentEp();
       if (!ep) { return; }
-      var resume = getPos(ep.src);
+      var resume = getPos(keyOf(ep));
       if (resume > 5 && isFinite(audio.duration) && resume < audio.duration - 10) {
         try { audio.currentTime = resume; } catch (e) {}
       }
@@ -334,7 +387,7 @@
     audio.addEventListener('timeupdate', function () {
       $('time').textContent = fmtTime(audio.currentTime) + ' / ' + fmtTime(audio.duration);
       var ep = currentEp();
-      if (ep && audio.currentTime - lastSave >= 5) { lastSave = audio.currentTime; setPos(ep.src, audio.currentTime); }
+      if (ep && ep.src && audio.currentTime - lastSave >= 5) { lastSave = audio.currentTime; setPos(keyOf(ep), audio.currentTime); }
     });
     audio.addEventListener('playing', function () {
       $('toggle').textContent = 'Pause'; setErr('');
@@ -342,16 +395,15 @@
     });
     audio.addEventListener('pause', function () {
       if ('mediaSession' in navigator) { navigator.mediaSession.playbackState = 'paused'; }
-      if (!audio.ended) {
-        $('toggle').textContent = 'Play';
-        var ep = currentEp();
-        if (ep) { setPos(ep.src, audio.currentTime); }
-      }
+      if (audio.ended || isArticleEp()) { return; }
+      $('toggle').textContent = 'Play';
+      var ep = currentEp();
+      if (ep && ep.src) { setPos(keyOf(ep), audio.currentTime); }
     });
     audio.addEventListener('waiting', function () { setStatus('Buffering…'); });
     audio.addEventListener('ended', function () {
       var ep = currentEp();
-      if (ep) { markDone(ep.src); }
+      if (ep) { markDone(keyOf(ep)); }
       nextEpisode(true);
     });
     audio.addEventListener('error', function () {
@@ -360,6 +412,13 @@
     });
 
     function togglePlay() {
+      if (isArticleEp()) {
+        if (!('speechSynthesis' in window)) { return; }
+        if (speechSynthesis.paused) { speechSynthesis.resume(); $('toggle').textContent = 'Pause'; setStatus('Reading…'); }
+        else if (speechSynthesis.speaking) { speechSynthesis.pause(); $('toggle').textContent = 'Play'; setStatus('Paused'); }
+        else { speakArticle(currentEp()); }        // finished/idle → read again
+        return;
+      }
       if (audio.paused) {
         var p = audio.play();
         if (p && p.catch) { p.catch(function () {}); }
@@ -375,13 +434,19 @@
       if (epIdx > 0) { epIdx--; lastSave = 0; play(); }
       else { setStatus('Newest episode'); }
     }
-    function back15() { audio.currentTime = Math.max(0, audio.currentTime - 15); }
+    function back15() { if (isArticleEp()) { return; } audio.currentTime = Math.max(0, audio.currentTime - 15); }
     function fwd30()  {
+      if (isArticleEp()) { return; }
       var t = audio.currentTime + 30;
       if (isFinite(audio.duration)) { t = Math.min(audio.duration, t); }
       audio.currentTime = t;
     }
     function speed2() {
+      if (isArticleEp()) {
+        ttsRate = ttsRate === 2 ? 1 : 2;
+        setStatus('Read speed ' + ttsRate + 'x (from next article)');
+        return;
+      }
       audio.playbackRate = audio.playbackRate === 2 ? 1 : 2;
       setStatus('Speed ' + audio.playbackRate + 'x');
     }
@@ -389,7 +454,7 @@
     // Prev twice within 2s = back to the episode list. A single Prev = previous episode.
     $('prev').addEventListener('click', function () {
       var now = Date.now();
-      if (now - lastPrev <= 2000) { lastPrev = 0; audio.pause(); renderEpisodes(); return; }
+      if (now - lastPrev <= 2000) { lastPrev = 0; audio.pause(); stopSpeech(); renderEpisodes(); return; }
       lastPrev = now; prevEpisode();
     });
     $('toggle').addEventListener('click', function () { lastPrev = 0; togglePlay(); });
@@ -446,8 +511,14 @@
     function setupMediaSession() {
       if (!('mediaSession' in navigator)) { return; }
       var bind = function (action, fn) { try { navigator.mediaSession.setActionHandler(action, fn); } catch (e) {} };
-      bind('play',          function () { audio.play(); });
-      bind('pause',         function () { audio.pause(); });
+      bind('play',          function () {
+        if (isArticleEp()) { if (window.speechSynthesis && speechSynthesis.paused) { speechSynthesis.resume(); } else if (!speechSynthesis.speaking) { speakArticle(currentEp()); } }
+        else { audio.play(); }
+      });
+      bind('pause',         function () {
+        if (isArticleEp()) { if (window.speechSynthesis) { speechSynthesis.pause(); } }
+        else { audio.pause(); }
+      });
       bind('previoustrack', function () { prevEpisode(); });
       bind('nexttrack',     function () { nextEpisode(false); });
       bind('seekbackward',  function () { back15(); });

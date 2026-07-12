@@ -165,6 +165,18 @@ those URLs are themselves tokenized, they're exposed to anyone reading the repo.
 For genuinely private content use a **private repo** (Pages then needs a paid
 GitHub plan), or download those episodes and self-host them.
 
+## Articles read aloud (text-to-speech)
+
+Add `"articles": true` to a feed entry (e.g. a Substack) and the fetcher also
+keeps its **text posts** — the feed items with no audio file. In the player
+those are marked `📄 ~N min read`, and selecting one has the glasses **read it
+aloud** via the browser's `speechSynthesis` — no video, no squinting at the
+lens. Play/Pause and the `2x` read-speed control work; the body is chunked by
+sentence so long posts don't hit the browser's per-utterance limit. If the
+glasses browser has no text-to-speech it says so instead of failing silently.
+Note: Substack often truncates article bodies in RSS, so some arrive as
+previews.
+
 ## Refreshing
 
 - **Automatic:** `.github/workflows/refresh-podcasts.yml` runs every 6 hours

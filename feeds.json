@@ -6,5 +6,5 @@
   { "name": "TBPN",               "search": "TBPN" },
   { "name": "Dwarkesh Podcast",   "search": "Dwarkesh Patel" },
   { "name": "Odd Lots",           "search": "Odd Lots Bloomberg" },
-  { "name": "Substack (private)", "feedEnv": "SUBSTACK_FEED" }
+  { "name": "Substack (private)", "feedEnv": "SUBSTACK_FEED", "articles": true }
 ]
