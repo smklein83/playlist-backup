@@ -147,3 +147,19 @@ the wrong podcast with an exact `feed` URL or `itunesId`.
 
 Controls match the video player: Prev, Play/Pause, Next, `<15`, `>30`, `2x`.
 **Prev ×2** within 2 seconds jumps back to the episode list.
+
+## Battery: lights-out and background audio
+
+Since it's audio-only, the display is pure waste while listening. Two things
+help:
+
+- **Lights out** — a button on the player turns the whole screen black (which
+  is transparent / near-zero light on the additive display) while audio keeps
+  playing. Any tap/swipe/pinch wakes it.
+- **Media Session** — the app registers as OS audio playback (title + play /
+  pause / next / prev / seek handlers) so sound can continue when the display
+  sleeps and any hardware media keys work. It deliberately takes **no** screen
+  Wake Lock, so nothing forces the display to stay on.
+
+Whether the glasses fully power the display down on their own while audio keeps
+playing is up to their firmware — worth a quick on-device check.

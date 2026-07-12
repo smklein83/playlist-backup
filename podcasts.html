@@ -108,6 +108,18 @@
       height: 38px; padding: 0 12px;
       text-align: center; font-size: 15px; color: #ff8f8f;
     }
+    #lights {
+      margin: 2px 12px 0; min-height: 54px;
+      font-size: 18px; font-weight: 600;
+      color: #9fe8ff; background: #101418;
+      border: 2px solid #2a3a44; border-radius: 12px;
+    }
+    #lights:focus {
+      outline: none; color: #ffffff; border-color: #00d4ff;
+      box-shadow: 0 0 20px rgba(0, 212, 255, 0.45); background: #0a2a36;
+    }
+    /* Lights-out: pure black = transparent + ~zero light drawn on the additive display */
+    #dark { position: fixed; inset: 0; width: 600px; height: 600px; background: #000; z-index: 100; }
   </style>
 </head>
 <body>
@@ -139,9 +151,13 @@
       <button id="fwd30"  class="focusable">&gt;30</button>
       <button id="speed2" class="focusable">2x</button>
     </div>
-    <div id="p-hint">Swipe &middot; Pinch &middot; Prev &times;2 = episodes</div>
+    <button id="lights" class="focusable">Lights out &middot; screen dark</button>
+    <div id="p-hint">Swipe &middot; Pinch &middot; Prev &times;2 = episodes &middot; tap wakes screen</div>
     <div id="err"></div>
   </div>
+
+  <!-- Lights-out overlay: covers everything in black; audio keeps playing. -->
+  <div id="dark" hidden></div>
 
   <script>
     var DATA = { updated: 0, shows: [] };
@@ -288,6 +304,7 @@
       $('time').textContent = '0:00';
       $('toggle').textContent = 'Play';
       setStatus('Episode ' + (epIdx + 1) + ' of ' + sh.episodes.length);
+      updateMediaSession();
       audio.src = ep.src;
       audio.playbackRate = 1;
       audio.load();
@@ -309,8 +326,12 @@
       var ep = currentEp();
       if (ep && audio.currentTime - lastSave >= 5) { lastSave = audio.currentTime; setPos(ep.src, audio.currentTime); }
     });
-    audio.addEventListener('playing', function () { $('toggle').textContent = 'Pause'; setErr(''); });
+    audio.addEventListener('playing', function () {
+      $('toggle').textContent = 'Pause'; setErr('');
+      if ('mediaSession' in navigator) { navigator.mediaSession.playbackState = 'playing'; }
+    });
     audio.addEventListener('pause', function () {
+      if ('mediaSession' in navigator) { navigator.mediaSession.playbackState = 'paused'; }
       if (!audio.ended) {
         $('toggle').textContent = 'Play';
         var ep = currentEp();
@@ -382,6 +403,11 @@
       f[n].focus();
     }
     document.addEventListener('keydown', function (e) {
+      if (!$('dark').hidden) {                    // screen is dark → any input just wakes it
+        if (e.key === 'ArrowLeft' || e.key === 'ArrowUp' || e.key === 'ArrowRight' ||
+            e.key === 'ArrowDown' || e.key === 'Enter') { $('dark').hidden = true; e.preventDefault(); }
+        return;
+      }
       switch (e.key) {
         case 'ArrowLeft':
         case 'ArrowUp':    moveFocus(true);  break;
@@ -401,6 +427,38 @@
       }
       e.preventDefault();
     });
+
+    // ---------- Background audio + hardware media controls (Media Session) ----------
+    // Declaring a media session tells the OS "this is audio playback," which is
+    // what lets sound keep going when the display sleeps and hooks up any
+    // hardware/temple media keys. (We deliberately do NOT take a screen Wake
+    // Lock — that would force the display to stay on and drain the battery.)
+    function setupMediaSession() {
+      if (!('mediaSession' in navigator)) { return; }
+      var bind = function (action, fn) { try { navigator.mediaSession.setActionHandler(action, fn); } catch (e) {} };
+      bind('play',          function () { audio.play(); });
+      bind('pause',         function () { audio.pause(); });
+      bind('previoustrack', function () { prevEpisode(); });
+      bind('nexttrack',     function () { nextEpisode(false); });
+      bind('seekbackward',  function () { back15(); });
+      bind('seekforward',   function () { fwd30(); });
+    }
+    function updateMediaSession() {
+      if (!('mediaSession' in navigator) || typeof MediaMetadata === 'undefined') { return; }
+      var ep = currentEp(), sh = DATA.shows[showIdx];
+      if (!ep) { return; }
+      try {
+        navigator.mediaSession.metadata = new MediaMetadata({
+          title: ep.title || '', artist: sh ? sh.name : '', album: 'Glasses Podcasts'
+        });
+      } catch (e) {}
+    }
+
+    // ---------- Lights-out: black screen, audio keeps playing ----------
+    $('lights').addEventListener('click', function () { lastPrev = 0; $('dark').hidden = false; });
+    $('dark').addEventListener('click', function () { $('dark').hidden = true; });
+
+    setupMediaSession();
 
     // ---------- Boot ----------
     function boot() {
