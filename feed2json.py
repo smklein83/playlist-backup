@@ -18,6 +18,7 @@ import os
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -43,6 +44,22 @@ def http_get(url, accept=None):
         req.add_header('Accept', accept)
     with urllib.request.urlopen(req, timeout=30) as r:
         return r.read()
+
+
+FEED_ACCEPT = 'application/rss+xml, application/xml, text/xml'
+FEED_PROXY = 'https://api.allorigins.win/raw?url='
+
+
+def fetch_feed(url):
+    """Fetch a feed. If the host blocks this IP (e.g. Substack/Cloudflare 403 on
+    datacenter IPs), retry once through a public read-proxy that fetches from a
+    different network."""
+    try:
+        return http_get(url, accept=FEED_ACCEPT)
+    except urllib.error.HTTPError as e:
+        if e.code in (403, 429, 503):
+            return http_get(FEED_PROXY + urllib.parse.quote(url, safe=''), accept=FEED_ACCEPT)
+        raise
 
 
 def itunes(path):
@@ -173,7 +190,7 @@ def main():
             continue
         try:
             episodes = parse_feed(
-                http_get(feed_url, accept='application/rss+xml, application/xml, text/xml'),
+                fetch_feed(feed_url),
                 EPISODES_PER_SHOW, include_articles=bool(show.get('articles')))
         except Exception as e:
             print('  ! %-22s fetch/parse failed: %s' % (name, e), file=sys.stderr)
