@@ -1,5 +1,5 @@
 {
-  "updated": 1783903679,
+  "updated": 1783903928,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -1280,6 +1280,172 @@
           "type": "audio/mpeg",
           "date": "2026-05-29T08:00:00+00:00",
           "duration": "3104"
+        }
+      ]
+    },
+    {
+      "name": "Noahpinion",
+      "feed": "https://noahpinion.substack.com/feed",
+      "episodes": [
+        {
+          "kind": "audio",
+          "title": "I have never been working class",
+          "src": "https://substackcdn.com/image/fetch/$s_!EW1d!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65a381ce-5fc6-4b47-a4a6-fb4b14b89de9_635x554.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-12T09:22:33+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "MAGA's attack on science is even worse than it looks",
+          "src": "https://substackcdn.com/image/fetch/$s_!aj0J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff7c99ce-45ba-45ea-b11e-954c0818eb38_960x690.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-10T15:23:02+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "JD Vance's crusade against GDP is wrong and bad",
+          "src": "https://substackcdn.com/image/fetch/$s_!QLXP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6613d9ce-178d-4a78-b2c6-a790bd55086b_960x627.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-08T03:56:06+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "No, China did not manage to avoid a crash",
+          "src": "https://substackcdn.com/image/fetch/$s_!ib9l!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f304b74-66c5-495b-b21c-16933093754e_990x660.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-06T08:54:30+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "The American age was the human age",
+          "src": "https://substackcdn.com/image/fetch/$s_!xNMc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc9585d5-3cde-4b2a-b298-906c476d10e7_4509x3293.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-04T09:31:52+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Stop screeching about immigration, and get smart about it",
+          "src": "https://substackcdn.com/image/fetch/$s_!G6cd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba0dbfc9-5314-4cae-8785-2948491ae122_1007x690.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-02T20:05:15+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Roundup #84: Bears on bikes",
+          "src": "https://substackcdn.com/image/fetch/$s_!Q-st!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff995ddea-ded7-4951-b8ed-9f4b284152ac_869x652.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-01T06:31:00+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Will AI make companies outsource more, or less?",
+          "src": "https://substackcdn.com/image/fetch/$s_!iOr7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1eddc14-e1c5-4b49-b250-392025b12edb_1020x680.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-06-29T09:16:02+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Europe's resistance to AC is driving it insane",
+          "src": "https://substackcdn.com/image/fetch/$s_!hzyN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa06beae3-e6f3-4a6c-a881-b7432704e9be_1009x673.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-06-28T06:26:35+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "The Democrats have their own MAGA now",
+          "src": "https://substackcdn.com/image/fetch/$s_!EdRs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6fe3dc4f-cf48-4a4e-86d7-accb8c2568aa_1118x881.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-06-26T02:19:26+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "China is winning the other tech race",
+          "src": "https://substackcdn.com/image/fetch/$s_!hFEq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4541fea4-497c-4080-93b4-039c06df6c43_960x720.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-06-24T09:01:34+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Pizza wheels are bad, Japanese toilets are great",
+          "src": "https://substackcdn.com/image/fetch/$s_!K8wz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F614554fe-a5d2-43f9-a469-f8e6b204a0f4_960x720.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-06-21T23:33:20+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "What defines Japan's national identity?",
+          "src": "https://substackcdn.com/image/fetch/$s_!V3QL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0dd02fbf-4a3f-45f6-82ec-1e6c4e1847e0_1920x1272.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-06-20T07:34:35+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Does anything I write matter anymore?",
+          "src": "https://substackcdn.com/image/fetch/$s_!dAe7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc81e6f5c-f3ce-4bd1-a63f-97b52d1674e3_1079x720.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-06-19T06:35:04+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Iran is Trump's Katrina",
+          "src": "https://substackcdn.com/image/fetch/$s_!s03T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ff20e5c-2154-4d3a-b4bc-c1f4475eef07_960x626.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-06-16T22:29:17+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Will China, Inc. be zombified?",
+          "src": "https://substackcdn.com/image/fetch/$s_!3hi1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a084927-5ee9-4124-b354-a4b0f8f02fed_868x652.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-06-15T09:17:45+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Degrowth would make Europeans into \"Europoors\"",
+          "src": "https://substackcdn.com/image/fetch/$s_!qmgy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf8a2533-41b3-492a-b1f0-d570eac536d3_1000x660.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-06-13T08:25:32+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Are you finally ready to admit it's the phones?",
+          "src": "https://substackcdn.com/image/fetch/$s_!mUKq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e76bf7d-bf21-46fe-9986-eeeea4aa5416_1023x683.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-06-11T07:38:27+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Insurers aren't the main villain of the U.S. health care system",
+          "src": "https://substackcdn.com/image/fetch/$s_!aXHA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc47a0028-12e2-4eab-b284-9db00cc3c5e0_970x642.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-06-10T07:10:26+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Roundup #83: I told you so!",
+          "src": "https://substackcdn.com/image/fetch/$s_!ltQ3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57ee2c9c-5a0f-48ad-b3b0-862053f1a953_960x640.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-06-08T07:42:08+00:00",
+          "duration": ""
         }
       ]
     }
