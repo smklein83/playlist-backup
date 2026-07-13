@@ -27,13 +27,18 @@ from html.parser import HTMLParser
 FEEDS_FILE = 'feeds.json'
 OUT_FILE = 'podcasts.json'
 EPISODES_PER_SHOW = 25
-UA = 'glasses-podcasts/1.0 (+https://github.com/smklein83/playlist-backup)'
+# A browser-like UA: some hosts (e.g. Substack behind Cloudflare) 403 non-browser agents.
+UA = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+      '(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36')
 ITUNES_NS = '{http://www.itunes.com/dtds/podcast-1.0.dtd}'
 CONTENT_NS = '{http://purl.org/rss/1.0/modules/content/}'
 
 
 def http_get(url, accept=None):
-    req = urllib.request.Request(url, headers={'User-Agent': UA})
+    req = urllib.request.Request(url, headers={
+        'User-Agent': UA,
+        'Accept-Language': 'en-US,en;q=0.9',
+    })
     if accept:
         req.add_header('Accept', accept)
     with urllib.request.urlopen(req, timeout=30) as r:
