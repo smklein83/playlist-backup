@@ -1,5 +1,5 @@
 {
-  "updated": 1784015952,
+  "updated": 1784035691,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -419,6 +419,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "What Xi Jinping Wants",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/c5f3e1ea-3ecc-4d3b-ba88-d070be4293f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=c5f3e1ea-3ecc-4d3b-ba88-d070be4293f6&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-07-14T09:00:00+00:00",
+          "duration": "01:43:53"
+        },
+        {
+          "kind": "audio",
           "title": "The Very Good and Very Bad News on Climate",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/1f000edc-74ef-45b9-97d4-2733237870c1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=1f000edc-74ef-45b9-97d4-2733237870c1&feed=kEKXbjuJ",
           "type": "audio/mpeg",
@@ -432,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-07T09:00:00+00:00",
           "duration": "01:25:38"
-        },
-        {
-          "kind": "audio",
-          "title": "The America That’s Still Possible",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/3bb6968e-6155-4bd6-9afc-8b3b02825c04/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=3bb6968e-6155-4bd6-9afc-8b3b02825c04&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-07-03T09:00:00+00:00",
-          "duration": "01:45:37"
         },
         {
           "kind": "audio",
