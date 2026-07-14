@@ -1,10 +1,18 @@
 {
-  "updated": 1783903679,
+  "updated": 1783996297,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How the Escalating AI Wars Benefit You",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122784274/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-13%2F427889049-44100-2-e281d18f45f4b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-13T18:23:13+00:00",
+          "duration": "00:31:28"
+        },
         {
           "kind": "audio",
           "title": "How to Help People Thrive with AI",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-17T20:10:46+00:00",
           "duration": "00:26:32"
-        },
-        {
-          "kind": "audio",
-          "title": "Why Only AI Training Can Save the Economy",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/121551135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-16%2F426238037-44100-2-237b0353b5dee.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-16T19:00:00+00:00",
-          "duration": "00:22:27"
         }
       ]
     },
@@ -211,6 +211,14 @@
       "name": "All-In",
       "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/1_Paris_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-07-13T22:07:00+00:00",
+          "duration": "51:33"
+        },
         {
           "kind": "audio",
           "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-05-10T21:00:00+00:00",
           "duration": "01:11:19"
-        },
-        {
-          "kind": "audio",
-          "title": "Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E272_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-05-08T22:16:00+00:00",
-          "duration": "01:22:02"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Apple Sues OpenAI, Experts Sign Another AI Warning Letter, Paramount Threatens CA Exit | Diet TBPN",
+          "src": "https://media.transistor.fm/181fea64/75025a77.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-13T15:38:13-07:00",
+          "duration": "1904"
+        },
+        {
+          "kind": "audio",
+          "title": "Apple vs OpenAI, Paramount Threatens to Leave CA, Mark Gurman Joins | Alexis Ohanian, Morgan Housel, Nico Christie & Michael Jarman",
+          "src": "https://media.transistor.fm/39ef732a/d300d813.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-13T14:02:48-07:00",
+          "duration": "9213"
+        },
+        {
+          "kind": "audio",
           "title": "GPT-5.6 Reactions, Phoebe Gates’ Phia Drama, Hollywood Chases Internet Horror | Diet TBPN",
           "src": "https://media.transistor.fm/d98b6530/02b41907.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-18T18:56:32-07:00",
           "duration": "1651"
-        },
-        {
-          "kind": "audio",
-          "title": "Jake Paul Thinks We'll Live Forever",
-          "src": "https://media.transistor.fm/4ed8418d/ed7ec161.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-18T15:20:23-07:00",
-          "duration": "1830"
-        },
-        {
-          "kind": "audio",
-          "title": "Midjourney Medical, AI Talent Wars 2.0, Jake Paul Joins | Derek Thompson, Rene Haas, Robert Slaughter, Rob Reid, Thais Castello Branco, David Senra, Jake Paul & Geoffrey Woo",
-          "src": "https://media.transistor.fm/6eb6780f/2582ea90.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-18T15:05:43-07:00",
-          "duration": "13296"
         }
       ]
     },
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Why AI Might Actually Create More Work for Lawyers",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bf18344e-5dd0-4852-be82-b483013dfb22/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-07-13T08:00:00+00:00",
+          "duration": "3325"
+        },
+        {
+          "kind": "audio",
           "title": "The Korean Levered ETFs Shaking Markets All Around the World",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/59c7d65a-dfbb-447c-8ed4-b482014569c9/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-05-30T08:00:00+00:00",
           "duration": "2211"
-        },
-        {
-          "kind": "audio",
-          "title": "Gita Gopinath on Why Interest Rates Have Surged All Around the World",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4fea018c-8268-43c3-bdb9-b45801086d9d/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-05-29T08:00:00+00:00",
-          "duration": "3104"
         }
       ]
     }
