@@ -1,10 +1,18 @@
 {
-  "updated": 1784056551,
+  "updated": 1784081327,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "AI Optimism vs. AI Pessimism",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122840740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-14%2F427965424-44100-2-da7d17c690cd9.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-14T20:15:20+00:00",
+          "duration": "00:23:08"
+        },
         {
           "kind": "audio",
           "title": "How the Escalating AI Wars Benefit You",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-18T19:49:40+00:00",
           "duration": "00:29:23"
-        },
-        {
-          "kind": "audio",
-          "title": "A Big Shift in the AI Race",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/121630082/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-17%2F426344289-44100-2-f615e1af1eea9.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-17T20:10:46+00:00",
-          "duration": "00:26:32"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "IBM's AI Rollercoaster, Demis Calls for AI Watchdog, NY Pauses AI Data Centers | Diet TBPN",
+          "src": "https://media.transistor.fm/23ae8e5d/1af29c35.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-14T16:26:13-07:00",
+          "duration": "1506"
+        },
+        {
+          "kind": "audio",
+          "title": "IBM Nukes, Demis Govt Plan, Paramount WBD Deep Dive | Dylan Byers, Noah Schochet, Saam Motamedi, Ioannis Antonoglou, Jack Dent, Evan Burns & Jamie Seltzer, Tyler Page",
+          "src": "https://media.transistor.fm/e0d082f2/fa847ebb.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-14T14:00:17-07:00",
+          "duration": "8527"
+        },
+        {
+          "kind": "audio",
           "title": "Apple Sues OpenAI, Experts Sign Another AI Warning Letter, Paramount Threatens CA Exit | Diet TBPN",
           "src": "https://media.transistor.fm/181fea64/75025a77.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-26T19:10:00-07:00",
           "duration": "1932"
-        },
-        {
-          "kind": "audio",
-          "title": "Mini Truck Boom, Kylie and Zuck vs Spiegel and RDJ, Europe Considers AC",
-          "src": "https://media.transistor.fm/b0c102e1/4ad19d2b.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-26T13:52:58-07:00",
-          "duration": "8247"
-        },
-        {
-          "kind": "audio",
-          "title": "Midjourney Goes Medical, Noam Shazeer & Dean Ball Join OpenAI | Diet TBPN",
-          "src": "https://media.transistor.fm/957bef2c/d619c8e3.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-18T18:56:32-07:00",
-          "duration": "1651"
         }
       ]
     },
