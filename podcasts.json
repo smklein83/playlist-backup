@@ -1,5 +1,5 @@
 {
-  "updated": 1784168549,
+  "updated": 1784189281,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Why Soccer Analytics Works Like Volatility Arbitrage Trading",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4859579a-2313-42f7-9c12-b488014fc4d7/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-07-16T08:00:00+00:00",
+          "duration": "3061"
+        },
+        {
+          "kind": "audio",
           "title": "NY Governor Kathy Hochul on Her One Year Data Center Moratorium",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b0947973-da0c-4120-9104-b4870172c604/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-04T08:00:00+00:00",
           "duration": "3944"
-        },
-        {
-          "kind": "audio",
-          "title": "The Hidden Plumbing of Commodity Finance",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/9d19da5c-6eca-418c-9fda-b4590139c80f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-06-01T08:00:00+00:00",
-          "duration": "2776"
         }
       ]
     }
