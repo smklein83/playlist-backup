@@ -1,10 +1,18 @@
 {
-  "updated": 1784228739,
+  "updated": 1784255119,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The New Enterprise Battle Over Who Owns the Model",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122934336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428093686-44100-2-f6b0632b92356.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-16T20:38:52+00:00",
+          "duration": "00:28:47"
+        },
         {
           "kind": "audio",
           "title": "5 AI Engineering Trends for Non-Engineers",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-20T15:00:00+00:00",
           "duration": "00:05:56"
-        },
-        {
-          "kind": "audio",
-          "title": "Your Company Doesn’t Need an AI Strategy",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/121720961/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-19%2F426468386-44100-2-fd814bd4b4bde.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-19T18:36:11+00:00",
-          "duration": "00:29:45"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Thinking Machines’ First AI Model, California Loses $3.2B to Texas, TSMC Adds $100B | Diet TBPN",
+          "src": "https://media.transistor.fm/b19a913a/ae604e0c.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-16T13:42:58-07:00",
+          "duration": "1213"
+        },
+        {
+          "kind": "audio",
+          "title": "TML Inkling, California Forever?, TSMC Capex | David Baszucki, Everett Randle, Eric Glyman, Jordan Black",
+          "src": "https://media.transistor.fm/39bf1d0a/f7df3c6b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-16T13:25:51-07:00",
+          "duration": "7183"
+        },
+        {
+          "kind": "audio",
           "title": "Stripe’s $53B PayPal Offer, OpenAI’s First Device, TBPN’s New Business Ideas | Diet TBPN",
           "src": "https://media.transistor.fm/7b7d5b75/367fca80.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-30T19:24:39-07:00",
           "duration": "1965"
-        },
-        {
-          "kind": "audio",
-          "title": "America's Tech Wishlist, Comcast Splits in Two, Tristan Thompson in the Ultradome | Zach Laberge, Gavin Uberti, Eren Bali, Larsen Jensen, Ricky Rosa, Andrew Rea, Michael Anderson, Tristan Thompson, Grant Gregory & Ian Rountree",
-          "src": "https://media.transistor.fm/e6565b95/82547d1b.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-30T14:48:34-07:00",
-          "duration": "10473"
-        },
-        {
-          "kind": "audio",
-          "title": "Open Source vs. Closed Source, Memory Chips Eat AI Profits, Comcast Restructures | Diet TBPN",
-          "src": "https://media.transistor.fm/f51867af/d0d7f5ee.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-29T16:55:02-07:00",
-          "duration": "1927"
         }
       ]
     },
