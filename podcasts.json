@@ -1,5 +1,5 @@
 {
-  "updated": 1784255119,
+  "updated": 1784275514,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Lev Menand and Nathan Tankus on Why Fed Independence Is Now Hanging by a Thread",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4e48ebd0-0b41-4721-8e45-b489014fc1c7/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-07-17T08:00:00+00:00",
+          "duration": "3948"
+        },
+        {
+          "kind": "audio",
           "title": "Why Soccer Analytics Works Like Volatility Arbitrage Trading",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4859579a-2313-42f7-9c12-b488014fc4d7/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-05T08:00:00+00:00",
           "duration": "1880"
-        },
-        {
-          "kind": "audio",
-          "title": "Goldman Sachs CEO David Solomon on Running a Bank in the Age of AI",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bf5b0ae1-c442-4354-8c4f-b45f00126aa1/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-06-04T08:00:00+00:00",
-          "duration": "3944"
         }
       ]
     }
