@@ -1,10 +1,18 @@
 {
-  "updated": 1784314991,
+  "updated": 1784340594,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Is Kimi K3 Really Fable Class?",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122978190/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-17%2F428152765-44100-2-3188a9b9df7e9.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-17T20:22:07+00:00",
+          "duration": "00:28:25"
+        },
         {
           "kind": "audio",
           "title": "The New Enterprise Battle Over Who Owns the Model",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-21T15:20:32+00:00",
           "duration": "00:45:16"
-        },
-        {
-          "kind": "audio",
-          "title": "The 5-Minute AI Weekly Recap: Realignment Week",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/121749223/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-20%2F426503865-44100-2-bdadaca3da607.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-20T15:00:00+00:00",
-          "duration": "00:05:56"
         }
       ]
     },
@@ -211,6 +211,14 @@
       "name": "All-In",
       "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E281_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-07-18T00:36:00+00:00",
+          "duration": "01:29:55"
+        },
         {
           "kind": "audio",
           "title": "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-05-15T21:21:00+00:00",
           "duration": "01:16:31"
-        },
-        {
-          "kind": "audio",
-          "title": "Charles & Chase Koch on How They Quietly Built a $150B Empire",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Koch_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-05-12T21:03:00+00:00",
-          "duration": "01:35:27"
         }
       ]
     },
