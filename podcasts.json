@@ -1,10 +1,58 @@
 {
-  "updated": 1783903928,
+  "updated": 1784469995,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The Self-Driving Company",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/123028581/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-19%2F428220991-44100-2-64be4bc721e17.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-19T12:00:39+00:00",
+          "duration": "00:25:36"
+        },
+        {
+          "kind": "audio",
+          "title": "Is Kimi K3 Really Fable Class?",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122978190/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-17%2F428152765-44100-2-3188a9b9df7e9.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-17T20:22:07+00:00",
+          "duration": "00:28:25"
+        },
+        {
+          "kind": "audio",
+          "title": "The New Enterprise Battle Over Who Owns the Model",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122934336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428093686-44100-2-f6b0632b92356.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-16T20:38:52+00:00",
+          "duration": "00:28:47"
+        },
+        {
+          "kind": "audio",
+          "title": "5 AI Engineering Trends for Non-Engineers",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122888803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-15%2F428030680-44100-2-dfa8dbcdf41bc.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-15T20:30:50+00:00",
+          "duration": "00:28:09"
+        },
+        {
+          "kind": "audio",
+          "title": "AI Optimism vs. AI Pessimism",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122840740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-14%2F427965424-44100-2-da7d17c690cd9.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-14T20:15:20+00:00",
+          "duration": "00:23:08"
+        },
+        {
+          "kind": "audio",
+          "title": "How the Escalating AI Wars Benefit You",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/122784274/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-13%2F427889049-44100-2-e281d18f45f4b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-13T18:23:13+00:00",
+          "duration": "00:31:28"
+        },
         {
           "kind": "audio",
           "title": "How to Help People Thrive with AI",
@@ -156,54 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-22T19:44:29+00:00",
           "duration": "00:29:29"
-        },
-        {
-          "kind": "audio",
-          "title": "Why Local AI Matters and How to Use It",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/121785944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-21%2F426551944-44100-2-eace034712683.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-21T15:20:32+00:00",
-          "duration": "00:45:16"
-        },
-        {
-          "kind": "audio",
-          "title": "The 5-Minute AI Weekly Recap: Realignment Week",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/121749223/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-20%2F426503865-44100-2-bdadaca3da607.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-20T15:00:00+00:00",
-          "duration": "00:05:56"
-        },
-        {
-          "kind": "audio",
-          "title": "Your Company Doesn’t Need an AI Strategy",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/121720961/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-19%2F426468386-44100-2-fd814bd4b4bde.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-19T18:36:11+00:00",
-          "duration": "00:29:45"
-        },
-        {
-          "kind": "audio",
-          "title": "The Models Trying to Fill the Fable Gap",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/121678379/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2F426409736-44100-2-516cc7c1cc4ab.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-18T19:49:40+00:00",
-          "duration": "00:29:23"
-        },
-        {
-          "kind": "audio",
-          "title": "A Big Shift in the AI Race",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/121630082/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-17%2F426344289-44100-2-f615e1af1eea9.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-17T20:10:46+00:00",
-          "duration": "00:26:32"
-        },
-        {
-          "kind": "audio",
-          "title": "Why Only AI Training Can Save the Economy",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/121551135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-16%2F426238037-44100-2-237b0353b5dee.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-16T19:00:00+00:00",
-          "duration": "00:22:27"
         }
       ]
     },
@@ -211,6 +211,30 @@
       "name": "All-In",
       "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E281_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-07-18T00:36:00+00:00",
+          "duration": "01:29:55"
+        },
+        {
+          "kind": "audio",
+          "title": "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Paris_2_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-07-15T20:55:00+00:00",
+          "duration": "49:44"
+        },
+        {
+          "kind": "audio",
+          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/1_Paris_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-07-13T22:07:00+00:00",
+          "duration": "51:33"
+        },
         {
           "kind": "audio",
           "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
@@ -386,30 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-05-15T21:21:00+00:00",
           "duration": "01:16:31"
-        },
-        {
-          "kind": "audio",
-          "title": "Charles & Chase Koch on How They Quietly Built a $150B Empire",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Koch_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-05-12T21:03:00+00:00",
-          "duration": "01:35:27"
-        },
-        {
-          "kind": "audio",
-          "title": "Spencer Pratt on Fixing LA: Wildfires, Homelessness, Corruption & the Fight to Take It Back",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/PRATT_FINAL_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-05-10T21:00:00+00:00",
-          "duration": "01:11:19"
-        },
-        {
-          "kind": "audio",
-          "title": "Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E272_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-05-08T22:16:00+00:00",
-          "duration": "01:22:02"
         }
       ]
     },
@@ -417,6 +417,14 @@
       "name": "The Ezra Klein Show",
       "feed": "https://feeds.simplecast.com/kEKXbjuJ",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "What Xi Jinping Wants",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/c5f3e1ea-3ecc-4d3b-ba88-d070be4293f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=c5f3e1ea-3ecc-4d3b-ba88-d070be4293f6&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-07-14T09:00:00+00:00",
+          "duration": "01:43:53"
+        },
         {
           "kind": "audio",
           "title": "The Very Good and Very Bad News on Climate",
@@ -432,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-07T09:00:00+00:00",
           "duration": "01:25:38"
-        },
-        {
-          "kind": "audio",
-          "title": "The America That’s Still Possible",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/3bb6968e-6155-4bd6-9afc-8b3b02825c04/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=3bb6968e-6155-4bd6-9afc-8b3b02825c04&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-07-03T09:00:00+00:00",
-          "duration": "01:45:37"
         },
         {
           "kind": "audio",
@@ -671,6 +671,70 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Thinking Machines’ First AI Model, California Loses $3.2B to Texas, TSMC Adds $100B | Diet TBPN",
+          "src": "https://media.transistor.fm/b19a913a/ae604e0c.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-16T13:42:58-07:00",
+          "duration": "1213"
+        },
+        {
+          "kind": "audio",
+          "title": "TML Inkling, California Forever?, TSMC Capex | David Baszucki, Everett Randle, Eric Glyman, Jordan Black",
+          "src": "https://media.transistor.fm/39bf1d0a/f7df3c6b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-16T13:25:51-07:00",
+          "duration": "7183"
+        },
+        {
+          "kind": "audio",
+          "title": "Stripe’s $53B PayPal Offer, OpenAI’s First Device, TBPN’s New Business Ideas | Diet TBPN",
+          "src": "https://media.transistor.fm/7b7d5b75/367fca80.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-15T17:54:37-07:00",
+          "duration": "1549"
+        },
+        {
+          "kind": "audio",
+          "title": "Stripe x PayPal, Codex Micro, Saagar Enjeti Joins | George Kailas, Mukund Jha, Russ Tedrake, Glenn Youngkin",
+          "src": "https://media.transistor.fm/b2f8d76d/fc0821ce.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-15T13:22:45-07:00",
+          "duration": "6810"
+        },
+        {
+          "kind": "audio",
+          "title": "IBM's AI Rollercoaster, Demis Calls for AI Watchdog, NY Pauses AI Data Centers | Diet TBPN",
+          "src": "https://media.transistor.fm/23ae8e5d/1af29c35.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-14T16:26:13-07:00",
+          "duration": "1506"
+        },
+        {
+          "kind": "audio",
+          "title": "IBM Nukes, Demis Govt Plan, Paramount WBD Deep Dive | Dylan Byers, Noah Schochet, Saam Motamedi, Ioannis Antonoglou, Jack Dent, Evan Burns & Jamie Seltzer, Tyler Page",
+          "src": "https://media.transistor.fm/e0d082f2/fa847ebb.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-14T14:00:17-07:00",
+          "duration": "8527"
+        },
+        {
+          "kind": "audio",
+          "title": "Apple Sues OpenAI, Experts Sign Another AI Warning Letter, Paramount Threatens CA Exit | Diet TBPN",
+          "src": "https://media.transistor.fm/181fea64/75025a77.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-13T15:38:13-07:00",
+          "duration": "1904"
+        },
+        {
+          "kind": "audio",
+          "title": "Apple vs OpenAI, Paramount Threatens to Leave CA, Mark Gurman Joins | Alexis Ohanian, Morgan Housel, Nico Christie & Michael Jarman",
+          "src": "https://media.transistor.fm/39ef732a/d300d813.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-13T14:02:48-07:00",
+          "duration": "9213"
+        },
+        {
+          "kind": "audio",
           "title": "GPT-5.6 Reactions, Phoebe Gates’ Phia Drama, Hollywood Chases Internet Horror | Diet TBPN",
           "src": "https://media.transistor.fm/d98b6530/02b41907.mp3",
           "type": "audio/mpeg",
@@ -804,70 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-30T19:24:39-07:00",
           "duration": "1965"
-        },
-        {
-          "kind": "audio",
-          "title": "America's Tech Wishlist, Comcast Splits in Two, Tristan Thompson in the Ultradome | Zach Laberge, Gavin Uberti, Eren Bali, Larsen Jensen, Ricky Rosa, Andrew Rea, Michael Anderson, Tristan Thompson, Grant Gregory & Ian Rountree",
-          "src": "https://media.transistor.fm/e6565b95/82547d1b.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-30T14:48:34-07:00",
-          "duration": "10473"
-        },
-        {
-          "kind": "audio",
-          "title": "Open Source vs. Closed Source, Memory Chips Eat AI Profits, Comcast Restructures | Diet TBPN",
-          "src": "https://media.transistor.fm/f51867af/d0d7f5ee.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-29T16:55:02-07:00",
-          "duration": "1927"
-        },
-        {
-          "kind": "audio",
-          "title": "Open-Source AI Battle, Google Throttles Meta, Micron Margins Moon | Edward Coristine & Tai Groot, Chad Rigetti, Pim de Witte, Yadin Soffer, Jack Morris, Neil Movva, Jakob Diepenbrock, Chris Altchek",
-          "src": "https://media.transistor.fm/66c0ffeb/5d14456f.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-29T13:43:58-07:00",
-          "duration": "8459"
-        },
-        {
-          "kind": "audio",
-          "title": "Shifts In The Creator Economy, Kylie Jenner x Meta, GPT 5.6 Limited Release | Diet TBPN",
-          "src": "https://media.transistor.fm/1d14f184/85c1a286.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-26T19:10:00-07:00",
-          "duration": "1932"
-        },
-        {
-          "kind": "audio",
-          "title": "Mini Truck Boom, Kylie and Zuck vs Spiegel and RDJ, Europe Considers AC",
-          "src": "https://media.transistor.fm/b0c102e1/4ad19d2b.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-26T13:52:58-07:00",
-          "duration": "8247"
-        },
-        {
-          "kind": "audio",
-          "title": "Midjourney Goes Medical, Noam Shazeer & Dean Ball Join OpenAI | Diet TBPN",
-          "src": "https://media.transistor.fm/957bef2c/d619c8e3.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-18T18:56:32-07:00",
-          "duration": "1651"
-        },
-        {
-          "kind": "audio",
-          "title": "Jake Paul Thinks We'll Live Forever",
-          "src": "https://media.transistor.fm/4ed8418d/ed7ec161.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-18T15:20:23-07:00",
-          "duration": "1830"
-        },
-        {
-          "kind": "audio",
-          "title": "Midjourney Medical, AI Talent Wars 2.0, Jake Paul Joins | Derek Thompson, Rene Haas, Robert Slaughter, Rob Reid, Thais Castello Branco, David Senra, Jake Paul & Geoffrey Woo",
-          "src": "https://media.transistor.fm/6eb6780f/2582ea90.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-18T15:05:43-07:00",
-          "duration": "13296"
         }
       ]
     },
@@ -1083,6 +1083,38 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Lev Menand and Nathan Tankus on Why Fed Independence Is Now Hanging by a Thread",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4e48ebd0-0b41-4721-8e45-b489014fc1c7/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-07-17T08:00:00+00:00",
+          "duration": "3948"
+        },
+        {
+          "kind": "audio",
+          "title": "Why Soccer Analytics Works Like Volatility Arbitrage Trading",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4859579a-2313-42f7-9c12-b488014fc4d7/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-07-16T08:00:00+00:00",
+          "duration": "3061"
+        },
+        {
+          "kind": "audio",
+          "title": "NY Governor Kathy Hochul on Her One Year Data Center Moratorium",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b0947973-da0c-4120-9104-b4870172c604/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-07-15T08:00:00+00:00",
+          "duration": "2536"
+        },
+        {
+          "kind": "audio",
+          "title": "Why AI Might Actually Create More Work for Lawyers",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bf18344e-5dd0-4852-be82-b483013dfb22/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-07-13T08:00:00+00:00",
+          "duration": "3325"
+        },
+        {
+          "kind": "audio",
           "title": "The Korean Levered ETFs Shaking Markets All Around the World",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/59c7d65a-dfbb-447c-8ed4-b482014569c9/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1248,204 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-05T08:00:00+00:00",
           "duration": "1880"
-        },
-        {
-          "kind": "audio",
-          "title": "Goldman Sachs CEO David Solomon on Running a Bank in the Age of AI",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bf5b0ae1-c442-4354-8c4f-b45f00126aa1/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-06-04T08:00:00+00:00",
-          "duration": "3944"
-        },
-        {
-          "kind": "audio",
-          "title": "The Hidden Plumbing of Commodity Finance",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/9d19da5c-6eca-418c-9fda-b4590139c80f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-06-01T08:00:00+00:00",
-          "duration": "2776"
-        },
-        {
-          "kind": "audio",
-          "title": "How the Invention of Rope Gave Us Modern Civilization",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/019909ba-ab60-4975-bbb2-b45900e53a59/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-05-30T08:00:00+00:00",
-          "duration": "2211"
-        },
-        {
-          "kind": "audio",
-          "title": "Gita Gopinath on Why Interest Rates Have Surged All Around the World",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4fea018c-8268-43c3-bdb9-b45801086d9d/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-05-29T08:00:00+00:00",
-          "duration": "3104"
-        }
-      ]
-    },
-    {
-      "name": "Noahpinion",
-      "feed": "https://noahpinion.substack.com/feed",
-      "episodes": [
-        {
-          "kind": "audio",
-          "title": "I have never been working class",
-          "src": "https://substackcdn.com/image/fetch/$s_!EW1d!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65a381ce-5fc6-4b47-a4a6-fb4b14b89de9_635x554.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-07-12T09:22:33+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "MAGA's attack on science is even worse than it looks",
-          "src": "https://substackcdn.com/image/fetch/$s_!aj0J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff7c99ce-45ba-45ea-b11e-954c0818eb38_960x690.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-07-10T15:23:02+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "JD Vance's crusade against GDP is wrong and bad",
-          "src": "https://substackcdn.com/image/fetch/$s_!QLXP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6613d9ce-178d-4a78-b2c6-a790bd55086b_960x627.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-07-08T03:56:06+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "No, China did not manage to avoid a crash",
-          "src": "https://substackcdn.com/image/fetch/$s_!ib9l!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f304b74-66c5-495b-b21c-16933093754e_990x660.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-07-06T08:54:30+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "The American age was the human age",
-          "src": "https://substackcdn.com/image/fetch/$s_!xNMc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc9585d5-3cde-4b2a-b298-906c476d10e7_4509x3293.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-07-04T09:31:52+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Stop screeching about immigration, and get smart about it",
-          "src": "https://substackcdn.com/image/fetch/$s_!G6cd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba0dbfc9-5314-4cae-8785-2948491ae122_1007x690.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-07-02T20:05:15+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Roundup #84: Bears on bikes",
-          "src": "https://substackcdn.com/image/fetch/$s_!Q-st!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff995ddea-ded7-4951-b8ed-9f4b284152ac_869x652.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-07-01T06:31:00+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Will AI make companies outsource more, or less?",
-          "src": "https://substackcdn.com/image/fetch/$s_!iOr7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1eddc14-e1c5-4b49-b250-392025b12edb_1020x680.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-06-29T09:16:02+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Europe's resistance to AC is driving it insane",
-          "src": "https://substackcdn.com/image/fetch/$s_!hzyN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa06beae3-e6f3-4a6c-a881-b7432704e9be_1009x673.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-06-28T06:26:35+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "The Democrats have their own MAGA now",
-          "src": "https://substackcdn.com/image/fetch/$s_!EdRs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6fe3dc4f-cf48-4a4e-86d7-accb8c2568aa_1118x881.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-06-26T02:19:26+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "China is winning the other tech race",
-          "src": "https://substackcdn.com/image/fetch/$s_!hFEq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4541fea4-497c-4080-93b4-039c06df6c43_960x720.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-06-24T09:01:34+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Pizza wheels are bad, Japanese toilets are great",
-          "src": "https://substackcdn.com/image/fetch/$s_!K8wz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F614554fe-a5d2-43f9-a469-f8e6b204a0f4_960x720.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-06-21T23:33:20+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "What defines Japan's national identity?",
-          "src": "https://substackcdn.com/image/fetch/$s_!V3QL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0dd02fbf-4a3f-45f6-82ec-1e6c4e1847e0_1920x1272.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-06-20T07:34:35+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Does anything I write matter anymore?",
-          "src": "https://substackcdn.com/image/fetch/$s_!dAe7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc81e6f5c-f3ce-4bd1-a63f-97b52d1674e3_1079x720.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-06-19T06:35:04+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Iran is Trump's Katrina",
-          "src": "https://substackcdn.com/image/fetch/$s_!s03T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ff20e5c-2154-4d3a-b4bc-c1f4475eef07_960x626.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-06-16T22:29:17+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Will China, Inc. be zombified?",
-          "src": "https://substackcdn.com/image/fetch/$s_!3hi1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a084927-5ee9-4124-b354-a4b0f8f02fed_868x652.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-06-15T09:17:45+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Degrowth would make Europeans into \"Europoors\"",
-          "src": "https://substackcdn.com/image/fetch/$s_!qmgy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf8a2533-41b3-492a-b1f0-d570eac536d3_1000x660.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-06-13T08:25:32+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Are you finally ready to admit it's the phones?",
-          "src": "https://substackcdn.com/image/fetch/$s_!mUKq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e76bf7d-bf21-46fe-9986-eeeea4aa5416_1023x683.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-06-11T07:38:27+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Insurers aren't the main villain of the U.S. health care system",
-          "src": "https://substackcdn.com/image/fetch/$s_!aXHA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc47a0028-12e2-4eab-b284-9db00cc3c5e0_970x642.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-06-10T07:10:26+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Roundup #83: I told you so!",
-          "src": "https://substackcdn.com/image/fetch/$s_!ltQ3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57ee2c9c-5a0f-48ad-b3b0-862053f1a953_960x640.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-06-08T07:42:08+00:00",
-          "duration": ""
         }
       ]
     }
