@@ -1,10 +1,18 @@
 {
-  "updated": 1784448734,
+  "updated": 1784466716,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The Self-Driving Company",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/123028581/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-19%2F428220991-44100-2-64be4bc721e17.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-19T12:00:39+00:00",
+          "duration": "00:25:36"
+        },
         {
           "kind": "audio",
           "title": "Is Kimi K3 Really Fable Class?",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-22T19:44:29+00:00",
           "duration": "00:29:29"
-        },
-        {
-          "kind": "audio",
-          "title": "Why Local AI Matters and How to Use It",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/121785944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-21%2F426551944-44100-2-eace034712683.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-21T15:20:32+00:00",
-          "duration": "00:45:16"
         }
       ]
     },
