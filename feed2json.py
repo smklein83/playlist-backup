@@ -201,6 +201,23 @@ def main():
         shows.append({'name': name, 'feed': feed_url, 'episodes': episodes})
         print('  ok %-22s %d episodes  [%s]' % (name, len(episodes), resolved or feed_url))
 
+    if not shows:
+        # Every feed failed this run (e.g. the runner's IP got rate-limited by
+        # iTunes, or a transient network blip). Never clobber a good podcasts.json
+        # with an empty one — that would wipe the live playlist. Keep the last
+        # good file and fail the run instead so it's visible and nothing deploys.
+        try:
+            with open(OUT_FILE, encoding='utf-8') as f:
+                prev = json.load(f)
+        except Exception:
+            prev = None
+        if prev and prev.get('shows'):
+            print('No feeds succeeded — keeping existing %s (%d show(s)), not overwriting.'
+                  % (OUT_FILE, len(prev['shows'])), file=sys.stderr)
+            sys.exit(1)
+        # No previous good data to protect — fall through and write the empty file
+        # so the repo at least has a valid (if empty) podcasts.json to bootstrap.
+
     with open(OUT_FILE, 'w', encoding='utf-8') as f:
         json.dump({'updated': int(time.time()), 'shows': shows},
                   f, ensure_ascii=False, indent=2)

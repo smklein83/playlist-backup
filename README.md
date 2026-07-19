@@ -180,9 +180,20 @@ previews.
 ## Refreshing
 
 - **Automatic:** `.github/workflows/refresh-podcasts.yml` runs every 6 hours
-  (and on any change to `feeds.json`), regenerates `podcasts.json`, and commits
-  it. Scheduled runs only fire from the **default branch**, so this starts
-  working once the workflow is on `main`.
+  (and on any change to `feeds.json`), regenerates `podcasts.json`, commits it,
+  and then **requests a GitHub Pages rebuild** so the *live* site serves the
+  fresh file. Scheduled runs only fire from the **default branch**, so this
+  starts working once the workflow is on `main`.
+  - The explicit rebuild is required because the job commits with the built-in
+    `GITHUB_TOKEN`, and GitHub does **not** auto-trigger a "Deploy from a branch"
+    Pages build for `GITHUB_TOKEN` pushes. Without it the repo's `podcasts.json`
+    keeps advancing while the deployed app stays frozen at the last human push.
+    (This needs Pages **Source: "Deploy from a branch"**; if you use
+    **Source: "GitHub Actions"** instead, deploy with the `actions/deploy-pages`
+    action rather than the REST rebuild step.)
+  - If every feed fails in one run (e.g. the runner IP gets rate-limited),
+    `feed2json.py` keeps the last good `podcasts.json` and exits non-zero instead
+    of publishing an empty playlist.
 - **On demand:** the same workflow has a "Run workflow" button
   (`workflow_dispatch`).
 - **Locally:** `python3 feed2json.py` (stdlib only) writes `podcasts.json`;
