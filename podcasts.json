@@ -1,10 +1,18 @@
 {
-  "updated": 1784556017,
+  "updated": 1784576450,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How to Get the Most Out of Fable 5 and GPT-5.6 Sol",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/123070314/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-20%2F428276826-44100-2-8a382acf87fef.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-20T18:00:00+00:00",
+          "duration": "00:26:37"
+        },
         {
           "kind": "audio",
           "title": "The Self-Driving Company",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-23T19:51:47+00:00",
           "duration": "00:25:59"
-        },
-        {
-          "kind": "audio",
-          "title": "Why AI Users Are Raving About GLM 5.2",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/121847804/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-22%2F426632470-44100-2-1fd697f62d833.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-22T19:44:29+00:00",
-          "duration": "00:29:29"
         }
       ]
     },
