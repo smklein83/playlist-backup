@@ -1,5 +1,5 @@
 {
-  "updated": 1784518420,
+  "updated": 1784537611,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "The Creator of Claude Code on The Hottest Piece of Software in the World",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ef32f81a-cd8d-4184-8eb6-b48a015709b4/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-07-20T08:00:00+00:00",
+          "duration": "3997"
+        },
+        {
+          "kind": "audio",
           "title": "Lev Menand and Nathan Tankus on Why Fed Independence Is Now Hanging by a Thread",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4e48ebd0-0b41-4721-8e45-b489014fc1c7/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-06T08:00:00+00:00",
           "duration": "1916"
-        },
-        {
-          "kind": "audio",
-          "title": "Inside Hudson River Trading's Blistering Token Burn",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/02b9e5a8-91d2-4e4e-a6a7-b45f0138ad2f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-06-05T08:00:00+00:00",
-          "duration": "1880"
         }
       ]
     }
