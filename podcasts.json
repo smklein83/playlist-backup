@@ -1,5 +1,5 @@
 {
-  "updated": 1784622234,
+  "updated": 1784641371,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -419,6 +419,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Best Of: A Breath of Fresh Air With Brian Eno",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/f391342a-4e73-494c-b42c-5ac20826ed29/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=f391342a-4e73-494c-b42c-5ac20826ed29&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-07-21T09:00:00+00:00",
+          "duration": "01:30:44"
+        },
+        {
+          "kind": "audio",
           "title": "What Xi Jinping Wants",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/c5f3e1ea-3ecc-4d3b-ba88-d070be4293f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=c5f3e1ea-3ecc-4d3b-ba88-d070be4293f6&feed=kEKXbjuJ",
           "type": "audio/mpeg",
@@ -432,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-10T09:00:00+00:00",
           "duration": "01:25:22"
-        },
-        {
-          "kind": "audio",
-          "title": "A Radical Vision for Israelis and Palestinians",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/5991c912-39dc-450f-b87d-31efa097e9c8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=5991c912-39dc-450f-b87d-31efa097e9c8&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-07-07T09:00:00+00:00",
-          "duration": "01:25:38"
         },
         {
           "kind": "audio",
