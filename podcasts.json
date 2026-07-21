@@ -1,5 +1,5 @@
 {
-  "updated": 1784641371,
+  "updated": 1784661395,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_MC_RAISE_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-07-20T18:51:00+00:00",
+          "duration": "41:39"
+        },
+        {
+          "kind": "audio",
           "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E281_Ch.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-05-22T22:46:00+00:00",
           "duration": "01:42:00"
-        },
-        {
-          "kind": "audio",
-          "title": "Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E273_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-05-15T21:21:00+00:00",
-          "duration": "01:16:31"
         }
       ]
     },
