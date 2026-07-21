@@ -1,5 +1,5 @@
 {
-  "updated": 1784576450,
+  "updated": 1784600774,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,30 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Kimi K3 Reactions, The Odyssey Hits $264M in Debut, Netflix Embraces AI | Diet TBPN",
+          "src": "https://media.transistor.fm/b3a611e7/e33df8f3.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-20T16:05:00-07:00",
+          "duration": "1881"
+        },
+        {
+          "kind": "audio",
+          "title": "The AI Cold War, Odyssey Rips, Tyler Cowen Joins | Danny Yeung, Connor Love, Kahlil Lalji, Tarek Mansour, Tony Zhao",
+          "src": "https://media.transistor.fm/898ba371/7cd5e524.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-20T14:18:10-07:00",
+          "duration": "9666"
+        },
+        {
+          "kind": "audio",
+          "title": "Tyler Cowen Doesn't Think America Should Ban Chinese AI Models",
+          "src": "https://media.transistor.fm/cce0bdfb/fa07b307.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-20T13:59:44-07:00",
+          "duration": "2120"
+        },
+        {
+          "kind": "audio",
           "title": "Thinking Machines’ First AI Model, California Loses $3.2B to Texas, TSMC Adds $100B | Diet TBPN",
           "src": "https://media.transistor.fm/b19a913a/ae604e0c.mp3",
           "type": "audio/mpeg",
@@ -844,30 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-02T13:51:28-07:00",
           "duration": "8764"
-        },
-        {
-          "kind": "audio",
-          "title": "The Meta Compute Debate | Diet TBPN",
-          "src": "https://media.transistor.fm/61fbb0dd/47992973.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-01T19:47:11-07:00",
-          "duration": "1409"
-        },
-        {
-          "kind": "audio",
-          "title": "MetaCloud, Bending Spoons IPO with Founder Luca Ferrari, Amble Founder Joins | Mark Pincus, Shubh Sinha, Wayne Ting, Jeffery Liu & Jon Wang, Eliot Pence, Luca Ferrari, Nick Grossman, Julian Hoenig",
-          "src": "https://media.transistor.fm/d5a4b762/927362ec.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-01T14:18:55-07:00",
-          "duration": "9418"
-        },
-        {
-          "kind": "audio",
-          "title": "Rocket Lab Enters SpaceX Arena, Meta’s Prediction Market, America’s Tech Wishlist | Diet TBPN",
-          "src": "https://media.transistor.fm/b343e9fe/094fd0fa.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-30T19:24:39-07:00",
-          "duration": "1965"
         }
       ]
     },
