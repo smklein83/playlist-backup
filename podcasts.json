@@ -1,10 +1,18 @@
 {
-  "updated": 1784661395,
+  "updated": 1784687055,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The Fight Over Which AI Models You Can Use",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/123140491/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-21%2F428371890-44100-2-086c9de73f373.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-21T20:14:05+00:00",
+          "duration": "00:30:28"
+        },
         {
           "kind": "audio",
           "title": "How to Get the Most Out of Fable 5 and GPT-5.6 Sol",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-24T22:02:03+00:00",
           "duration": "00:27:01"
-        },
-        {
-          "kind": "audio",
-          "title": "The Right Way to Deal With AI Data Centers",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/121901656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-23%2F426705102-44100-2-93552e1c81a4.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-23T19:51:47+00:00",
-          "duration": "00:25:59"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "U.S. AI Execs Warn as China’s AI Push Grows, Substack Adds AI Detection Tool | Diet TBPN",
+          "src": "https://media.transistor.fm/d0b9b1e1/b86d4665.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-21T16:11:49-07:00",
+          "duration": "1789"
+        },
+        {
+          "kind": "audio",
+          "title": "China's AI Push Sounds Alarms, Airplane Seat Debate, Chris Best Joins | Ferdinand Dabitz, Kaiwei Tang, Steven Schwartz, Katie Roof, Zavain Dar, Chad Edwards",
+          "src": "https://media.transistor.fm/025a4d7f/e91287f5.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-21T14:00:20-07:00",
+          "duration": "9219"
+        },
+        {
+          "kind": "audio",
           "title": "Kimi K3 Reactions, The Odyssey Hits $264M in Debut, Netflix Embraces AI | Diet TBPN",
           "src": "https://media.transistor.fm/b3a611e7/e33df8f3.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-06T13:32:29-07:00",
           "duration": "7558"
-        },
-        {
-          "kind": "audio",
-          "title": "Jersey Mikes's IPO, AI Lab Nationalization, SpaceX AIPhone | Diet TBPN",
-          "src": "https://media.transistor.fm/8ec2c53c/1ef039db.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-02T17:55:05-07:00",
-          "duration": "1868"
-        },
-        {
-          "kind": "audio",
-          "title": "SpaceX Phone, U.S. Stake in OpenAI, Jersey Mike's IPO | Andrew Collins, Vipul Ved Prakash, Isaiah Taylor, Dean Ball, Rob Toews, Tuhin Srivastava",
-          "src": "https://media.transistor.fm/eebe04f7/d079d4eb.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-02T13:51:28-07:00",
-          "duration": "8764"
         }
       ]
     },
