@@ -1,10 +1,18 @@
 {
-  "updated": 1784747528,
+  "updated": 1784773748,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Wait... Just How Good IS GPT-6?",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/123187945/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-22%2F428438666-44100-2-2ba4e54c90159.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-22T20:52:05+00:00",
+          "duration": "00:32:44"
+        },
         {
           "kind": "audio",
           "title": "The Fight Over Which AI Models You Can Use",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-25T22:03:34+00:00",
           "duration": "00:30:04"
-        },
-        {
-          "kind": "audio",
-          "title": "5 Ways Claude Tag Could Change How You Use AI",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/121955264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-24%2F426778566-44100-2-70956cc9dffab.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-24T22:02:03+00:00",
-          "duration": "00:27:01"
         }
       ]
     },
@@ -671,6 +671,30 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "AI Agents Hack Hugging Face, White House Promotes Science’s Golden Age | Diet TBPN",
+          "src": "https://media.transistor.fm/2008e80a/c4800842.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-22T17:03:10-07:00",
+          "duration": "1904"
+        },
+        {
+          "kind": "audio",
+          "title": "Inside Travis Kalanick’s Wild New AI Company",
+          "src": "https://media.transistor.fm/9736f886/965d4c3c.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-22T14:00:20-07:00",
+          "duration": "2739"
+        },
+        {
+          "kind": "audio",
+          "title": "HackingFace, White House $5B AI Science Bet, Travis Kalanick Joins | Veeral Patel, Lin Qiao, Jason Fried, Travis Kalanick, Max Hodak",
+          "src": "https://media.transistor.fm/e6decec8/a49bbb41.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-22T13:56:49-07:00",
+          "duration": "9217"
+        },
+        {
+          "kind": "audio",
           "title": "U.S. AI Execs Warn as China’s AI Push Grows, Substack Adds AI Detection Tool | Diet TBPN",
           "src": "https://media.transistor.fm/d0b9b1e1/b86d4665.mp3",
           "type": "audio/mpeg",
@@ -844,30 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-07T13:45:03-07:00",
           "duration": "8391"
-        },
-        {
-          "kind": "audio",
-          "title": "Alex Hormozi's Playbook for Building Billion-Dollar Businesses",
-          "src": "https://media.transistor.fm/0165318c/df50fbb0.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-07T13:25:21-07:00",
-          "duration": "3642"
-        },
-        {
-          "kind": "audio",
-          "title": "XBOX Layoffs, Tesla's New Model Y, $12.8M Lottery Dispute | Diet TBPN",
-          "src": "https://media.transistor.fm/a54882ec/13488a55.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-06T18:06:51-07:00",
-          "duration": "1830"
-        },
-        {
-          "kind": "audio",
-          "title": "XBOX Layoffs, \"Manual\" Ferrari, Circle K Lottery Dispute | Baiju Bhatt, Daniel English, Michele Catasta",
-          "src": "https://media.transistor.fm/5fcc7e7e/6ee348b3.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-06T13:32:29-07:00",
-          "duration": "7558"
         }
       ]
     },
