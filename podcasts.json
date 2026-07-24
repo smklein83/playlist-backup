@@ -1,5 +1,5 @@
 {
-  "updated": 1784881410,
+  "updated": 1784900306,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -419,6 +419,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Platner’s Top Campaign Strategist on What Went Wrong",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/a2935aa6-afe1-4c71-9bb4-c89fd2717b6e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=a2935aa6-afe1-4c71-9bb4-c89fd2717b6e&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-07-24T09:00:00+00:00",
+          "duration": "01:18:27"
+        },
+        {
+          "kind": "audio",
           "title": "Best Of: A Breath of Fresh Air With Brian Eno",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/f391342a-4e73-494c-b42c-5ac20826ed29/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=f391342a-4e73-494c-b42c-5ac20826ed29&feed=kEKXbjuJ",
           "type": "audio/mpeg",
@@ -432,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-14T09:00:00+00:00",
           "duration": "01:43:53"
-        },
-        {
-          "kind": "audio",
-          "title": "The Very Good and Very Bad News on Climate",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/1f000edc-74ef-45b9-97d4-2733237870c1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=1f000edc-74ef-45b9-97d4-2733237870c1&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-07-10T09:00:00+00:00",
-          "duration": "01:25:22"
         },
         {
           "kind": "audio",
