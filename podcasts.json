@@ -1,10 +1,18 @@
 {
-  "updated": 1784900306,
+  "updated": 1784920868,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Why AI Hasn’t Increased Unemployment, According to Anthropic",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/123277580/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-24%2F428558844-44100-2-f3905f6d9daa2.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-24T18:12:23+00:00",
+          "duration": "00:35:52"
+        },
         {
           "kind": "audio",
           "title": "A Field Guide to AI Market Freakouts",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-27T16:18:40+00:00",
           "duration": "00:10:55"
-        },
-        {
-          "kind": "audio",
-          "title": "Botsitting: The Work Draining AI Gains",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/122037285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-26%2F426890295-44100-2-f6243a3b5a155.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-26T18:30:26+00:00",
-          "duration": "00:25:19"
         }
       ]
     },
