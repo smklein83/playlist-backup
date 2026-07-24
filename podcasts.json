@@ -1,10 +1,18 @@
 {
-  "updated": 1784833912,
+  "updated": 1784859993,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "A Field Guide to AI Market Freakouts",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/123235373/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-23%2F428501756-44100-2-9c2da0953b21c.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-23T20:22:55+00:00",
+          "duration": "00:25:09"
+        },
         {
           "kind": "audio",
           "title": "Wait... Just How Good IS GPT-6?",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-26T18:30:26+00:00",
           "duration": "00:25:19"
-        },
-        {
-          "kind": "audio",
-          "title": "CEO-Led AI Gets 3X the ROI",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/122001402/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-25%2F426841819-44100-2-47724beb733c2.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-25T22:03:34+00:00",
-          "duration": "00:30:04"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "AMD Advancing AI, Google Q2 Earnings, OpenAI Plans $750B Cloud Spend | Diet TBPN",
+          "src": "https://media.transistor.fm/270d6f69/12c2abe1.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-23T17:59:27-07:00",
+          "duration": "1459"
+        },
+        {
+          "kind": "audio",
+          "title": "AMD CEO Lisa Su Live on TBPN | Oliver Cameron, Mohammad Norouzi, Anjney Midha, Lisa Su",
+          "src": "https://media.transistor.fm/c0a83c4d/5d6ca73b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-23T14:16:09-07:00",
+          "duration": "6295"
+        },
+        {
+          "kind": "audio",
           "title": "AI Agents Hack Hugging Face, White House Promotes Science’s Golden Age | Diet TBPN",
           "src": "https://media.transistor.fm/2008e80a/c4800842.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-08T14:27:33-07:00",
           "duration": "9877"
-        },
-        {
-          "kind": "audio",
-          "title": "China Considers AI Export Controls, SK Hynix Eyes $28B IPO, Banks Target Payment Business | Diet TBPN",
-          "src": "https://media.transistor.fm/0a812114/bd78cd7b.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-07T17:48:16-07:00",
-          "duration": "1504"
-        },
-        {
-          "kind": "audio",
-          "title": "China Export Controls, Jeremy Giffon Breaks Silence, Alex Hormozi in the Ultradome | Josh Zoffer, John McElhone, Deena Shakir, Hussein Fazal, John Nay",
-          "src": "https://media.transistor.fm/fc38ff83/4ca73845.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-07T13:45:03-07:00",
-          "duration": "8391"
         }
       ]
     },
