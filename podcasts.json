@@ -1,5 +1,5 @@
 {
-  "updated": 1784859993,
+  "updated": 1784881410,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "How Franchise Restaurants Opened the Door to the Gig Economy",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/2050514a-2131-40e9-bc90-b48f0113d17c/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-07-24T08:00:00+00:00",
+          "duration": "2671"
+        },
+        {
+          "kind": "audio",
           "title": "Why Apple Is Heading Into a Pivotal Moment",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/0d6108b3-8435-4010-9141-b48f0145a86f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-11T08:00:00+00:00",
           "duration": "3295"
-        },
-        {
-          "kind": "audio",
-          "title": "How CoreWeave Sees the Market for Compute Right Now",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/450514c3-2648-49a8-9794-b46000d1738a/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-06-08T08:00:00+00:00",
-          "duration": "3050"
         }
       ]
     }
