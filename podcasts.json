@@ -1,5 +1,5 @@
 {
-  "updated": 1784920868,
+  "updated": 1784946292,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E282_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-07-24T20:46:00+00:00",
+          "duration": "01:33:44"
+        },
+        {
+          "kind": "audio",
           "title": "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_MC_RAISE_Ch.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-05-29T22:23:00+00:00",
           "duration": "01:34:57"
-        },
-        {
-          "kind": "audio",
-          "title": "SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E274_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-05-22T22:46:00+00:00",
-          "duration": "01:42:00"
         }
       ]
     },
