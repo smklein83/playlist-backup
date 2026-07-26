@@ -1,10 +1,18 @@
 {
-  "updated": 1785054149,
+  "updated": 1785071677,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How to Get the Most from AI This Summer",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/123339068/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-26%2F428640174-44100-2-d9db74d5d310f.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-26T12:44:01+00:00",
+          "duration": "00:20:34"
+        },
         {
           "kind": "audio",
           "title": "Why AI Hasn’t Increased Unemployment, According to Anthropic",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-28T11:52:35+00:00",
           "duration": "00:26:02"
-        },
-        {
-          "kind": "audio",
-          "title": "The Ad Hoc AI Licensing Regime",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/122069131/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-27%2F426933172-44100-2-fb4074f84cbc5.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-27T16:18:40+00:00",
-          "duration": "00:10:55"
         }
       ]
     },
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "How Financial Advisors Can Grow During the Great Wealth Transfer (Sponsored Content)",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/6027c695-2425-4510-bd41-b491014d8b7a/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-07-26T10:00:00+00:00",
+          "duration": "1077"
+        },
+        {
+          "kind": "audio",
           "title": "How Franchise Restaurants Opened the Door to the Gig Economy",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/2050514a-2131-40e9-bc90-b48f0113d17c/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-12T08:00:00+00:00",
           "duration": "2427"
-        },
-        {
-          "kind": "audio",
-          "title": "Why Tomatoes Are the Most Expensive They've Been in Four Decades",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bb971e9b-4530-4ff9-bd68-b46500d94544/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-06-11T08:00:00+00:00",
-          "duration": "3295"
         }
       ]
     }
