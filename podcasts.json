@@ -1,10 +1,18 @@
 {
-  "updated": 1785145522,
+  "updated": 1785162417,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How to Get the Most from AI This Summer",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/123339068/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-26%2F428640174-44100-2-d9db74d5d310f.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-26T12:44:01+00:00",
+          "duration": "00:20:34"
+        },
         {
           "kind": "audio",
           "title": "Why AI Hasn’t Increased Unemployment, According to Anthropic",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-28T11:52:35+00:00",
           "duration": "00:26:02"
-        },
-        {
-          "kind": "audio",
-          "title": "The Ad Hoc AI Licensing Regime",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/122069131/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-27%2F426933172-44100-2-fb4074f84cbc5.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-27T16:18:40+00:00",
-          "duration": "00:10:55"
         }
       ]
     },
