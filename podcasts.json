@@ -1,5 +1,5 @@
 {
-  "updated": 1785227373,
+  "updated": 1785247172,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -417,6 +417,14 @@
       "name": "The Ezra Klein Show",
       "feed": "https://feeds.simplecast.com/kEKXbjuJ",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "What is the Democratic Party? What Could It Be?",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/a6f21058-1901-44d3-b546-472c52d22562/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=a6f21058-1901-44d3-b546-472c52d22562&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-07-28T09:00:00+00:00",
+          "duration": "00:57:31"
+        },
         {
           "kind": "audio",
           "title": "Platner’s Top Campaign Strategist on What Went Wrong",
