@@ -1,10 +1,18 @@
 {
-  "updated": 1785180187,
+  "updated": 1785204786,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Where Claude Opus 5 Fits in Your Model Rotation",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/123403084/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-27%2F428726884-44100-2-de4fddedc5a86.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-27T22:07:36+00:00",
+          "duration": "00:32:49"
+        },
         {
           "kind": "audio",
           "title": "How to Get the Most from AI This Summer",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-29T18:13:14+00:00",
           "duration": "00:33:12"
-        },
-        {
-          "kind": "audio",
-          "title": "The Capability Overhang Playbook",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/122094487/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-28%2F426966199-44100-2-33e95372fce36.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-28T11:52:35+00:00",
-          "duration": "00:26:02"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Open Source vs. Closed Source, NVIDIA Backs SSI, YC Startup School Fills Stadium | Diet TBPN",
+          "src": "https://media.transistor.fm/d2623a19/87d55361.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-27T15:14:34-07:00",
+          "duration": "1708"
+        },
+        {
+          "kind": "audio",
+          "title": "Letter Enthusiasts, Open Source vs. Closed Source, Mega-Startup School | Luke Knight & Ronan Chambers, Gary Vaynerchuk, Jonathan Jacobi, Dean Meyer, Brent Franson, Matej Cernosek, Justin Boitano",
+          "src": "https://media.transistor.fm/588d0658/1708289f.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-27T14:08:10-07:00",
+          "duration": "9089"
+        },
+        {
+          "kind": "audio",
           "title": "AMD Advancing AI, Google Q2 Earnings, OpenAI Plans $750B Cloud Spend | Diet TBPN",
           "src": "https://media.transistor.fm/270d6f69/12c2abe1.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-08T17:18:45-07:00",
           "duration": "1686"
-        },
-        {
-          "kind": "audio",
-          "title": "Ben Thompson Explains the XBOX Disaster",
-          "src": "https://media.transistor.fm/d9234efb/7648862c.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-08T15:03:36-07:00",
-          "duration": "1663"
-        },
-        {
-          "kind": "audio",
-          "title": "GPT-5.6 Sol Reactions, Coatue Bets Big on Blue Origin, Cheaper Vision Pro Delayed | Vincent Weisser, Ben Thompson, Rodrigo Liang, Alana Palmedo, Byron Boots, Will Mayer, Tucker Brown",
-          "src": "https://media.transistor.fm/bed12620/3c2c4e27.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-08T14:27:33-07:00",
-          "duration": "9877"
         }
       ]
     },
