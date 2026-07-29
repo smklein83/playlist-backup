@@ -1,5 +1,5 @@
 {
-  "updated": 1785333817,
+  "updated": 1785352269,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -679,6 +679,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "RSI Is Closer Than People Think, Per Tae Kim",
+          "src": "https://media.transistor.fm/4b521dc2/33b01832.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-29T10:08:55-07:00",
+          "duration": "1882"
+        },
+        {
+          "kind": "audio",
           "title": "Big Companies Start Hiring Again, Anthropic's Open-Weight Position, Zuck Backs AI for All | Diet TBPN",
           "src": "https://media.transistor.fm/b8fbde1a/46963266.mp3",
           "type": "audio/mpeg",
@@ -868,14 +876,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-10T13:27:27-07:00",
           "duration": "6590"
-        },
-        {
-          "kind": "audio",
-          "title": "Model Mayhem: OpenAI’s 5.6 and Meta’s Muse Spark 1.1 | Diet TBPN",
-          "src": "https://media.transistor.fm/d392269c/29261fa4.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-09T16:02:10-07:00",
-          "duration": "1475"
         }
       ]
     },
