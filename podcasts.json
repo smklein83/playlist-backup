@@ -1,10 +1,18 @@
 {
-  "updated": 1785266337,
+  "updated": 1785291827,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Big Tech Unites for Open Source AI—and Against Anthropic",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/123453532/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428795610-44100-2-50546e001c26e.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-28T21:31:55+00:00",
+          "duration": "00:31:05"
+        },
         {
           "kind": "audio",
           "title": "Where Claude Opus 5 Fits in Your Model Rotation",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-30T20:56:32+00:00",
           "duration": "00:27:54"
-        },
-        {
-          "kind": "audio",
-          "title": "Mythos Comes Back But Not for Everyone",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/122157650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-29%2F427049048-44100-2-59c08c0e54e42.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-29T18:13:14+00:00",
-          "duration": "00:33:12"
         }
       ]
     },
@@ -679,6 +679,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Big Companies Start Hiring Again, Anthropic's Open-Weight Position, Zuck Backs AI for All | Diet TBPN",
+          "src": "https://media.transistor.fm/b8fbde1a/46963266.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-28T16:28:17-07:00",
+          "duration": "2123"
+        },
+        {
+          "kind": "audio",
+          "title": "Tae Kim Sounds Off, Big Companies Are Hiring Again, NVIDIA $50B Tenant | Tae Kim, Ben Zweig, Aakash Thumaty",
+          "src": "https://media.transistor.fm/d8926292/51be3d5e.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-28T13:23:22-07:00",
+          "duration": "6606"
+        },
+        {
+          "kind": "audio",
           "title": "Open Source vs. Closed Source, NVIDIA Backs SSI, YC Startup School Fills Stadium | Diet TBPN",
           "src": "https://media.transistor.fm/d2623a19/87d55361.mp3",
           "type": "audio/mpeg",
@@ -860,22 +876,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-09T16:02:10-07:00",
           "duration": "1475"
-        },
-        {
-          "kind": "audio",
-          "title": "Meta Releases Muse 1.1, GPT-5.6 Sol Reactions, New Robot Hand Alert | Eric Seufert, Bernt Børnich, Josh Lindgren, Jeffrey Morgan, Thibault Sottiaux, Sean Frank",
-          "src": "https://media.transistor.fm/5676e6f2/bdd1c058.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-09T13:45:45-07:00",
-          "duration": "8576"
-        },
-        {
-          "kind": "audio",
-          "title": "Blue Origin Raises Capital, Getty-Shutterstock Deal Dies, GPT-5.6 Launches Tomorrow | Diet TBPN",
-          "src": "https://media.transistor.fm/60d3d67b/56a35324.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-08T17:18:45-07:00",
-          "duration": "1686"
         }
       ]
     },
