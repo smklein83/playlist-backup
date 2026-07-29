@@ -1,5 +1,5 @@
 {
-  "updated": 1785314181,
+  "updated": 1785333817,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_ROBOTS_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-07-28T20:21:00+00:00",
+          "duration": "01:08:35"
+        },
+        {
+          "kind": "audio",
           "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E282_Ch.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-02T14:31:00+00:00",
           "duration": "32:02"
-        },
-        {
-          "kind": "audio",
-          "title": "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E275_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-05-29T22:23:00+00:00",
-          "duration": "01:34:57"
         }
       ]
     },
