@@ -1,10 +1,18 @@
 {
-  "updated": 1785419634,
+  "updated": 1785439349,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "6 Questions Every Enterprise Has to Answer About AI",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/123543619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-30%2F428917809-44100-2-9b7058b907f7a.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-30T19:00:01+00:00",
+          "duration": "00:28:51"
+        },
         {
           "kind": "audio",
           "title": "The AI Industry Asks Government to Slow It Down",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-02T18:30:13+00:00",
           "duration": "00:27:47"
-        },
-        {
-          "kind": "audio",
-          "title": "Fable is Back: Here's What You Should Try First",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/122263095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F427190589-44100-2-79244ad1db14d.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-01T20:39:08+00:00",
-          "duration": "00:29:59"
         }
       ]
     },
