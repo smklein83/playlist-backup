@@ -1,5 +1,5 @@
 {
-  "updated": 1785377143,
+  "updated": 1785399688,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -679,6 +679,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "U.S. Bans New Chinese Humanoids, Zuck’s Op-Ed, eBay's $56M Lawsuit | Diet TBPN",
+          "src": "https://media.transistor.fm/f8b6ce76/02527c39.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-29T19:38:26-07:00",
+          "duration": "1764"
+        },
+        {
+          "kind": "audio",
           "title": "Robot Bans, Zuck Op-Ed, eBay Settles | Joe Weisenthal, Jameson Detweiler, Stanley Tang, Amjad Masad, Adam Cohen",
           "src": "https://media.transistor.fm/0078676f/10a1bdde.mp3",
           "type": "audio/mpeg",
@@ -868,14 +876,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-13T14:02:48-07:00",
           "duration": "9213"
-        },
-        {
-          "kind": "audio",
-          "title": "GPT-5.6 Reactions, Phoebe Gates’ Phia Drama, Hollywood Chases Internet Horror | Diet TBPN",
-          "src": "https://media.transistor.fm/d98b6530/02b41907.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-10T16:45:22-07:00",
-          "duration": "1955"
         }
       ]
     },
@@ -1091,6 +1091,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "How the Iranian Economy Actually Works",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/519b7338-f6ec-4d99-a8a2-b496012a0db1/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-07-30T08:00:00+00:00",
+          "duration": "3446"
+        },
+        {
+          "kind": "audio",
           "title": "Branko Milanovic on What Comes After Globalization",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/dac96181-5b1e-4549-a0f9-b491013fe961/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1280,14 +1288,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-15T08:00:00+00:00",
           "duration": "1976"
-        },
-        {
-          "kind": "audio",
-          "title": "Anjney Midha's Plan to Radically Lower the Price of Compute",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/90cd8aa8-11c9-4cd3-813a-b467011c7f57/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-06-13T08:00:00+00:00",
-          "duration": "3021"
         }
       ]
     }
