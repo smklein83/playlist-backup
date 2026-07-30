@@ -1,10 +1,18 @@
 {
-  "updated": 1785352269,
+  "updated": 1785377143,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The AI Industry Asks Government to Slow It Down",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/123505488/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-29%2F428866124-44100-2-3af3bb2fb8f1b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-29T22:42:22+00:00",
+          "duration": "00:29:39"
+        },
         {
           "kind": "audio",
           "title": "Big Tech Unites for Open Source AI—and Against Anthropic",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-01T20:39:08+00:00",
           "duration": "00:29:59"
-        },
-        {
-          "kind": "audio",
-          "title": "How Big Is the AI Economy?",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/122214781/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-30%2F427125407-44100-2-3b3f2301a9ba9.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-06-30T20:56:32+00:00",
-          "duration": "00:27:54"
         }
       ]
     },
@@ -679,6 +679,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Robot Bans, Zuck Op-Ed, eBay Settles | Joe Weisenthal, Jameson Detweiler, Stanley Tang, Amjad Masad, Adam Cohen",
+          "src": "https://media.transistor.fm/0078676f/10a1bdde.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-07-29T13:35:22-07:00",
+          "duration": "8488"
+        },
+        {
+          "kind": "audio",
           "title": "RSI Is Closer Than People Think, Per Tae Kim",
           "src": "https://media.transistor.fm/4b521dc2/33b01832.mp3",
           "type": "audio/mpeg",
@@ -868,14 +876,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-10T16:45:22-07:00",
           "duration": "1955"
-        },
-        {
-          "kind": "audio",
-          "title": "Hollywood Chases Internet Horror, Love Island Prediction Markets, Phoebe Gates Affiliate Drama, 𝕏 Timeline Reactions & More",
-          "src": "https://media.transistor.fm/54cb7d97/f775df17.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-10T13:27:27-07:00",
-          "duration": "6590"
         }
       ]
     },
