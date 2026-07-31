@@ -1,5 +1,5 @@
 {
-  "updated": 1785465177,
+  "updated": 1785487533,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -1091,6 +1091,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Why Private Credit Got Entangled With Insurance",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f004446b-a024-4773-bd04-b497017ec344/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-07-31T08:00:00+00:00",
+          "duration": "3103"
+        },
+        {
+          "kind": "audio",
           "title": "How the Iranian Economy Actually Works",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/519b7338-f6ec-4d99-a8a2-b496012a0db1/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1280,14 +1288,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-16T20:00:00+00:00",
           "duration": "1204"
-        },
-        {
-          "kind": "audio",
-          "title": "Carmen Li's Plan to Build a Futures Market for Compute",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/60472ab3-350e-4e47-a612-b4670121babd/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-06-15T08:00:00+00:00",
-          "duration": "1976"
         }
       ]
     }
