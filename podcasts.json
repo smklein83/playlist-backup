@@ -1,5 +1,5 @@
 {
-  "updated": 1785487533,
+  "updated": 1785506298,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -419,6 +419,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "How Trump Has Changed, With Maggie Haberman",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/f645068c-bc10-4258-b41f-94beb310ddcd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=f645068c-bc10-4258-b41f-94beb310ddcd&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-07-31T09:00:00+00:00",
+          "duration": "00:58:57"
+        },
+        {
+          "kind": "audio",
           "title": "What is the Democratic Party? What Could It Be?",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/a6f21058-1901-44d3-b546-472c52d22562/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=a6f21058-1901-44d3-b546-472c52d22562&feed=kEKXbjuJ",
           "type": "audio/mpeg",
@@ -432,22 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-24T09:00:00+00:00",
           "duration": "01:18:27"
-        },
-        {
-          "kind": "audio",
-          "title": "Best Of: A Breath of Fresh Air With Brian Eno",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/f391342a-4e73-494c-b42c-5ac20826ed29/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=f391342a-4e73-494c-b42c-5ac20826ed29&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-07-21T09:00:00+00:00",
-          "duration": "01:30:44"
-        },
-        {
-          "kind": "audio",
-          "title": "What Xi Jinping Wants",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/c5f3e1ea-3ecc-4d3b-ba88-d070be4293f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=c5f3e1ea-3ecc-4d3b-ba88-d070be4293f6&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-07-14T09:00:00+00:00",
-          "duration": "01:43:53"
         },
         {
           "kind": "audio",
