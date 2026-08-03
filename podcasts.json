@@ -1,5 +1,5 @@
 {
-  "updated": 1785697507,
+  "updated": 1785724436,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -1288,6 +1288,172 @@
           "type": "audio/mpeg",
           "date": "2026-06-16T20:00:00+00:00",
           "duration": "1204"
+        }
+      ]
+    },
+    {
+      "name": "Noahpinion",
+      "feed": "https://noahpinion.substack.com/feed",
+      "episodes": [
+        {
+          "kind": "audio",
+          "title": "Slopulism is taking over America",
+          "src": "https://substackcdn.com/image/fetch/$s_!eURY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03df662f-0cd9-411a-90b8-f1dddef0ed54_780x439.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-08-02T09:13:04+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Why did South Korean stocks just crash?",
+          "src": "https://substackcdn.com/image/fetch/$s_!nSUd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14e78aa5-484e-4116-9d08-40eb31982fdd_768x460.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-30T10:18:50+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Roundup #85: Most policy is also industrial policy",
+          "src": "https://substackcdn.com/image/fetch/$s_!VFHR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbb6ba12-a3b6-4092-a140-fbd116786e0a_1024x683.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-28T00:33:43+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "What will more intelligence actually do for us?",
+          "src": "https://substackcdn.com/image/fetch/$s_!ElHF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F533b347d-c640-4b99-b746-78e790ab20d9_739x415.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-26T07:56:22+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "We asked too much of the American university",
+          "src": "https://substackcdn.com/image/fetch/$s_!oxi0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F320cf0cb-1824-453c-9d7b-edc875ae3ed1_1152x648.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-24T07:46:56+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Who was the worst monster of the 20th century?",
+          "src": "https://substackcdn.com/image/fetch/$s_!5PGi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbbff49e-1a5c-4476-bef3-f0c2da2babfc_768x863.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-22T07:34:05+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "The UK is a cautionary tale for the U.S.",
+          "src": "https://substackcdn.com/image/fetch/$s_!tbo6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ec502c2-2ec1-464c-9274-d47f473c8a7f_960x640.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-20T06:51:10+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "America's political economy is pretty bleak right now",
+          "src": "https://substackcdn.com/image/fetch/$s_!YAKO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d21a60a-f3b4-49fc-8d4b-71dda931efd6_960x642.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-18T10:30:47+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Book Review: \"Power and Progress\"",
+          "src": "https://substackcdn.com/image/fetch/$s_!S3hY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4454bed-f30b-4fb1-8807-f8d956591ce3_645x1000.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-17T03:52:55+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Why I didn't sign the \"We Must Act Now\" statement (yet)",
+          "src": "https://substackcdn.com/image/fetch/$s_!5KIJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bc9abd2-2d58-494a-8772-c0f3f020f0e2_615x616.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-15T08:19:54+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "The American suburbs are better than you think",
+          "src": "https://substackcdn.com/image/fetch/$s_!aR4s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f223af9-6eff-46ad-94db-056f9c96bc6c_1021x676.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-13T12:38:16+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "I have never been working class",
+          "src": "https://substackcdn.com/image/fetch/$s_!EW1d!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65a381ce-5fc6-4b47-a4a6-fb4b14b89de9_635x554.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-12T09:22:33+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "MAGA's attack on science is even worse than it looks",
+          "src": "https://substackcdn.com/image/fetch/$s_!aj0J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff7c99ce-45ba-45ea-b11e-954c0818eb38_960x690.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-10T15:23:02+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "JD Vance's crusade against GDP is wrong and bad",
+          "src": "https://substackcdn.com/image/fetch/$s_!QLXP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6613d9ce-178d-4a78-b2c6-a790bd55086b_960x627.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-08T03:56:06+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "No, China did not manage to avoid a crash",
+          "src": "https://substackcdn.com/image/fetch/$s_!ib9l!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f304b74-66c5-495b-b21c-16933093754e_990x660.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-06T08:54:30+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "The American age was the human age",
+          "src": "https://substackcdn.com/image/fetch/$s_!xNMc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc9585d5-3cde-4b2a-b298-906c476d10e7_4509x3293.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-04T09:31:52+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Stop screeching about immigration, and get smart about it",
+          "src": "https://substackcdn.com/image/fetch/$s_!G6cd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba0dbfc9-5314-4cae-8785-2948491ae122_1007x690.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-02T20:05:15+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Roundup #84: Bears on bikes",
+          "src": "https://substackcdn.com/image/fetch/$s_!Q-st!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff995ddea-ded7-4951-b8ed-9f4b284152ac_869x652.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-07-01T06:31:00+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Will AI make companies outsource more, or less?",
+          "src": "https://substackcdn.com/image/fetch/$s_!iOr7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1eddc14-e1c5-4b49-b250-392025b12edb_1020x680.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-06-29T09:16:02+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Europe's resistance to AC is driving it insane",
+          "src": "https://substackcdn.com/image/fetch/$s_!hzyN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa06beae3-e6f3-4a6c-a881-b7432704e9be_1009x673.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-06-28T06:26:35+00:00",
+          "duration": ""
         }
       ]
     }
