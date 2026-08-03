@@ -1,5 +1,5 @@
 {
-  "updated": 1785767543,
+  "updated": 1785785210,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -419,7 +419,7 @@
       "episodes": [
         {
           "kind": "audio",
-          "title": "Christopher Nolan Stared Into Elon Musk’s Soul",
+          "title": "Christopher Nolan’s Trojan Horse",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/b939aa00-a668-4743-a082-3c9b2af488ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=b939aa00-a668-4743-a082-3c9b2af488ac&feed=kEKXbjuJ",
           "type": "audio/mpeg",
           "date": "2026-08-02T11:00:00+00:00",
@@ -877,6 +877,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Why smarter AI models could drive up compute prices 10x",
+          "src": "https://api.substack.com/feed/podcast/209664458/8c9917a2fbb3712135ff3b9d5736d797.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-03T17:32:13+00:00",
+          "duration": "678"
+        },
+        {
+          "kind": "audio",
           "title": "Adam Brown – A deep but accessible introduction to general relativity",
           "src": "https://api.substack.com/feed/podcast/206445844/59f976809738bf5ad158b7617346dda3.mp3",
           "type": "audio/mpeg",
@@ -1066,14 +1074,6 @@
           "type": "audio/mpeg",
           "date": "2025-10-31T15:01:37+00:00",
           "duration": "5436"
-        },
-        {
-          "kind": "audio",
-          "title": "Andrej Karpathy — AGI is still a decade away",
-          "src": "https://api.substack.com/feed/podcast/176425744/3127b612a1604474d2b28ab4e9b658f4.mp3",
-          "type": "audio/mpeg",
-          "date": "2025-10-17T16:54:33+00:00",
-          "duration": "8719"
         }
       ]
     },
