@@ -1,5 +1,5 @@
 {
-  "updated": 1785832331,
+  "updated": 1785852223,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -419,6 +419,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "The A.I. Revolt Is Here",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/6954b333-02c8-4439-af49-d932efe1d080/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=6954b333-02c8-4439-af49-d932efe1d080&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-08-04T09:00:00+00:00",
+          "duration": "01:18:15"
+        },
+        {
+          "kind": "audio",
           "title": "Christopher Nolan’s Trojan Horse",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/b939aa00-a668-4743-a082-3c9b2af488ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=b939aa00-a668-4743-a082-3c9b2af488ac&feed=kEKXbjuJ",
           "type": "audio/mpeg",
@@ -432,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-31T09:00:00+00:00",
           "duration": "00:58:57"
-        },
-        {
-          "kind": "audio",
-          "title": "What is the Democratic Party? What Could It Be?",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/a6f21058-1901-44d3-b546-472c52d22562/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=a6f21058-1901-44d3-b546-472c52d22562&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-07-28T09:00:00+00:00",
-          "duration": "00:57:31"
         },
         {
           "kind": "audio",
