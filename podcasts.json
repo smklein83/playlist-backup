@@ -1,10 +1,18 @@
 {
-  "updated": 1785852223,
+  "updated": 1785871683,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Why AI Washing Won’t Work Much Longer",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/123768928/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-4%2F429217982-44100-2-853bacd2395d6.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-04T18:45:32+00:00",
+          "duration": "00:24:48"
+        },
         {
           "kind": "audio",
           "title": "What Happens When AI Breakthroughs Outrun Human Understanding",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-07T19:00:28+00:00",
           "duration": "00:28:49"
-        },
-        {
-          "kind": "audio",
-          "title": "AI Is Making One-Person Million-Dollar Companies More Common",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/122474294/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-6%2F427473088-44100-2-dae9d3713f0cd.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-06T20:44:44+00:00",
-          "duration": "00:24:39"
         }
       ]
     },
