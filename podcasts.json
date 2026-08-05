@@ -1,10 +1,18 @@
 {
-  "updated": 1785938518,
+  "updated": 1785957923,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Why the Data Center Fight Has Little to Do With AI",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/123821799/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-5%2F429290682-44100-2-31dbfd777fcda.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-05T18:59:27+00:00",
+          "duration": "00:35:45"
+        },
         {
           "kind": "audio",
           "title": "Why AI Washing Won’t Work Much Longer",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-08T18:25:23+00:00",
           "duration": "00:26:49"
-        },
-        {
-          "kind": "audio",
-          "title": "Anthropic Can Now Read Claude’s Mind",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/122520534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F427536462-44100-2-c5ae42cc253d6.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-07T19:00:28+00:00",
-          "duration": "00:28:49"
         }
       ]
     },
