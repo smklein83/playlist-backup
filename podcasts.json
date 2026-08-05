@@ -1,5 +1,5 @@
 {
-  "updated": 1785871683,
+  "updated": 1785895883,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Bending Spoons Buys Airtable, OpenAI Hits Back at Apple Over Lawsuit, Spider-Man Ads in BMWs | Diet TBPN",
+          "src": "https://media.transistor.fm/1bfdc068/7a454b9d.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-04T17:06:11-07:00",
+          "duration": "1885"
+        },
+        {
+          "kind": "audio",
+          "title": "Bending Spoons Buys Airtable, Snap Rips, Ads in BMW | Grace Li, Samir Kaji, John Quinn, Nikhil Reddy, Art Levy & Russell Kaplan, Brendan Carr",
+          "src": "https://media.transistor.fm/b35b3f03/989f8224.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-04T13:55:51-07:00",
+          "duration": "9011"
+        },
+        {
+          "kind": "audio",
           "title": "Hank Green Faces AI Backlash, Astra Makes 10 Math Advances, Million-Dollar Solo Firms | Diet TBPN",
           "src": "https://media.transistor.fm/7117027c/2e6427c3.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-20T14:18:10-07:00",
           "duration": "9666"
-        },
-        {
-          "kind": "audio",
-          "title": "Tyler Cowen Doesn't Think America Should Ban Chinese AI Models",
-          "src": "https://media.transistor.fm/cce0bdfb/fa07b307.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-20T13:59:44-07:00",
-          "duration": "2120"
-        },
-        {
-          "kind": "audio",
-          "title": "Thinking Machines’ First AI Model, California Loses $3.2B to Texas, TSMC Adds $100B | Diet TBPN",
-          "src": "https://media.transistor.fm/b19a913a/ae604e0c.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-16T13:42:58-07:00",
-          "duration": "1213"
         }
       ]
     },
