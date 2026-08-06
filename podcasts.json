@@ -1,5 +1,5 @@
 {
-  "updated": 1785957923,
+  "updated": 1785982688,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_Saronic_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-08-05T20:19:00+00:00",
+          "duration": "48:19"
+        },
+        {
+          "kind": "audio",
           "title": "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E283_Ch.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-04T18:23:00+00:00",
           "duration": "32:45"
-        },
-        {
-          "kind": "audio",
-          "title": "Bill Ackman: Investment Strategy, What the Market is Missing, How AI Breaks Businesses",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Ackman_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-06-03T03:06:00+00:00",
-          "duration": "29:59"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Demis Is Out as DeepMind CEO, Revolut Founder Yacht Drama, AI’s Great Reverse Bank Run | Diet TBPN",
+          "src": "https://media.transistor.fm/75ae7b08/4b84a366.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-05T15:59:28-07:00",
+          "duration": "1867"
+        },
+        {
+          "kind": "audio",
+          "title": "Google DeepMind Reorgs, Rainforest Discoveries, Monkey Prices Surge | Harley Finkelstein, John J. Giamatteo, Jeremy Allaire, Mackenzie Burnett",
+          "src": "https://media.transistor.fm/ca871caf/38c86bac.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-05T13:29:53-07:00",
+          "duration": "6864"
+        },
+        {
+          "kind": "audio",
           "title": "Bending Spoons Buys Airtable, OpenAI Hits Back at Apple Over Lawsuit, Spider-Man Ads in BMWs | Diet TBPN",
           "src": "https://media.transistor.fm/1bfdc068/7a454b9d.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-21T14:00:20-07:00",
           "duration": "9219"
-        },
-        {
-          "kind": "audio",
-          "title": "Kimi K3 Reactions, The Odyssey Hits $264M in Debut, Netflix Embraces AI | Diet TBPN",
-          "src": "https://media.transistor.fm/b3a611e7/e33df8f3.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-20T16:05:00-07:00",
-          "duration": "1881"
-        },
-        {
-          "kind": "audio",
-          "title": "The AI Cold War, Odyssey Rips, Tyler Cowen Joins | Danny Yeung, Connor Love, Kahlil Lalji, Tarek Mansour, Tony Zhao",
-          "src": "https://media.transistor.fm/898ba371/7cd5e524.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-20T14:18:10-07:00",
-          "duration": "9666"
         }
       ]
     },
