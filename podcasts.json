@@ -1,5 +1,5 @@
 {
-  "updated": 1785982688,
+  "updated": 1786005074,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Brad Setser on the US's Unusual Japanese Yen Intervention",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/09ad45b2-ee9c-4482-8700-b49d0161d97f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-08-06T08:00:00+00:00",
+          "duration": "2520"
+        },
+        {
+          "kind": "audio",
           "title": "The Tungsten Market Is Warning of an Upcoming War",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/6ea24954-06b5-4daa-a250-b4980120947f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-19T08:00:00+00:00",
           "duration": "3986"
-        },
-        {
-          "kind": "audio",
-          "title": "Jeremy Grantham on How to Tell If a Bubble Is About to Burst",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/60f6b6ac-8fe5-49e8-80a2-b46c01750478/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-06-18T08:00:00+00:00",
-          "duration": "3580"
         }
       ]
     }
