@@ -1,5 +1,5 @@
 {
-  "updated": 1786107397,
+  "updated": 1786128714,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -877,6 +877,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "8 Predictions for the Era of Continual Learning",
+          "src": "https://api.substack.com/feed/podcast/210233020/686ae8afcbedeb0c29bb1f3d5ff3ce2e.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-07T17:17:40+00:00",
+          "duration": "517"
+        },
+        {
+          "kind": "audio",
           "title": "Why smarter AI models could drive up compute prices 10x",
           "src": "https://api.substack.com/feed/podcast/209664458/8c9917a2fbb3712135ff3b9d5736d797.mp3",
           "type": "audio/mpeg",
@@ -1066,14 +1074,6 @@
           "type": "audio/mpeg",
           "date": "2025-11-12T17:03:08+00:00",
           "duration": "5267"
-        },
-        {
-          "kind": "audio",
-          "title": "Sarah Paine — How Russia sabotaged China's rise",
-          "src": "https://api.substack.com/feed/podcast/177641179/7438c63434262b0f316c17d347d058c1.mp3",
-          "type": "audio/mpeg",
-          "date": "2025-10-31T15:01:37+00:00",
-          "duration": "5436"
         }
       ]
     },
@@ -1087,7 +1087,7 @@
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/253af1b0-6485-46c3-b506-b49e01625633/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
           "date": "2026-08-07T08:00:00+00:00",
-          "duration": "2579"
+          "duration": "3467"
         },
         {
           "kind": "audio",
