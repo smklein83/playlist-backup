@@ -1,10 +1,18 @@
 {
-  "updated": 1786192881,
+  "updated": 1786213973,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "41 Stats That Tell the Story of AI Right Now",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/123942354/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-8%2F429458191-44100-2-2cf364061baad.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-08T18:00:01+00:00",
+          "duration": "00:22:48"
+        },
         {
           "kind": "audio",
           "title": "The Right Way to Worry About AI",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-12T10:47:12+00:00",
           "duration": "00:22:48"
-        },
-        {
-          "kind": "audio",
-          "title": "ChatGPT Just Became a Work Agent",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/122668151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-10%2F427735252-44100-2-49bb9c467bcfd.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-10T19:29:38+00:00",
-          "duration": "00:29:15"
         }
       ]
     },
