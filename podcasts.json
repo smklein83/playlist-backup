@@ -1,5 +1,5 @@
 {
-  "updated": 1786151998,
+  "updated": 1786171576,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E284_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-08-08T00:32:00+00:00",
+          "duration": "01:15:18"
+        },
+        {
+          "kind": "audio",
           "title": "Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_Saronic_Ch.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-05T19:18:00+00:00",
           "duration": "31:16"
-        },
-        {
-          "kind": "audio",
-          "title": "Thomas Laffont: The $4T AI IPO Wave, 2026's Unicorn Economy, and the 10X Paradox",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/TL_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-06-04T18:23:00+00:00",
-          "duration": "32:45"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "AI-Designed Viruses, OpenAI’s First Device, The Mansion Section | Diet TBPN",
+          "src": "https://media.transistor.fm/750cf04c/e90ad243.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-07T19:22:44-07:00",
+          "duration": "2005"
+        },
+        {
+          "kind": "audio",
           "title": "AI Viruses, OpenAI's First Device, WSJ Mansion Section | Samir Kaul, Patrick Wendell, Grant LaFontaine",
           "src": "https://media.transistor.fm/a03bb8de/0da8e7d9.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-22T17:03:10-07:00",
           "duration": "1904"
-        },
-        {
-          "kind": "audio",
-          "title": "Inside Travis Kalanick’s Wild New AI Company",
-          "src": "https://media.transistor.fm/9736f886/965d4c3c.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-22T14:00:20-07:00",
-          "duration": "2739"
         }
       ]
     },
