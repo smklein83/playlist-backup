@@ -1,5 +1,5 @@
 {
-  "updated": 1786431729,
+  "updated": 1786453022,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -419,6 +419,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Ross Douthat: The Exit Interview",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/dc8cc2d2-9a97-44b4-9c92-37ad73174e9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=dc8cc2d2-9a97-44b4-9c92-37ad73174e9f&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-08-11T09:00:00+00:00",
+          "duration": "01:13:57"
+        },
+        {
+          "kind": "audio",
           "title": "AMA: Peter Thiel, Chris Rufo and the D.S.A.",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/5ee7904b-fd58-4f52-a3cb-383282b56b7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=5ee7904b-fd58-4f52-a3cb-383282b56b7b&feed=kEKXbjuJ",
           "type": "audio/mpeg",
@@ -432,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-04T09:00:00+00:00",
           "duration": "01:18:15"
-        },
-        {
-          "kind": "audio",
-          "title": "Christopher Nolan’s Trojan Horse",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/b939aa00-a668-4743-a082-3c9b2af488ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=b939aa00-a668-4743-a082-3c9b2af488ac&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-08-02T11:00:00+00:00",
-          "duration": "00:16:04"
         },
         {
           "kind": "audio",
