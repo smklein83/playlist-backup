@@ -1,10 +1,18 @@
 {
-  "updated": 1786387980,
+  "updated": 1786411477,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "What the Heck is Graph Engineering?",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/124043095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2F429594264-44100-2-ed4318aa908a2.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-10T21:10:55+00:00",
+          "duration": "00:26:28"
+        },
         {
           "kind": "audio",
           "title": "41 Stats That Tell the Story of AI Right Now",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-13T18:23:13+00:00",
           "duration": "00:31:28"
-        },
-        {
-          "kind": "audio",
-          "title": "How to Help People Thrive with AI",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/122718777/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-12%2F427802521-44100-2-51652db76c0c6.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-12T10:47:12+00:00",
-          "duration": "00:22:48"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Zuck’s AI Vision, Celebs Are Dating Private Equity Guys, AI Agent Hacks Gym | Diet TBPN",
+          "src": "https://media.transistor.fm/a279d85c/f5ff9707.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-10T18:15:48-07:00",
+          "duration": "1893"
+        },
+        {
+          "kind": "audio",
+          "title": "Zuck's AI Future, AI Hacks Gym, SpaceX Moons | Ryan Spoon, Nicolai Klemke, Adam Goldstein & Brian Yutko",
+          "src": "https://media.transistor.fm/5026e63e/af60503a.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-10T13:39:52-07:00",
+          "duration": "7149"
+        },
+        {
+          "kind": "audio",
           "title": "AI-Designed Viruses, OpenAI’s First Device, The Mansion Section | Diet TBPN",
           "src": "https://media.transistor.fm/750cf04c/e90ad243.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-23T17:59:27-07:00",
           "duration": "1459"
-        },
-        {
-          "kind": "audio",
-          "title": "AMD CEO Lisa Su Live on TBPN | Oliver Cameron, Mohammad Norouzi, Anjney Midha, Lisa Su",
-          "src": "https://media.transistor.fm/c0a83c4d/5d6ca73b.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-23T14:16:09-07:00",
-          "duration": "6295"
-        },
-        {
-          "kind": "audio",
-          "title": "AI Agents Hack Hugging Face, White House Promotes Science’s Golden Age | Diet TBPN",
-          "src": "https://media.transistor.fm/2008e80a/c4800842.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-22T17:03:10-07:00",
-          "duration": "1904"
         }
       ]
     },
