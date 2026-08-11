@@ -1,5 +1,5 @@
 {
-  "updated": 1786453022,
+  "updated": 1786474679,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -877,6 +877,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Ryan Greenblatt – Human level AIs might build runaway superintelligences by 2032",
+          "src": "https://api.substack.com/feed/podcast/210737923/e93bde91ce72fbf50e2faa22a7a594d0.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-11T16:31:23+00:00",
+          "duration": "7952"
+        },
+        {
+          "kind": "audio",
           "title": "8 Predictions for the Era of Continual Learning",
           "src": "https://api.substack.com/feed/podcast/210233020/686ae8afcbedeb0c29bb1f3d5ff3ce2e.mp3",
           "type": "audio/mpeg",
@@ -1066,14 +1074,6 @@
           "type": "audio/mpeg",
           "date": "2025-11-25T17:04:02+00:00",
           "duration": "5763"
-        },
-        {
-          "kind": "audio",
-          "title": "Satya Nadella — How Microsoft is preparing for AGI",
-          "src": "https://api.substack.com/feed/podcast/178688356/17d73f3abbe37253ebebe0113754e6d5.mp3",
-          "type": "audio/mpeg",
-          "date": "2025-11-12T17:03:08+00:00",
-          "duration": "5267"
         }
       ]
     },
