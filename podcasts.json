@@ -1,10 +1,18 @@
 {
-  "updated": 1786474679,
+  "updated": 1786498913,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "AI Optimism Has a Trust Problem",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/124090320/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-11%2F429659390-44100-2-5bb359a8340ba.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-11T19:50:24+00:00",
+          "duration": "00:23:39"
+        },
         {
           "kind": "audio",
           "title": "What the Heck is Graph Engineering?",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-14T20:15:20+00:00",
           "duration": "00:23:08"
-        },
-        {
-          "kind": "audio",
-          "title": "How the Escalating AI Wars Benefit You",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/122784274/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-13%2F427889049-44100-2-e281d18f45f4b.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-13T18:23:13+00:00",
-          "duration": "00:31:28"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Nvidia’s $500B Compute Deal, Paramount Threatens CA Exit, Musk’s “Shortcut” to $1T Payday | Diet TBPN",
+          "src": "https://media.transistor.fm/30031c7f/38f5dca1.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-11T17:54:43-07:00",
+          "duration": "1810"
+        },
+        {
+          "kind": "audio",
+          "title": "NVIDIA's $500B Compute Deal, Paramount Threatens to Bounce, Record Europe Tourism | Ernie Garcia, Alex Edelson, Nico Simko, Ian McGinley, Conor Sen",
+          "src": "https://media.transistor.fm/9e551a21/a9ff5f6c.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-11T13:48:07-07:00",
+          "duration": "8106"
+        },
+        {
+          "kind": "audio",
           "title": "Zuck’s AI Vision, Celebs Are Dating Private Equity Guys, AI Agent Hacks Gym | Diet TBPN",
           "src": "https://media.transistor.fm/a279d85c/f5ff9707.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-27T15:14:34-07:00",
           "duration": "1708"
-        },
-        {
-          "kind": "audio",
-          "title": "Letter Enthusiasts, Open Source vs. Closed Source, Mega-Startup School | Luke Knight & Ronan Chambers, Gary Vaynerchuk, Jonathan Jacobi, Dean Meyer, Brent Franson, Matej Cernosek, Justin Boitano",
-          "src": "https://media.transistor.fm/588d0658/1708289f.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-27T14:08:10-07:00",
-          "duration": "9089"
-        },
-        {
-          "kind": "audio",
-          "title": "AMD Advancing AI, Google Q2 Earnings, OpenAI Plans $750B Cloud Spend | Diet TBPN",
-          "src": "https://media.transistor.fm/270d6f69/12c2abe1.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-23T17:59:27-07:00",
-          "duration": "1459"
         }
       ]
     },
