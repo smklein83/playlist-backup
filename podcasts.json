@@ -1,5 +1,5 @@
 {
-  "updated": 1786519187,
+  "updated": 1786539747,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -877,7 +877,7 @@
       "episodes": [
         {
           "kind": "audio",
-          "title": "Ryan Greenblatt – Human level AIs might build runaway superintelligences by 2032",
+          "title": "Ryan Greenblatt – What happens once AI can automate AI research?",
           "src": "https://api.substack.com/feed/podcast/210737923/e93bde91ce72fbf50e2faa22a7a594d0.mp3",
           "type": "audio/mpeg",
           "date": "2026-08-11T16:31:23+00:00",
