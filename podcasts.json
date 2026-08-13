@@ -1,10 +1,18 @@
 {
-  "updated": 1786561105,
+  "updated": 1786585454,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Grok Bot Finally Makes AI Agents Easy",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/124140905/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-12%2F429730192-44100-2-8e39630ef7295.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-12T20:10:24+00:00",
+          "duration": "00:28:23"
+        },
         {
           "kind": "audio",
           "title": "AI Optimism Has a Trust Problem",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-15T20:30:50+00:00",
           "duration": "00:28:09"
-        },
-        {
-          "kind": "audio",
-          "title": "AI Optimism vs. AI Pessimism",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/122840740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-14%2F427965424-44100-2-da7d17c690cd9.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-14T20:15:20+00:00",
-          "duration": "00:23:08"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Kushner & Iger’s $12.5B Lakers Deal, Grok 4.6 Launches, Anthropic’s Watermarking Move | Diet TBPN",
+          "src": "https://media.transistor.fm/136a2805/cb128bb4.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-12T17:38:57-07:00",
+          "duration": "1688"
+        },
+        {
+          "kind": "audio",
+          "title": "Kushner and Iger Buy The Lakers, Grok 4.6 Launch, NVIDIA Nemotron | Darren Rovell, Patrick Whitesell, Harjot Gill, Jeff Huber, Soren Monroe-Anderson & Shaun Maguire, Andrei Georgescu",
+          "src": "https://media.transistor.fm/05cdd0cc/73dc9d64.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-12T13:30:11-07:00",
+          "duration": "7064"
+        },
+        {
+          "kind": "audio",
           "title": "Nvidia’s $500B Compute Deal, Paramount Threatens CA Exit, Musk’s “Shortcut” to $1T Payday | Diet TBPN",
           "src": "https://media.transistor.fm/30031c7f/38f5dca1.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-28T16:28:17-07:00",
           "duration": "2123"
-        },
-        {
-          "kind": "audio",
-          "title": "Tae Kim Sounds Off, Big Companies Are Hiring Again, NVIDIA $50B Tenant | Tae Kim, Ben Zweig, Aakash Thumaty",
-          "src": "https://media.transistor.fm/d8926292/51be3d5e.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-28T13:23:22-07:00",
-          "duration": "6606"
-        },
-        {
-          "kind": "audio",
-          "title": "Open Source vs. Closed Source, NVIDIA Backs SSI, YC Startup School Fills Stadium | Diet TBPN",
-          "src": "https://media.transistor.fm/d2623a19/87d55361.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-27T15:14:34-07:00",
-          "duration": "1708"
         }
       ]
     },
