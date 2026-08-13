@@ -1,5 +1,5 @@
 {
-  "updated": 1786605746,
+  "updated": 1786626148,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Trucking Is Booming Again, And Drivers Aren't Happy About It",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bfd63d35-c7ad-4a5c-a603-b4a400dbfa65/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-08-13T08:00:00+00:00",
+          "duration": "2781"
+        },
+        {
+          "kind": "audio",
           "title": "NYT CEO Meredith Kopit Levien on Running a Media Brand in the Age of AI",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f7ff667e-d517-457f-b745-b49f0150c4e6/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-26T08:00:00+00:00",
           "duration": "1935"
-        },
-        {
-          "kind": "audio",
-          "title": "How the 1994 World Cup Transformed the Business of Football Forever",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/c2695185-bd74-4f28-9efa-b47300f4a97a/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-06-25T08:00:00+00:00",
-          "duration": "3044"
         }
       ]
     }
