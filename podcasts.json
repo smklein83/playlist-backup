@@ -1,5 +1,5 @@
 {
-  "updated": 1786585454,
+  "updated": 1786605746,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_Emanuel_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-08-13T02:10:00+00:00",
+          "duration": "01:11:36"
+        },
+        {
+          "kind": "audio",
           "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E284_Ch.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-06T16:30:00+00:00",
           "duration": "32:29"
-        },
-        {
-          "kind": "audio",
-          "title": "Dan Loeb: The Lost Art of Short Selling, and Why Stock Picking is Back",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/DanLoeb_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-06-05T19:18:00+00:00",
-          "duration": "31:16"
         }
       ]
     },
