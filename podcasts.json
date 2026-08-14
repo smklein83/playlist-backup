@@ -1,5 +1,5 @@
 {
-  "updated": 1786671742,
+  "updated": 1786691984,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "North Korea’s Secret US Workforce, Canceling the SaaSpocalypse, MSL’s Latest Exits | Diet TBPN",
+          "src": "https://media.transistor.fm/2890605e/af0f0951.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-13T19:04:22-07:00",
+          "duration": "1597"
+        },
+        {
+          "kind": "audio",
           "title": "SaaSpocalypse Revisited, Singer x Louis Vuitton, Aman vs Ryan Walker | Igor Babuschkin, Brannin McBee, Garret Langley, Sonya Huang, Sean Cole",
           "src": "https://media.transistor.fm/d71df947/56b431ce.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-29T13:35:22-07:00",
           "duration": "8488"
-        },
-        {
-          "kind": "audio",
-          "title": "RSI Is Closer Than People Think, Per Tae Kim",
-          "src": "https://media.transistor.fm/4b521dc2/33b01832.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-29T10:08:55-07:00",
-          "duration": "1882"
         }
       ]
     },
