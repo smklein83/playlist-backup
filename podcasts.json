@@ -1,10 +1,18 @@
 {
-  "updated": 1786647537,
+  "updated": 1786671742,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Grok 4.6 Shows How Fast Your AI Options Are Expanding",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/124187865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-13%2F429795335-44100-2-2cf594557f87b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-13T19:55:43+00:00",
+          "duration": "00:29:01"
+        },
         {
           "kind": "audio",
           "title": "Grok Bot Finally Makes AI Agents Easy",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-16T20:38:52+00:00",
           "duration": "00:28:47"
-        },
-        {
-          "kind": "audio",
-          "title": "5 AI Engineering Trends for Non-Engineers",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/122888803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-15%2F428030680-44100-2-dfa8dbcdf41bc.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-15T20:30:50+00:00",
-          "duration": "00:28:09"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "SaaSpocalypse Revisited, Singer x Louis Vuitton, Aman vs Ryan Walker | Igor Babuschkin, Brannin McBee, Garret Langley, Sonya Huang, Sean Cole",
+          "src": "https://media.transistor.fm/d71df947/56b431ce.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-13T14:12:33-07:00",
+          "duration": "7910"
+        },
+        {
+          "kind": "audio",
           "title": "Kushner & Iger’s $12.5B Lakers Deal, Grok 4.6 Launches, Anthropic’s Watermarking Move | Diet TBPN",
           "src": "https://media.transistor.fm/136a2805/cb128bb4.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-29T10:08:55-07:00",
           "duration": "1882"
-        },
-        {
-          "kind": "audio",
-          "title": "Big Companies Start Hiring Again, Anthropic's Open-Weight Position, Zuck Backs AI for All | Diet TBPN",
-          "src": "https://media.transistor.fm/b8fbde1a/46963266.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-28T16:28:17-07:00",
-          "duration": "2123"
         }
       ]
     },
