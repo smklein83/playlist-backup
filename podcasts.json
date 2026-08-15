@@ -1,5 +1,5 @@
 {
-  "updated": 1786775562,
+  "updated": 1786797078,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -23,7 +23,7 @@
         },
         {
           "kind": "audio",
-          "title": "Grok Bot Finally Makes AI Agents Easy",
+          "title": "The AI Agent Platform for Everyone",
           "src": "https://anchor.fm/s/f7cac464/podcast/play/124140905/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-12%2F429730192-44100-2-8e39630ef7295.mp3",
           "type": "audio/mpeg",
           "date": "2026-08-12T20:10:24+00:00",
