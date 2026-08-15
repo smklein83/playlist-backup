@@ -1,5 +1,5 @@
 {
-  "updated": 1786755770,
+  "updated": 1786775562,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Tesla’s Roadster, Car Week Takes, Unwell Beverages Shuts Down | Diet TBPN",
+          "src": "https://media.transistor.fm/371338a8/9d281ac5.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-14T19:12:42-07:00",
+          "duration": "2214"
+        },
+        {
+          "kind": "audio",
           "title": "Cursor Acquisition Closes, Bezos x Liverpool, Flying Roadster, Car Week, Gen Z Trends & More",
           "src": "https://media.transistor.fm/0181c123/c41cd6a7.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-30T12:21:42-07:00",
           "duration": "2629"
-        },
-        {
-          "kind": "audio",
-          "title": "U.S. Bans New Chinese Humanoids, Zuck’s Op-Ed, eBay's $56M Lawsuit | Diet TBPN",
-          "src": "https://media.transistor.fm/f8b6ce76/02527c39.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-29T19:38:26-07:00",
-          "duration": "1764"
         }
       ]
     },
