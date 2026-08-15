@@ -1,10 +1,18 @@
 {
-  "updated": 1786733384,
+  "updated": 1786755770,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How to Decide What Work AI Should Do for You: The AI Deputization Audit",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/124238408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F429864343-44100-2-18aa36cf02186.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-14T21:57:48+00:00",
+          "duration": "00:29:00"
+        },
         {
           "kind": "audio",
           "title": "Grok 4.6 Shows How Fast Your AI Options Are Expanding",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-17T20:22:07+00:00",
           "duration": "00:28:25"
-        },
-        {
-          "kind": "audio",
-          "title": "The New Enterprise Battle Over Who Owns the Model",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/122934336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428093686-44100-2-f6b0632b92356.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-16T20:38:52+00:00",
-          "duration": "00:28:47"
         }
       ]
     },
@@ -211,6 +211,14 @@
       "name": "All-In",
       "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E285_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-08-14T20:11:00+00:00",
+          "duration": "01:39:30"
+        },
         {
           "kind": "audio",
           "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-07T18:14:00+00:00",
           "duration": "39:38"
-        },
-        {
-          "kind": "audio",
-          "title": "The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_IPOPANEL_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-06-06T16:30:00+00:00",
-          "duration": "32:29"
         }
       ]
     },
@@ -419,7 +419,7 @@
       "episodes": [
         {
           "kind": "audio",
-          "title": "What if America Followed the Rules?",
+          "title": "The Warring Visions of American Power",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/fecbc2f1-74bf-4610-9489-d6e2a546e6c2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=fecbc2f1-74bf-4610-9489-d6e2a546e6c2&feed=kEKXbjuJ",
           "type": "audio/mpeg",
           "date": "2026-08-14T09:00:00+00:00",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Cursor Acquisition Closes, Bezos x Liverpool, Flying Roadster, Car Week, Gen Z Trends & More",
+          "src": "https://media.transistor.fm/0181c123/c41cd6a7.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-14T13:29:42-07:00",
+          "duration": "6396"
+        },
+        {
+          "kind": "audio",
           "title": "North Korea’s Secret US Workforce, Canceling the SaaSpocalypse, MSL’s Latest Exits | Diet TBPN",
           "src": "https://media.transistor.fm/2890605e/af0f0951.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-29T19:38:26-07:00",
           "duration": "1764"
-        },
-        {
-          "kind": "audio",
-          "title": "Robot Bans, Zuck Op-Ed, eBay Settles | Joe Weisenthal, Jameson Detweiler, Stanley Tang, Amjad Masad, Adam Cohen",
-          "src": "https://media.transistor.fm/0078676f/10a1bdde.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-29T13:35:22-07:00",
-          "duration": "8488"
         }
       ]
     },
