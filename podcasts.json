@@ -1,10 +1,18 @@
 {
-  "updated": 1786862083,
+  "updated": 1786883591,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The New Problems AI Is Creating (And How People Are Solving Them)",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/124287571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-16%2F429932316-44100-2-818213fb2b282.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-16T11:12:56+00:00",
+          "duration": "00:29:13"
+        },
         {
           "kind": "audio",
           "title": "How to Decide What Work AI Should Do for You: The AI Deputization Audit",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-19T12:00:39+00:00",
           "duration": "00:25:36"
-        },
-        {
-          "kind": "audio",
-          "title": "Is Kimi K3 Really Fable Class?",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/122978190/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-17%2F428152765-44100-2-3188a9b9df7e9.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-17T20:22:07+00:00",
-          "duration": "00:28:25"
         }
       ]
     },
