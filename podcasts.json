@@ -1,5 +1,5 @@
 {
-  "updated": 1786949277,
+  "updated": 1786970247,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "What the OpenAI-Hugging Face Hack Really Tells Us About AI Danger",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4fd75bad-403f-47c1-b23c-b4a60141b176/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-08-17T08:00:00+00:00",
+          "duration": "3587"
+        },
+        {
+          "kind": "audio",
           "title": "A Historic El Niño Is Coming That Could Cost the World Trillions",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/906e5071-7abc-4f2c-acb5-b4a5013ff33f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-29T08:00:00+00:00",
           "duration": "2852"
-        },
-        {
-          "kind": "audio",
-          "title": "How Lenovo's CFO Is Allocating Capital During One of History's Biggest Booms",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b1fa9369-e153-4071-8b62-b47400f4a30f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-06-27T08:00:00+00:00",
-          "duration": "3372"
         }
       ]
     }
