@@ -1,10 +1,18 @@
 {
-  "updated": 1786991681,
+  "updated": 1787014956,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "AI Companies Still Haven’t Delivered on Their Biggest Promises",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/124357996/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-17%2F430026787-44100-2-a2bcd0db21cc7.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-17T21:47:54+00:00",
+          "duration": "00:32:46"
+        },
         {
           "kind": "audio",
           "title": "The New Problems AI Is Creating (And How People Are Solving Them)",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-20T18:00:00+00:00",
           "duration": "00:26:37"
-        },
-        {
-          "kind": "audio",
-          "title": "The Self-Driving Company",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/123028581/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-19%2F428220991-44100-2-64be4bc721e17.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-19T12:00:39+00:00",
-          "duration": "00:25:36"
         }
       ]
     },
