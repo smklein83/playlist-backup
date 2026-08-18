@@ -1,5 +1,5 @@
 {
-  "updated": 1787035063,
+  "updated": 1787056716,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -419,6 +419,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "The A.I.s Are Already Out of Control",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/349a3cc9-6477-43a1-ba3f-2987908507cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=349a3cc9-6477-43a1-ba3f-2987908507cc&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-08-18T09:00:00+00:00",
+          "duration": "01:11:02"
+        },
+        {
+          "kind": "audio",
           "title": "The Warring Visions of American Power",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/fecbc2f1-74bf-4610-9489-d6e2a546e6c2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=fecbc2f1-74bf-4610-9489-d6e2a546e6c2&feed=kEKXbjuJ",
           "type": "audio/mpeg",
@@ -432,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-11T09:00:00+00:00",
           "duration": "01:13:57"
-        },
-        {
-          "kind": "audio",
-          "title": "AMA: Peter Thiel, Chris Rufo and the D.S.A.",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/5ee7904b-fd58-4f52-a3cb-383282b56b7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=5ee7904b-fd58-4f52-a3cb-383282b56b7b&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-08-07T09:00:00+00:00",
-          "duration": "00:57:09"
         },
         {
           "kind": "audio",
