@@ -1,10 +1,18 @@
 {
-  "updated": 1787164216,
+  "updated": 1787187774,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The AI Backlash Is Getting Stupider. But Also Smarter.",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/124453869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-19%2F430156861-44100-2-c3b31ca2f2526.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-19T20:12:22+00:00",
+          "duration": "00:29:41"
+        },
         {
           "kind": "audio",
           "title": "The AI Engineering Skills Map for Knowledge Workers",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-22T20:52:05+00:00",
           "duration": "00:32:44"
-        },
-        {
-          "kind": "audio",
-          "title": "The Fight Over Which AI Models You Can Use",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/123140491/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-21%2F428371890-44100-2-086c9de73f373.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-21T20:14:05+00:00",
-          "duration": "00:30:28"
         }
       ]
     },
