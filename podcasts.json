@@ -1,5 +1,5 @@
 {
-  "updated": 1787208000,
+  "updated": 1787229685,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Nick Bostrom on What Happens if AI Solves All of Our Problems",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bcc22dff-b144-40ae-8f68-b4ab00f28c30/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-08-20T08:00:00+00:00",
+          "duration": "3356"
+        },
+        {
+          "kind": "audio",
           "title": "What the OpenAI-Hugging Face Hack Really Tells Us About AI Danger",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4fd75bad-403f-47c1-b23c-b4a60141b176/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-02T08:00:00+00:00",
           "duration": "2929"
-        },
-        {
-          "kind": "audio",
-          "title": "Baidu's CFO on How It Became a Full-Stack AI Player",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f5c05315-7559-4fa4-a6da-b47400f7cb90/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-06-29T08:00:00+00:00",
-          "duration": "2852"
         }
       ]
     }
