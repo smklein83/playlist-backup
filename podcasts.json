@@ -1,5 +1,5 @@
 {
-  "updated": 1787294412,
+  "updated": 1787315981,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -419,6 +419,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "The China Shock 2.0",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/7fd71a4d-0c28-424a-8eb3-0b4675fdeb9e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=7fd71a4d-0c28-424a-8eb3-0b4675fdeb9e&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-08-21T09:00:00+00:00",
+          "duration": "01:05:30"
+        },
+        {
+          "kind": "audio",
           "title": "The A.I.s Are Already Out of Control",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/349a3cc9-6477-43a1-ba3f-2987908507cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=349a3cc9-6477-43a1-ba3f-2987908507cc&feed=kEKXbjuJ",
           "type": "audio/mpeg",
@@ -432,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-14T09:00:00+00:00",
           "duration": "00:54:15"
-        },
-        {
-          "kind": "audio",
-          "title": "Ross Douthat: The Exit Interview",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/dc8cc2d2-9a97-44b4-9c92-37ad73174e9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=dc8cc2d2-9a97-44b4-9c92-37ad73174e9f&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-08-11T09:00:00+00:00",
-          "duration": "01:13:57"
         },
         {
           "kind": "audio",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Jasmine Sun on What the AI Industry Got Wrong About the Public Backlash",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8387538d-5ecf-4b07-a3f0-b4ab00e1cbc5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-08-21T08:00:00+00:00",
+          "duration": "3104"
+        },
+        {
+          "kind": "audio",
           "title": "Nick Bostrom on What Happens if AI Solves All of Our Problems",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bcc22dff-b144-40ae-8f68-b4ab00f28c30/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-03T08:00:00+00:00",
           "duration": "3030"
-        },
-        {
-          "kind": "audio",
-          "title": "What Dan Wang Saw on His Last Trip to China",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/6f683bb0-bf70-4fb7-8c81-b47a013f78c2/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-07-02T08:00:00+00:00",
-          "duration": "2929"
         }
       ]
     }
