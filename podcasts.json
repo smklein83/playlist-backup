@@ -1,10 +1,18 @@
 {
-  "updated": 1787250879,
+  "updated": 1787274407,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "9 AI Techniques You Probably Haven't Tried",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/124506590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-20%2F430229708-44100-2-b5dcd8ff23ce.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-20T21:33:33+00:00",
+          "duration": "00:29:53"
+        },
         {
           "kind": "audio",
           "title": "The AI Backlash Is Getting Stupider. But Also Smarter.",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-23T20:22:55+00:00",
           "duration": "00:25:09"
-        },
-        {
-          "kind": "audio",
-          "title": "Wait... Just How Good IS GPT-6?",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/123187945/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-22%2F428438666-44100-2-2ba4e54c90159.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-22T20:52:05+00:00",
-          "duration": "00:32:44"
         }
       ]
     },
