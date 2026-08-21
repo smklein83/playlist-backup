@@ -1,10 +1,18 @@
 {
-  "updated": 1787315981,
+  "updated": 1787337144,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Why Everyone Suddenly Hates AI Data Centers",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/124552235/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-21%2F430291103-44100-2-6d9e69a61f40e.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-21T18:26:30+00:00",
+          "duration": "00:36:06"
+        },
         {
           "kind": "audio",
           "title": "9 AI Techniques You Probably Haven't Tried",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-24T18:12:23+00:00",
           "duration": "00:35:52"
-        },
-        {
-          "kind": "audio",
-          "title": "A Field Guide to AI Market Freakouts",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/123235373/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-23%2F428501756-44100-2-9c2da0953b21c.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-23T20:22:55+00:00",
-          "duration": "00:25:09"
         }
       ]
     },
@@ -211,6 +211,14 @@
       "name": "All-In",
       "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E286_99_AUDIO.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-08-21T14:14:00+00:00",
+          "duration": "01:30:53"
+        },
         {
           "kind": "audio",
           "title": "Flock CEO Garrett Langley on Controversy, \"Surveillance State\" Claims, and Privacy vs Safety",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-09T15:07:00+00:00",
           "duration": "28:42"
-        },
-        {
-          "kind": "audio",
-          "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_NikeshArora_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-06-08T19:34:00+00:00",
-          "duration": "31:22"
         }
       ]
     },
