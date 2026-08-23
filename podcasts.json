@@ -1,10 +1,18 @@
 {
-  "updated": 1787466932,
+  "updated": 1787488401,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The Real Future of AI and Work",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/124577780/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-22%2F430326054-44100-2-8aa8ad8cd267.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-23T10:00:00+00:00",
+          "duration": "00:30:25"
+        },
         {
           "kind": "audio",
           "title": "Why Everyone Suddenly Hates AI Data Centers",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-26T12:44:01+00:00",
           "duration": "00:20:34"
-        },
-        {
-          "kind": "audio",
-          "title": "Why AI Hasn’t Increased Unemployment, According to Anthropic",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/123277580/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-24%2F428558844-44100-2-f3905f6d9daa2.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-24T18:12:23+00:00",
-          "duration": "00:35:52"
         }
       ]
     },
