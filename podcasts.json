@@ -1,5 +1,5 @@
 {
-  "updated": 1787554320,
+  "updated": 1787575347,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "The Nigerian Industrial Behemoth That Could Reshape the African Economy",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/568c6e3c-2159-45c2-8e4d-b4ad011d7c22/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-08-24T08:00:00+00:00",
+          "duration": "3499"
+        },
+        {
+          "kind": "audio",
           "title": "Jasmine Sun on What the AI Industry Got Wrong About the Public Backlash",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8387538d-5ecf-4b07-a3f0-b4ab00e1cbc5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-06T08:00:00+00:00",
           "duration": "2901"
-        },
-        {
-          "kind": "audio",
-          "title": "How a Major Grocery Store Chain Can Dramatically Lower the Cost of Food",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8e5cf07d-8bf4-43a2-9703-b47b014a5166/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-07-03T08:00:00+00:00",
-          "duration": "3030"
         }
       ]
     }
