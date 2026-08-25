@@ -1,10 +1,18 @@
 {
-  "updated": 1787596543,
+  "updated": 1787619918,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The AI Model Tier List",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/124674891/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-24%2F430457183-44100-2-24feca95167de.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-24T19:26:22+00:00",
+          "duration": "00:29:20"
+        },
         {
           "kind": "audio",
           "title": "The Real Future of AI and Work",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-27T22:07:36+00:00",
           "duration": "00:32:49"
-        },
-        {
-          "kind": "audio",
-          "title": "How to Get the Most from AI This Summer",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/123339068/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-26%2F428640174-44100-2-d9db74d5d310f.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-26T12:44:01+00:00",
-          "duration": "00:20:34"
         }
       ]
     },
@@ -211,6 +211,14 @@
       "name": "All-In",
       "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Kratsios_Int_AUDIO_VFINAL.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-08-24T23:19:00+00:00",
+          "duration": "55:59"
+        },
         {
           "kind": "audio",
           "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-10T03:04:00+00:00",
           "duration": "24:37"
-        },
-        {
-          "kind": "audio",
-          "title": "Bill Maris: How Google Could Crush AI Competitors, Why Small Funds Win, and AI's Atari Stage",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_BillMaris_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-06-09T15:07:00+00:00",
-          "duration": "28:42"
         }
       ]
     },
