@@ -1,5 +1,5 @@
 {
-  "updated": 1787661673,
+  "updated": 1787682923,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -877,6 +877,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Dylan Patel – Anthropic & OpenAI will have most of the world’s compute by 2028",
+          "src": "https://api.substack.com/feed/podcast/212689635/cf7a1608fcec427861f1b832ba9f1e8a.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-25T15:32:57+00:00",
+          "duration": "4613"
+        },
+        {
+          "kind": "audio",
           "title": "Ryan Greenblatt – What happens once AI can automate AI research?",
           "src": "https://api.substack.com/feed/podcast/210737923/e93bde91ce72fbf50e2faa22a7a594d0.mp3",
           "type": "audio/mpeg",
@@ -1066,14 +1074,6 @@
           "type": "audio/mpeg",
           "date": "2025-12-19T17:41:19+00:00",
           "duration": "6895"
-        },
-        {
-          "kind": "audio",
-          "title": "Ilya Sutskever — We're moving from the age of scaling to the age of research",
-          "src": "https://api.substack.com/feed/podcast/179924094/8fff4c8da77eff5a44fad5d13ae599e2.mp3",
-          "type": "audio/mpeg",
-          "date": "2025-11-25T17:04:02+00:00",
-          "duration": "5763"
         }
       ]
     },
