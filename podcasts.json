@@ -1,10 +1,18 @@
 {
-  "updated": 1787814702,
+  "updated": 1787866970,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How We Deal With Rogue AI",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/124828320/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-27%2F430670748-44100-2-261dfd2b9f3a3.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-27T19:33:57+00:00",
+          "duration": "00:28:39"
+        },
         {
           "kind": "audio",
           "title": "5 Rules for Better AI Writing",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-30T19:00:01+00:00",
           "duration": "00:28:51"
-        },
-        {
-          "kind": "audio",
-          "title": "The AI Industry Asks Government to Slow It Down",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/123505488/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-29%2F428866124-44100-2-3af3bb2fb8f1b.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-29T22:42:22+00:00",
-          "duration": "00:29:39"
         }
       ]
     },
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Kansas City Fed President Jeffrey Schmid on the First Jackson Hole of the Warsh Era",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/23fe5a8c-d1c2-4e74-975b-b4b30028ce5d/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-08-27T11:30:00+00:00",
+          "duration": "1736"
+        },
+        {
+          "kind": "audio",
           "title": "The Nigerian Industrial Behemoth That Could Reshape the African Economy",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/568c6e3c-2159-45c2-8e4d-b4ad011d7c22/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-09T08:00:00+00:00",
           "duration": "3149"
-        },
-        {
-          "kind": "audio",
-          "title": "These Are the Sharps Actually Making Money on Prediction Markets",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/7ed31c1e-3cf5-467d-a302-b47b014db8c5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-07-06T08:00:00+00:00",
-          "duration": "2901"
         }
       ]
     }
