@@ -1,10 +1,18 @@
 {
-  "updated": 1787773452,
+  "updated": 1787814702,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "5 Rules for Better AI Writing",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/124781908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-26%2F430605953-44100-2-5c70382db5fa5.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-26T20:57:06+00:00",
+          "duration": "00:23:42"
+        },
         {
           "kind": "audio",
           "title": "What the Top AI Users Are Doing Differently",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-29T22:42:22+00:00",
           "duration": "00:29:39"
-        },
-        {
-          "kind": "audio",
-          "title": "Big Tech Unites for Open Source AI—and Against Anthropic",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/123453532/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428795610-44100-2-50546e001c26e.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-28T21:31:55+00:00",
-          "duration": "00:31:05"
         }
       ]
     },
@@ -211,6 +211,14 @@
       "name": "All-In",
       "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Eric_Weinstein_Int_AUDIO_v99.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-08-26T23:00:00+00:00",
+          "duration": "01:30:20"
+        },
         {
           "kind": "audio",
           "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-10T18:05:00+00:00",
           "duration": "43:23"
-        },
-        {
-          "kind": "audio",
-          "title": "Dan Dreyfus: America's Critical Minerals Crisis is Here",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_DanDreyfus_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-06-10T03:04:00+00:00",
-          "duration": "24:37"
         }
       ]
     },
