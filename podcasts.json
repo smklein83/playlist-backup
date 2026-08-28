@@ -1,5 +1,5 @@
 {
-  "updated": 1787907484,
+  "updated": 1787953351,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -419,6 +419,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Trump vs. the Bond Market",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/0b484b5d-41c5-4b45-a2a2-36af64621698/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=0b484b5d-41c5-4b45-a2a2-36af64621698&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-08-28T09:00:00+00:00",
+          "duration": "00:59:34"
+        },
+        {
+          "kind": "audio",
           "title": "This Is Why People Hate the Government",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/2b615a57-e671-4b53-b885-9edaf3480e2d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=2b615a57-e671-4b53-b885-9edaf3480e2d&feed=kEKXbjuJ",
           "type": "audio/mpeg",
@@ -432,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-21T09:00:00+00:00",
           "duration": "01:05:30"
-        },
-        {
-          "kind": "audio",
-          "title": "The A.I.s Are Already Out of Control",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/349a3cc9-6477-43a1-ba3f-2987908507cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=349a3cc9-6477-43a1-ba3f-2987908507cc&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-08-18T09:00:00+00:00",
-          "duration": "01:11:02"
         },
         {
           "kind": "audio",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Austan Goolsbee Is Worried the Economy Is Overheating",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/5d168bda-ebfd-485d-a948-b4b4011d13e0/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-08-28T17:23:16+00:00",
+          "duration": "2791"
+        },
+        {
+          "kind": "audio",
           "title": "Kansas City Fed President Jeffrey Schmid on the First Jackson Hole of the Warsh Era",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/23fe5a8c-d1c2-4e74-975b-b4b30028ce5d/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-10T08:00:00+00:00",
           "duration": "2608"
-        },
-        {
-          "kind": "audio",
-          "title": "One of the World's Largest Hedge Funds on Its 86x Growth in Token Spending",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ee665e22-5abb-4981-a58d-b481016ff97e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-07-09T08:00:00+00:00",
-          "duration": "3149"
         }
       ]
     }
