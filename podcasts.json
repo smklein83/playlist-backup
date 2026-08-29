@@ -1,10 +1,18 @@
 {
-  "updated": 1787953351,
+  "updated": 1787981567,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The Most Useful New AI Features and Tools to Try",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/124879421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-28%2F430741770-44100-2-6d1d325ee13a9.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-28T22:00:37+00:00",
+          "duration": "00:34:23"
+        },
         {
           "kind": "audio",
           "title": "How We Deal With Rogue AI",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-31T21:29:42+00:00",
           "duration": "00:30:40"
-        },
-        {
-          "kind": "audio",
-          "title": "6 Questions Every Enterprise Has to Answer About AI",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/123543619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-30%2F428917809-44100-2-9b7058b907f7a.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-30T19:00:01+00:00",
-          "duration": "00:28:51"
         }
       ]
     },
@@ -211,6 +211,14 @@
       "name": "All-In",
       "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E287_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-08-29T01:19:00+00:00",
+          "duration": "01:36:41"
+        },
         {
           "kind": "audio",
           "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-12T01:25:00+00:00",
           "duration": "01:07:57"
-        },
-        {
-          "kind": "audio",
-          "title": "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_PASens_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-06-10T18:05:00+00:00",
-          "duration": "43:23"
         }
       ]
     },
