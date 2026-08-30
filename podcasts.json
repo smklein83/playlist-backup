@@ -1,10 +1,18 @@
 {
-  "updated": 1788034954,
+  "updated": 1788060678,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How to Start AI Coding If You Haven’t Yet",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/124914036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-29%2F430789403-44100-2-3f1dc05107eed.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-29T22:22:44+00:00",
+          "duration": "00:29:27"
+        },
         {
           "kind": "audio",
           "title": "The Most Useful New AI Features and Tools to Try",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-02T12:17:43+00:00",
           "duration": "00:50:30"
-        },
-        {
-          "kind": "audio",
-          "title": "What a $30B Hedge Fund Implosion Really Means for AI",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/123597925/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-31%2F428992010-44100-2-d357bfad4815d.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-31T21:29:42+00:00",
-          "duration": "00:30:40"
         }
       ]
     },
