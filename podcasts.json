@@ -1,10 +1,18 @@
 {
-  "updated": 1788179907,
+  "updated": 1788215074,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How to Navigate the Next Wave of AI Competition",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/125003069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2F430911698-44100-2-a66bc12f70ce7.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-31T19:39:34+00:00",
+          "duration": "00:28:52"
+        },
         {
           "kind": "audio",
           "title": "How to Start AI Coding If You Haven’t Yet",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-03T21:17:52+00:00",
           "duration": "00:28:55"
-        },
-        {
-          "kind": "audio",
-          "title": "Everything You Need to Know About AI Tokens",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/123646913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-2%2F429058263-44100-2-449364437b0ef.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-02T12:17:43+00:00",
-          "duration": "00:50:30"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "WE'RE BACK, Meta Addiction, Tim Cook's Last Day | Jordan Schneider, Robert Mendelsohn & Eric Olszewski, Billy Thalheimer, Aaron Cannon, Stephen Balaban",
+          "src": "https://media.transistor.fm/1b7b60f3/69874211.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-31T13:53:48-07:00",
+          "duration": "8657"
+        },
+        {
+          "kind": "audio",
           "title": "Tesla’s Roadster, Car Week Takes, Unwell Beverages Shuts Down | Diet TBPN",
           "src": "https://media.transistor.fm/371338a8/9d281ac5.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-30T14:19:43-07:00",
           "duration": "10581"
-        },
-        {
-          "kind": "audio",
-          "title": "Martin Shkreli Breaks Down the Collapse of Situational Awareness",
-          "src": "https://media.transistor.fm/6fd15200/c76cda80.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-30T12:21:42-07:00",
-          "duration": "2629"
         }
       ]
     },
@@ -875,6 +875,14 @@
       "name": "Dwarkesh Podcast",
       "feed": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The rise and fall of agent civilizations",
+          "src": "https://api.substack.com/feed/podcast/213603862/1e27c584393e0d2044654bcd88d38e5c.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-31T20:36:53+00:00",
+          "duration": "1480"
+        },
         {
           "kind": "audio",
           "title": "Dylan Patel – Anthropic & OpenAI will have most of the world’s compute by 2028",
@@ -1066,14 +1074,6 @@
           "type": "audio/mpeg",
           "date": "2025-12-23T20:24:48+00:00",
           "duration": "748"
-        },
-        {
-          "kind": "audio",
-          "title": "Sarah Paine — Why Russia Lost the Cold War",
-          "src": "https://api.substack.com/feed/podcast/182083324/a9228654256b25131ba83e82fb0db5da.mp3",
-          "type": "audio/mpeg",
-          "date": "2025-12-19T17:41:19+00:00",
-          "duration": "6895"
         }
       ]
     },
@@ -1087,7 +1087,7 @@
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/095923e3-5c15-4936-b26b-b4b70018f8d6/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
           "date": "2026-08-31T08:00:00+00:00",
-          "duration": "1880"
+          "duration": "1877"
         },
         {
           "kind": "audio",
