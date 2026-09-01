@@ -1,5 +1,5 @@
 {
-  "updated": 1788215074,
+  "updated": 1788233330,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Meta Settles Addiction Suits, Tim Cook Signs Off After 15 Years, OpenAI’s Jalapeño Chip | Diet TBPN",
+          "src": "https://media.transistor.fm/80f4e060/f2769c13.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-31T16:38:39-07:00",
+          "duration": "1879"
+        },
+        {
+          "kind": "audio",
           "title": "WE'RE BACK, Meta Addiction, Tim Cook's Last Day | Jordan Schneider, Robert Mendelsohn & Eric Olszewski, Billy Thalheimer, Aaron Cannon, Stephen Balaban",
           "src": "https://media.transistor.fm/1b7b60f3/69874211.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-30T14:51:15-07:00",
           "duration": "1186"
-        },
-        {
-          "kind": "audio",
-          "title": "Leopold Sold, Ferrari Undefeated, Martin Shkreli Joins | Guillaume Verdon, Lulu Meservey, Michael Kim, Joon Sung Park, Karan Kunjur, Vlad Tenev",
-          "src": "https://media.transistor.fm/90d059a5/dda539ee.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-30T14:19:43-07:00",
-          "duration": "10581"
         }
       ]
     },
