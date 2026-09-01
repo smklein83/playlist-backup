@@ -1,5 +1,5 @@
 {
-  "updated": 1788233330,
+  "updated": 1788260632,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -417,6 +417,14 @@
       "name": "The Ezra Klein Show",
       "feed": "https://feeds.simplecast.com/kEKXbjuJ",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Best Of: The Tao of Rick Rubin",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/0f6db987-3dde-43b8-bbad-bdc751576831/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=0f6db987-3dde-43b8-bbad-bdc751576831&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-09-01T09:00:00+00:00",
+          "duration": "01:29:56"
+        },
         {
           "kind": "audio",
           "title": "Trump vs. the Bond Market",
@@ -1083,6 +1091,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Adam Posen Thinks Things Could Get Very 'Messy' for the Fed",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ffabb0eb-48cc-4ad4-8c96-b4b701728958/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-09-01T08:00:00+00:00",
+          "duration": "3582"
+        },
+        {
+          "kind": "audio",
           "title": "Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/095923e3-5c15-4936-b26b-b4b70018f8d6/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1288,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-15T08:00:00+00:00",
           "duration": "2536"
-        },
-        {
-          "kind": "audio",
-          "title": "Why AI Might Actually Create More Work for Lawyers",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bf18344e-5dd0-4852-be82-b483013dfb22/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-07-13T08:00:00+00:00",
-          "duration": "3325"
         }
       ]
     }
