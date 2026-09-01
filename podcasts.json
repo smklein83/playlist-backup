@@ -1,5 +1,5 @@
 {
-  "updated": 1788260632,
+  "updated": 1788278493,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -443,14 +443,6 @@
         },
         {
           "kind": "audio",
-          "title": "The China Shock 2.0",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/7fd71a4d-0c28-424a-8eb3-0b4675fdeb9e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=7fd71a4d-0c28-424a-8eb3-0b4675fdeb9e&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-08-21T09:00:00+00:00",
-          "duration": "01:05:30"
-        },
-        {
-          "kind": "audio",
           "title": "About the Coming Paywall",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/7724ecc9-c252-4f17-a2c3-48c62eb9f4e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=7724ecc9-c252-4f17-a2c3-48c62eb9f4e0&feed=kEKXbjuJ",
           "type": "audio/mpeg",
@@ -885,6 +877,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face",
+          "src": "https://api.substack.com/feed/podcast/213682035/9231941671d781aaea5fd995c256ad24.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-01T15:41:06+00:00",
+          "duration": "8433"
+        },
+        {
+          "kind": "audio",
           "title": "The rise and fall of agent civilizations",
           "src": "https://api.substack.com/feed/podcast/213603862/1e27c584393e0d2044654bcd88d38e5c.mp3",
           "type": "audio/mpeg",
@@ -1074,14 +1074,6 @@
           "type": "audio/mpeg",
           "date": "2025-12-30T17:07:17+00:00",
           "duration": "6593"
-        },
-        {
-          "kind": "audio",
-          "title": "Thoughts on AI progress (Dec 2025)",
-          "src": "https://api.substack.com/feed/podcast/182443852/96b56036528bac04a698ae3a0a775b6c.mp3",
-          "type": "audio/mpeg",
-          "date": "2025-12-23T20:24:48+00:00",
-          "duration": "748"
         }
       ]
     },
