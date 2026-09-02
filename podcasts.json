@@ -1,10 +1,18 @@
 {
-  "updated": 1788294637,
+  "updated": 1788317180,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "OpenClaw 2.0 Shows Where AI Agents Are Going Next",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/125063526/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-1%2F430996383-44100-2-cb45518400175.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-01T23:09:27+00:00",
+          "duration": "00:26:05"
+        },
         {
           "kind": "audio",
           "title": "How to Navigate the Next Wave of AI Competition",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-04T18:45:32+00:00",
           "duration": "00:24:48"
-        },
-        {
-          "kind": "audio",
-          "title": "What Happens When AI Breakthroughs Outrun Human Understanding",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/123722679/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-3%2F429155950-44100-2-74f2bf3e5ed83.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-03T21:17:52+00:00",
-          "duration": "00:28:55"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "LIVE From CrowdStrike's Fal.Con 2026 | George Kurtz, Michael Sentonas, Daniel Bernard & Justin Boitano",
+          "src": "https://media.transistor.fm/005b6ef7/99f4ee03.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-01T15:21:37-07:00",
+          "duration": "3755"
+        },
+        {
+          "kind": "audio",
           "title": "Meta Settles Addiction Suits, Tim Cook Signs Off After 15 Years, OpenAI’s Jalapeño Chip | Diet TBPN",
           "src": "https://media.transistor.fm/80f4e060/f2769c13.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-31T13:12:15-07:00",
           "duration": "7087"
-        },
-        {
-          "kind": "audio",
-          "title": "The Collapse of Situational Awareness, Ferrari Luce Stays on Track for 2026 | Diet TBPN",
-          "src": "https://media.transistor.fm/571cc762/353e5c0a.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-30T14:51:15-07:00",
-          "duration": "1186"
         }
       ]
     },
