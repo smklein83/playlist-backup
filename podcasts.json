@@ -1,5 +1,5 @@
 {
-  "updated": 1788380944,
+  "updated": 1788403856,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,30 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Another AI Safety Kerfuffle, Markiplier’s Stake in GoPro, SpaceX Getting Into Turbines | Diet TBPN",
+          "src": "https://media.transistor.fm/fe7b131b/fd6bdef8.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-02T14:43:59-07:00",
+          "duration": "1869"
+        },
+        {
+          "kind": "audio",
+          "title": "Jimmy Iovine on AI: “The Great Artists Will Show the World How to Use It”",
+          "src": "https://media.transistor.fm/dcf3a038/7a822c2b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-02T14:36:29-07:00",
+          "duration": "3727"
+        },
+        {
+          "kind": "audio",
+          "title": "Yapping in Neuralese, GoPro v2, Jimmy Iovine in the Ultradome | Nikesh Arora & Andrei Serban, Kurt Tenenbaum, Philip Johnston",
+          "src": "https://media.transistor.fm/96af1d81/fb8ba025.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-02T14:02:39-07:00",
+          "duration": "8219"
+        },
+        {
+          "kind": "audio",
           "title": "LIVE From CrowdStrike's Fal.Con 2026 | George Kurtz, Michael Sentonas, Daniel Bernard & Justin Boitano",
           "src": "https://media.transistor.fm/005b6ef7/99f4ee03.mp3",
           "type": "audio/mpeg",
@@ -844,30 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-03T17:29:55-07:00",
           "duration": "2013"
-        },
-        {
-          "kind": "audio",
-          "title": "Astra Ends Math, 1 Person $1M Companies, Hank Green Is Absolutely Right | John Gruber, Shaun Maguire & Isaiah Taylor, Justin Lopas, Beau Gaston, Ron Arel",
-          "src": "https://media.transistor.fm/0b7ccbeb/fafe89a3.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-03T14:10:58-07:00",
-          "duration": "9399"
-        },
-        {
-          "kind": "audio",
-          "title": "Leopold Stays in the Game, Big Tech Earnings, OpenAI Slashes GPT-5.6 Prices | Diet TBPN",
-          "src": "https://media.transistor.fm/75faef68/29d3fde6.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-31T16:10:11-07:00",
-          "duration": "1642"
-        },
-        {
-          "kind": "audio",
-          "title": "Leopold is Back! Big Tech Earnings, Defense Tech Deep Dive | Richard Craib, Trae Stephens, Blake Resnick",
-          "src": "https://media.transistor.fm/975a6b11/29d7a26d.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-07-31T13:12:15-07:00",
-          "duration": "7087"
         }
       ]
     },
