@@ -1,5 +1,5 @@
 {
-  "updated": 1788403856,
+  "updated": 1788431911,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "What's Behind the Big Surge in US Government Bond Yields",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/52b31e33-08b2-4ea7-a5d0-b4b9014b34d9/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-09-03T08:00:00+00:00",
+          "duration": "2196"
+        },
+        {
+          "kind": "audio",
           "title": "Adam Posen Thinks Things Could Get Very 'Messy' for the Fed",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ffabb0eb-48cc-4ad4-8c96-b4b701728958/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-16T08:00:00+00:00",
           "duration": "3061"
-        },
-        {
-          "kind": "audio",
-          "title": "NY Governor Kathy Hochul on Her One Year Data Center Moratorium",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b0947973-da0c-4120-9104-b4870172c604/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-07-15T08:00:00+00:00",
-          "duration": "2536"
         }
       ]
     }
