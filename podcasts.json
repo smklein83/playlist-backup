@@ -1,10 +1,18 @@
 {
-  "updated": 1788536613,
+  "updated": 1788552939,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How AI Changed This Summer",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/125217838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-4%2F431202814-44100-2-80800cec8c0b5.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-04T20:03:43+00:00",
+          "duration": "00:24:00"
+        },
         {
           "kind": "audio",
           "title": "Agentic Loops for Knowledge Workers",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-07T18:49:36+00:00",
           "duration": "00:28:39"
-        },
-        {
-          "kind": "audio",
-          "title": "Google’s AI Leadership Shakeup: Disaster or Exactly What It Needs?",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/123879373/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-6%2F429370486-44100-2-0575691f278e8.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-06T21:24:36+00:00",
-          "duration": "00:33:09"
         }
       ]
     },
