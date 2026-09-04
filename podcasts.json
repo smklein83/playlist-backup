@@ -1,10 +1,18 @@
 {
-  "updated": 1788467283,
+  "updated": 1788490174,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Agentic Loops for Knowledge Workers",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/125176194/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F431145568-44100-2-0e1697b267ed2.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-03T22:41:58+00:00",
+          "duration": "00:57:05"
+        },
         {
           "kind": "audio",
           "title": "Why Fable 5.1 Is Worth the Upgrade",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-06T21:24:36+00:00",
           "duration": "00:33:09"
-        },
-        {
-          "kind": "audio",
-          "title": "Why the Data Center Fight Has Little to Do With AI",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/123821799/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-5%2F429290682-44100-2-31dbfd777fcda.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-05T18:59:27+00:00",
-          "duration": "00:35:45"
         }
       ]
     },
@@ -671,6 +671,30 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Model Mayhem, GPT-6 Astra, Why Nvidia Bought Hugging Face | Diet TBPN",
+          "src": "https://media.transistor.fm/2593cfdb/3ae18e2b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-03T16:43:59-07:00",
+          "duration": "1806"
+        },
+        {
+          "kind": "audio",
+          "title": "Pablo Torre Explains the Steve Ballmer & Kawhi Leonard Scandal",
+          "src": "https://media.transistor.fm/2bfd5175/59dc97f9.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-03T14:38:19-07:00",
+          "duration": "1416"
+        },
+        {
+          "kind": "audio",
+          "title": "Model Mayhem, NVIDIA x Hugging Face Deal, GPT-6 Astra | Pablo Torre, Mohit Aron, Akshay Narisetti, Hari Ravichandran, Matt Caldwell & Jordy Leiser, Jeff Thornburg, Charlie O’Neill, Sridhar Ramaswamy",
+          "src": "https://media.transistor.fm/aeb93c8c/5b7943d5.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-03T14:12:23-07:00",
+          "duration": "8767"
+        },
+        {
+          "kind": "audio",
           "title": "Another AI Safety Kerfuffle, Markiplier’s Stake in GoPro, SpaceX Getting Into Turbines | Diet TBPN",
           "src": "https://media.transistor.fm/fe7b131b/fd6bdef8.mp3",
           "type": "audio/mpeg",
@@ -844,30 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-05T13:29:53-07:00",
           "duration": "6864"
-        },
-        {
-          "kind": "audio",
-          "title": "Bending Spoons Buys Airtable, OpenAI Hits Back at Apple Over Lawsuit, Spider-Man Ads in BMWs | Diet TBPN",
-          "src": "https://media.transistor.fm/1bfdc068/7a454b9d.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-04T17:06:11-07:00",
-          "duration": "1885"
-        },
-        {
-          "kind": "audio",
-          "title": "Bending Spoons Buys Airtable, Snap Rips, Ads in BMW | Grace Li, Samir Kaji, John Quinn, Nikhil Reddy, Art Levy & Russell Kaplan, Brendan Carr",
-          "src": "https://media.transistor.fm/b35b3f03/989f8224.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-04T13:55:51-07:00",
-          "duration": "9011"
-        },
-        {
-          "kind": "audio",
-          "title": "Hank Green Faces AI Backlash, Astra Makes 10 Math Advances, Million-Dollar Solo Firms | Diet TBPN",
-          "src": "https://media.transistor.fm/7117027c/2e6427c3.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-03T17:29:55-07:00",
-          "duration": "2013"
         }
       ]
     },
