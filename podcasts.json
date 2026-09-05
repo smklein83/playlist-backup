@@ -1,5 +1,5 @@
 {
-  "updated": 1788552939,
+  "updated": 1788576701,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E288_AUDIO_v102.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-09-04T23:10:00+00:00",
+          "duration": "01:31:56"
+        },
+        {
+          "kind": "audio",
           "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E287_Ch.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-13T04:51:00+00:00",
           "duration": "01:42:00"
-        },
-        {
-          "kind": "audio",
-          "title": "All-In's Best Ideas Pitch Competition: 4 Investors Present Their Top Trades Live",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_BestIdeas_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-06-12T01:25:00+00:00",
-          "duration": "01:07:57"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Jobs Boom, Astra Reactions, Cybercab Roll Out, The Dyson Debate | Hunter Somerville, Bar Winkler, Bridgit Mendler, Carina Hong & Ken Ono",
+          "src": "https://media.transistor.fm/007570ec/d14e7a7d.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-04T19:04:08-07:00",
+          "duration": "8392"
+        },
+        {
+          "kind": "audio",
+          "title": "Astra Reactions, Jobs Print, Cybercab Launch | Diet TBPN",
+          "src": "https://media.transistor.fm/e73e051c/f372c3b1.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-04T17:14:06-07:00",
+          "duration": "1953"
+        },
+        {
+          "kind": "audio",
           "title": "Model Mayhem, GPT-6 Astra, Why Nvidia Bought Hugging Face | Diet TBPN",
           "src": "https://media.transistor.fm/2593cfdb/3ae18e2b.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-06T14:35:13-07:00",
           "duration": "10069"
-        },
-        {
-          "kind": "audio",
-          "title": "Demis Is Out as DeepMind CEO, Revolut Founder Yacht Drama, AI’s Great Reverse Bank Run | Diet TBPN",
-          "src": "https://media.transistor.fm/75ae7b08/4b84a366.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-05T15:59:28-07:00",
-          "duration": "1867"
-        },
-        {
-          "kind": "audio",
-          "title": "Google DeepMind Reorgs, Rainforest Discoveries, Monkey Prices Surge | Harley Finkelstein, John J. Giamatteo, Jeremy Allaire, Mackenzie Burnett",
-          "src": "https://media.transistor.fm/ca871caf/38c86bac.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-05T13:29:53-07:00",
-          "duration": "6864"
         }
       ]
     },
