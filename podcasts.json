@@ -1,10 +1,18 @@
 {
-  "updated": 1788689636,
+  "updated": 1788706429,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How to Build an AI-Native Company Today",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/125274966/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-6%2F431280311-44100-2-3733be45ffc03.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-06T10:51:15+00:00",
+          "duration": "00:27:50"
+        },
         {
           "kind": "audio",
           "title": "How AI Changed This Summer",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-08T18:00:01+00:00",
           "duration": "00:22:48"
-        },
-        {
-          "kind": "audio",
-          "title": "The Right Way to Worry About AI",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/123919532/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-7%2F429426006-44100-2-885fea10defb4.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-07T18:49:36+00:00",
-          "duration": "00:28:39"
         }
       ]
     },
