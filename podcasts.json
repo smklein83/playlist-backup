@@ -1,10 +1,18 @@
 {
-  "updated": 1788780702,
+  "updated": 1788801123,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The Multiplayer AI Sprint: Build Your Team’s First Shared Agent",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/125328149/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-7%2F431354178-44100-2-423f1efd1a7df.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-07T12:02:43+00:00",
+          "duration": "00:25:44"
+        },
         {
           "kind": "audio",
           "title": "How to Build an AI-Native Company Today",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-10T21:10:55+00:00",
           "duration": "00:26:28"
-        },
-        {
-          "kind": "audio",
-          "title": "41 Stats That Tell the Story of AI Right Now",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/123942354/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-8%2F429458191-44100-2-2cf364061baad.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-08T18:00:01+00:00",
-          "duration": "00:22:48"
         }
       ]
     },
