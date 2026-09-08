@@ -1,5 +1,5 @@
 {
-  "updated": 1788836305,
+  "updated": 1788863551,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -417,6 +417,14 @@
       "name": "The Ezra Klein Show",
       "feed": "https://feeds.simplecast.com/kEKXbjuJ",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "What ‘Hyperpolitics’ Explains About This Era",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/b1dcd8ec-db10-4339-85ac-4f07a678e6cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=b1dcd8ec-db10-4339-85ac-4f07a678e6cd&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-09-08T09:00:00+00:00",
+          "duration": "01:08:17"
+        },
         {
           "kind": "audio",
           "title": "Best Of: The Tao of Rick Rubin",
