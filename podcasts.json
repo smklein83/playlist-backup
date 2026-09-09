@@ -1,10 +1,18 @@
 {
-  "updated": 1788900105,
+  "updated": 1788922737,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Why GPT-6 Astra Is So Significant and So Confounding",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/125430514/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2F431484578-44100-2-75e04d20ee323.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-08T23:40:13+00:00",
+          "duration": "00:29:25"
+        },
         {
           "kind": "audio",
           "title": "The Multiplayer AI Sprint: Build Your Team’s First Shared Agent",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-11T19:50:24+00:00",
           "duration": "00:23:39"
-        },
-        {
-          "kind": "audio",
-          "title": "What the Heck is Graph Engineering?",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/124043095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2F429594264-44100-2-ed4318aa908a2.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-10T21:10:55+00:00",
-          "duration": "00:26:28"
         }
       ]
     },
@@ -671,6 +671,30 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "OpenAI Cracks Navier-Stokes, Tech Trailers, AI Jobs Apocalypse on Hold | Diet TBPN",
+          "src": "https://media.transistor.fm/70b172a9/eb2b56b2.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-08T16:49:34-07:00",
+          "duration": "1897"
+        },
+        {
+          "kind": "audio",
+          "title": "Math Wars, GG Navier Stokes, Greg Brockman Joins | Dan Wright, Eric Seufert, Scott Wu, Sahir Jaggi, Andrew Borovsky, Harry Mellsop",
+          "src": "https://media.transistor.fm/f5316429/7f60444d.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-08T14:50:34-07:00",
+          "duration": "11528"
+        },
+        {
+          "kind": "audio",
+          "title": "Greg Brockman on Astra and the Future of OpenAI",
+          "src": "https://media.transistor.fm/b4fe5e02/4f9ecf4a.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-08T14:50:23-07:00",
+          "duration": "1482"
+        },
+        {
+          "kind": "audio",
           "title": "Jobs Boom, Astra Reactions, Cybercab Roll Out, The Dyson Debate | Hunter Somerville, Bar Winkler, Bridgit Mendler, Carina Hong & Ken Ono",
           "src": "https://media.transistor.fm/007570ec/d14e7a7d.mp3",
           "type": "audio/mpeg",
@@ -844,30 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-07T19:22:44-07:00",
           "duration": "2005"
-        },
-        {
-          "kind": "audio",
-          "title": "AI Viruses, OpenAI's First Device, WSJ Mansion Section | Samir Kaul, Patrick Wendell, Grant LaFontaine",
-          "src": "https://media.transistor.fm/a03bb8de/0da8e7d9.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-07T14:26:57-07:00",
-          "duration": "6541"
-        },
-        {
-          "kind": "audio",
-          "title": "More Details on OpenAI-Hugging Face, SpaceX SPV Investors Get Rugged, Demis and DeepMind | Diet TBPN",
-          "src": "https://media.transistor.fm/35773988/52c7e67a.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-06T16:31:20-07:00",
-          "duration": "1823"
-        },
-        {
-          "kind": "audio",
-          "title": "SpaceX SPV Gone Wrong, Intel's Comeback, Dylan Field Joins | Aditya Agarwal, Ariane Gorin, Nick Thompson, Chris Power, Christian Mochen",
-          "src": "https://media.transistor.fm/baea2d66/de581529.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-06T14:35:13-07:00",
-          "duration": "10069"
         }
       ]
     },
