@@ -1,5 +1,5 @@
 {
-  "updated": 1789055277,
+  "updated": 1789071837,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "YC Demo Day, Spoon = Bent (Again), iPhone Duo Reactions | Garry Tan, Om Buddhdev, Karen Serfaty, Antonio Li, Edward Ge, Alfredo Gonzalez",
+          "src": "https://media.transistor.fm/35e8db3b/904147ef.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-10T13:10:18-07:00",
+          "duration": "5275"
+        },
+        {
+          "kind": "audio",
           "title": "Apple’s iPhone Duo, Meta’s Muse AI Agent, Anthropic Researcher Quits Over AI Doom | Diet TBPN",
           "src": "https://media.transistor.fm/36b0643c/aaf6833f.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-11T13:48:07-07:00",
           "duration": "8106"
-        },
-        {
-          "kind": "audio",
-          "title": "Zuck’s AI Vision, Celebs Are Dating Private Equity Guys, AI Agent Hacks Gym | Diet TBPN",
-          "src": "https://media.transistor.fm/a279d85c/f5ff9707.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-10T18:15:48-07:00",
-          "duration": "1893"
         }
       ]
     },
