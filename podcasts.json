@@ -1,10 +1,18 @@
 {
-  "updated": 1788985352,
+  "updated": 1789009160,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "AI Model Month Is Off to a Blistering Start",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/125486250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-9%2F431557150-44100-2-d98fdce1d32e7.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-09T21:20:58+00:00",
+          "duration": "00:34:12"
+        },
         {
           "kind": "audio",
           "title": "Why GPT-6 Astra Is So Significant and So Confounding",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-12T20:10:24+00:00",
           "duration": "00:28:23"
-        },
-        {
-          "kind": "audio",
-          "title": "AI Optimism Has a Trust Problem",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/124090320/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-11%2F429659390-44100-2-5bb359a8340ba.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-11T19:50:24+00:00",
-          "duration": "00:23:39"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Apple’s iPhone Duo, Meta’s Muse AI Agent, Anthropic Researcher Quits Over AI Doom | Diet TBPN",
+          "src": "https://media.transistor.fm/36b0643c/aaf6833f.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-09T17:30:26-07:00",
+          "duration": "1916"
+        },
+        {
+          "kind": "audio",
+          "title": "Apple Unveils iPhone Duo, Muse AI Agent, Keith Rabois Joins | David Cahn, Mikey Shulman, David Perell, Jim Reilly, Fletcher Richman",
+          "src": "https://media.transistor.fm/3cda42af/406714c7.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-09T14:34:58-07:00",
+          "duration": "10739"
+        },
+        {
+          "kind": "audio",
           "title": "OpenAI Cracks Navier-Stokes, Tech Trailers, AI Jobs Apocalypse on Hold | Diet TBPN",
           "src": "https://media.transistor.fm/70b172a9/eb2b56b2.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-10T18:15:48-07:00",
           "duration": "1893"
-        },
-        {
-          "kind": "audio",
-          "title": "Zuck's AI Future, AI Hacks Gym, SpaceX Moons | Ryan Spoon, Nicolai Klemke, Adam Goldstein & Brian Yutko",
-          "src": "https://media.transistor.fm/5026e63e/af60503a.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-10T13:39:52-07:00",
-          "duration": "7149"
-        },
-        {
-          "kind": "audio",
-          "title": "AI-Designed Viruses, OpenAI’s First Device, The Mansion Section | Diet TBPN",
-          "src": "https://media.transistor.fm/750cf04c/e90ad243.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-07T19:22:44-07:00",
-          "duration": "2005"
         }
       ]
     },
