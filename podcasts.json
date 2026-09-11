@@ -1,5 +1,5 @@
 {
-  "updated": 1789122855,
+  "updated": 1789141830,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -440,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-01T09:00:00+00:00",
           "duration": "01:29:56"
-        },
-        {
-          "kind": "audio",
-          "title": "Trump vs. the Bond Market",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/0b484b5d-41c5-4b45-a2a2-36af64621698/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=0b484b5d-41c5-4b45-a2a2-36af64621698&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-08-28T09:00:00+00:00",
-          "duration": "00:59:34"
         },
         {
           "kind": "audio",
