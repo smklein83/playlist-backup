@@ -1,10 +1,18 @@
 {
-  "updated": 1789141830,
+  "updated": 1789158299,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "What to Use the Latest AI Tools For",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/125607299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2F431716514-44100-2-455f97d5cbd54.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-11T19:06:27+00:00",
+          "duration": "00:31:40"
+        },
         {
           "kind": "audio",
           "title": "Anthropic Researcher Says AI Has Over a 10% Chance of Killing All Humans",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-14T21:57:48+00:00",
           "duration": "00:29:00"
-        },
-        {
-          "kind": "audio",
-          "title": "Grok 4.6 Shows How Fast Your AI Options Are Expanding",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/124187865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-13%2F429795335-44100-2-2cf594557f87b.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-13T19:55:43+00:00",
-          "duration": "00:29:01"
         }
       ]
     },
@@ -419,7 +419,7 @@
       "episodes": [
         {
           "kind": "audio",
-          "title": "Francis Fukuyama on Trump, China and the Legacy of 9/11",
+          "title": "Why I Can't Stop Thinking About 'The End of History'",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/73541dab-2e84-438a-8c37-cd58533a3381/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=73541dab-2e84-438a-8c37-cd58533a3381&feed=kEKXbjuJ",
           "type": "audio/mpeg",
           "date": "2026-09-11T09:00:00+00:00",
@@ -877,6 +877,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "AI researchers debate how close we are to recursive self-improvement",
+          "src": "https://api.substack.com/feed/podcast/215199144/a0f47ff12d3d6420b3180f18adb9bfa3.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-11T16:28:11+00:00",
+          "duration": "5821"
+        },
+        {
+          "kind": "audio",
           "title": "Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face",
           "src": "https://api.substack.com/feed/podcast/213682035/9231941671d781aaea5fd995c256ad24.mp3",
           "type": "audio/mpeg",
@@ -1066,14 +1074,6 @@
           "type": "audio/mpeg",
           "date": "2026-02-05T16:45:08+00:00",
           "duration": "10185"
-        },
-        {
-          "kind": "audio",
-          "title": "Adam Marblestone — AI is missing something fundamental about the brain",
-          "src": "https://api.substack.com/feed/podcast/182960540/b1d297278a7f613027bddbaa7f0efcb7.mp3",
-          "type": "audio/mpeg",
-          "date": "2025-12-30T17:07:17+00:00",
-          "duration": "6593"
         }
       ]
     },
