@@ -1,5 +1,5 @@
 {
-  "updated": 1789158299,
+  "updated": 1789182126,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "AI Kills Everybody or Doomer Psyop? OpenAI's Math Breakthrough, Nike's $200B Collapse",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E289_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-09-11T23:32:00+00:00",
+          "duration": "01:35:57"
+        },
+        {
+          "kind": "audio",
           "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E288_AUDIO_v102.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-19T22:07:00+00:00",
           "duration": "01:24:30"
-        },
-        {
-          "kind": "audio",
-          "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E276_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-06-13T04:51:00+00:00",
-          "duration": "01:42:00"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Washington Hones in on AI Safety, What Are AI Doomers Proposing | Diet TBPN",
+          "src": "https://media.transistor.fm/67d605b2/e38bac75.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-11T16:40:02-07:00",
+          "duration": "1813"
+        },
+        {
+          "kind": "audio",
+          "title": "Fruitfly Hard Takeoff, Washington on AI Risk, 𝕏 Timeline Reactions | Thijs Simonian, Alex Heath & Guy Oseary, Mitesh Agrawal",
+          "src": "https://media.transistor.fm/e0816bdf/559b88ff.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-11T13:26:45-07:00",
+          "duration": "6349"
+        },
+        {
+          "kind": "audio",
           "title": "AI Safety Timeline Takeover, Bending Spoons Acquires Miro, iPhone Duo Reactions | Diet TBPN",
           "src": "https://media.transistor.fm/f1dc8adf/32f672bc.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-12T17:38:57-07:00",
           "duration": "1688"
-        },
-        {
-          "kind": "audio",
-          "title": "Kushner and Iger Buy The Lakers, Grok 4.6 Launch, NVIDIA Nemotron | Darren Rovell, Patrick Whitesell, Harjot Gill, Jeff Huber, Soren Monroe-Anderson & Shaun Maguire, Andrei Georgescu",
-          "src": "https://media.transistor.fm/05cdd0cc/73dc9d64.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-12T13:30:11-07:00",
-          "duration": "7064"
-        },
-        {
-          "kind": "audio",
-          "title": "Nvidia’s $500B Compute Deal, Paramount Threatens CA Exit, Musk’s “Shortcut” to $1T Payday | Diet TBPN",
-          "src": "https://media.transistor.fm/30031c7f/38f5dca1.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-11T17:54:43-07:00",
-          "duration": "1810"
         }
       ]
     },
