@@ -1,10 +1,18 @@
 {
-  "updated": 1789297408,
+  "updated": 1789313697,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "10 Ways to Think Bigger with Opportunity AI",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/125664526/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-13%2F431794046-44100-2-7fa581c7906a.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-13T11:33:49+00:00",
+          "duration": "00:28:01"
+        },
         {
           "kind": "audio",
           "title": "What to Use the Latest AI Tools For",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-16T11:12:56+00:00",
           "duration": "00:29:13"
-        },
-        {
-          "kind": "audio",
-          "title": "How to Decide What Work AI Should Do for You: The AI Deputization Audit",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/124238408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F429864343-44100-2-18aa36cf02186.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-14T21:57:48+00:00",
-          "duration": "00:29:00"
         }
       ]
     },
