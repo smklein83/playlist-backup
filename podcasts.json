@@ -1,5 +1,5 @@
 {
-  "updated": 1789407512,
+  "updated": 1789421193,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "The \"Pacing AI\" Debate | Nico Wittenborn, Scott Keogh, Mitchell Green, David Rosenthal & Ben Gilbert, Faraj Aalaei",
+          "src": "https://media.transistor.fm/e172867c/ff578550.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-14T14:19:53-07:00",
+          "duration": "10188"
+        },
+        {
+          "kind": "audio",
           "title": "Washington Hones in on AI Safety, What Are AI Doomers Proposing | Diet TBPN",
           "src": "https://media.transistor.fm/67d605b2/e38bac75.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-13T14:12:33-07:00",
           "duration": "7910"
-        },
-        {
-          "kind": "audio",
-          "title": "Kushner & Iger’s $12.5B Lakers Deal, Grok 4.6 Launches, Anthropic’s Watermarking Move | Diet TBPN",
-          "src": "https://media.transistor.fm/136a2805/cb128bb4.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-12T17:38:57-07:00",
-          "duration": "1688"
         }
       ]
     },
