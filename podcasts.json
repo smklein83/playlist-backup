@@ -1,5 +1,5 @@
 {
-  "updated": 1789470071,
+  "updated": 1789488730,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -440,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-08T09:00:00+00:00",
           "duration": "01:08:17"
-        },
-        {
-          "kind": "audio",
-          "title": "Best Of: The Tao of Rick Rubin",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/0f6db987-3dde-43b8-bbad-bdc751576831/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=0f6db987-3dde-43b8-bbad-bdc751576831&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-09-01T09:00:00+00:00",
-          "duration": "01:29:56"
         },
         {
           "kind": "audio",
