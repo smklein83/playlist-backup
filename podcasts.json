@@ -1,10 +1,18 @@
 {
-  "updated": 1789421193,
+  "updated": 1789442296,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Even Other AI Labs Are Rallying Around Anthropic’s Slowdown Proposal",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/125742879/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-14%2F431900799-44100-2-3f9797168de63.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-14T23:22:34+00:00",
+          "duration": "00:37:02"
+        },
         {
           "kind": "audio",
           "title": "10 Ways to Think Bigger with Opportunity AI",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-17T21:47:54+00:00",
           "duration": "00:32:46"
-        },
-        {
-          "kind": "audio",
-          "title": "The New Problems AI Is Creating (And How People Are Solving Them)",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/124287571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-16%2F429932316-44100-2-818213fb2b282.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-16T11:12:56+00:00",
-          "duration": "00:29:13"
         }
       ]
     },
@@ -211,6 +211,14 @@
       "name": "All-In",
       "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Jensen_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-09-14T21:24:00+00:00",
+          "duration": "46:47"
+        },
         {
           "kind": "audio",
           "title": "AI Kills Everybody or Doomer Psyop? OpenAI's Math Breakthrough, Nike's $200B Collapse",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-23T20:52:00+00:00",
           "duration": "01:03:03"
-        },
-        {
-          "kind": "audio",
-          "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E277_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-06-19T22:07:00+00:00",
-          "duration": "01:24:30"
         }
       ]
     },
@@ -671,7 +671,15 @@
       "episodes": [
         {
           "kind": "audio",
-          "title": "The \"Pacing AI\" Debate | Nico Wittenborn, Scott Keogh, Mitchell Green, David Rosenthal & Ben Gilbert, Faraj Aalaei",
+          "title": "The AI Slowdown Debate | Diet TBPN",
+          "src": "https://media.transistor.fm/168b2451/123dbdfd.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-14T14:29:40-07:00",
+          "duration": "1545"
+        },
+        {
+          "kind": "audio",
+          "title": "The AI Slowdown Debate | Nico Wittenborn, Scott Keogh, Mitchell Green, David Rosenthal & Ben Gilbert, Faraj Aalaei",
           "src": "https://media.transistor.fm/e172867c/ff578550.mp3",
           "type": "audio/mpeg",
           "date": "2026-09-14T14:19:53-07:00",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-13T19:04:22-07:00",
           "duration": "1597"
-        },
-        {
-          "kind": "audio",
-          "title": "SaaSpocalypse Revisited, Singer x Louis Vuitton, Aman vs Ryan Walker | Igor Babuschkin, Brannin McBee, Garret Langley, Sonya Huang, Sean Cole",
-          "src": "https://media.transistor.fm/d71df947/56b431ce.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-13T14:12:33-07:00",
-          "duration": "7910"
         }
       ]
     },
