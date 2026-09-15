@@ -1,5 +1,5 @@
 {
-  "updated": 1789442296,
+  "updated": 1789470071,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Gwynne_Elon_AIS26_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-09-15T03:42:00+00:00",
+          "duration": "01:04:25"
+        },
+        {
+          "kind": "audio",
           "title": "Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Jensen_Ch.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-26T23:53:00+00:00",
           "duration": "01:41:43"
-        },
-        {
-          "kind": "audio",
-          "title": "GameStop CEO Ryan Cohen's $56B Plan to Take Over eBay",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_Cohen_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-06-23T20:52:00+00:00",
-          "duration": "01:03:03"
         }
       ]
     },
@@ -417,6 +417,14 @@
       "name": "The Ezra Klein Show",
       "feed": "https://feeds.simplecast.com/kEKXbjuJ",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The ‘But China!’ Dilemma Driving the A.I. Race",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/f3e11617-fc5d-4268-9dcc-fb47bec1433d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=f3e11617-fc5d-4268-9dcc-fb47bec1433d&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-09-15T09:00:00+00:00",
+          "duration": "01:05:37"
+        },
         {
           "kind": "audio",
           "title": "Why I Can't Stop Thinking About 'The End of History'",
