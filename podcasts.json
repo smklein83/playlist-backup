@@ -1,10 +1,18 @@
 {
-  "updated": 1789488730,
+  "updated": 1789505448,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Trump Rails Against AI Slowdown \"Hoax\"",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/125784038/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-15%2F431958285-44100-2-ed31ddcd71741.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-15T20:00:01+00:00",
+          "duration": "00:26:17"
+        },
         {
           "kind": "audio",
           "title": "Even Other AI Labs Are Rallying Around Anthropic’s Slowdown Proposal",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-18T21:42:07+00:00",
           "duration": "00:26:40"
-        },
-        {
-          "kind": "audio",
-          "title": "AI Companies Still Haven’t Delivered on Their Biggest Promises",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/124357996/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-17%2F430026787-44100-2-a2bcd0db21cc7.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-17T21:47:54+00:00",
-          "duration": "00:32:46"
         }
       ]
     },
@@ -211,6 +211,14 @@
       "name": "All-In",
       "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Satya_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-09-15T17:10:00+00:00",
+          "duration": "36:33"
+        },
         {
           "kind": "audio",
           "title": "Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-06-29T15:47:00+00:00",
           "duration": "01:00:42"
-        },
-        {
-          "kind": "audio",
-          "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E278_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-06-26T23:53:00+00:00",
-          "duration": "01:41:43"
         }
       ]
     },
