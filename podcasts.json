@@ -1,5 +1,5 @@
 {
-  "updated": 1789505448,
+  "updated": 1789528475,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Vance_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-09-15T20:46:00+00:00",
+          "duration": "27:32"
+        },
+        {
+          "kind": "audio",
           "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Satya_Ch.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-03T22:12:00+00:00",
           "duration": "01:42:11"
-        },
-        {
-          "kind": "audio",
-          "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/FINAL_PASS_NATE_SILVER.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-06-29T15:47:00+00:00",
-          "duration": "01:00:42"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Interest Rates Spike, Politicians Take Sides on the AI Safety Debate, Time’s AI Cover | Diet TBPN",
+          "src": "https://media.transistor.fm/6530a3be/ecffe066.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-15T14:58:57-07:00",
+          "duration": "1908"
+        },
+        {
+          "kind": "audio",
+          "title": "High Interest Rate Phenomenon, Driscoll's China Bet Backfires, Who Votes on AI Safety? | Stephen Colbert & Josh Kline, Jim VandeHei, Steve Menneto, Matthew Wilson, Rune Kvist, Tyler Bahl, James Cadwallader",
+          "src": "https://media.transistor.fm/fd8ffa74/0c4a0307.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-15T14:13:44-07:00",
+          "duration": "10647"
+        },
+        {
+          "kind": "audio",
           "title": "The AI Slowdown Debate | Diet TBPN",
           "src": "https://media.transistor.fm/168b2451/123dbdfd.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-14T19:12:42-07:00",
           "duration": "2214"
-        },
-        {
-          "kind": "audio",
-          "title": "Cursor Acquisition Closes, Bezos x Liverpool, Flying Roadster, Car Week, Gen Z Trends & More",
-          "src": "https://media.transistor.fm/0181c123/c41cd6a7.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-14T13:29:42-07:00",
-          "duration": "6396"
-        },
-        {
-          "kind": "audio",
-          "title": "North Korea’s Secret US Workforce, Canceling the SaaSpocalypse, MSL’s Latest Exits | Diet TBPN",
-          "src": "https://media.transistor.fm/2890605e/af0f0951.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-13T19:04:22-07:00",
-          "duration": "1597"
         }
       ]
     },
