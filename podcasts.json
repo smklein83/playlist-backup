@@ -1,10 +1,18 @@
 {
-  "updated": 1789574728,
+  "updated": 1789591875,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Why a New Class of AI “Judgment Models” Could Have Big Business Implications",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/125840823/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-16%2F432038820-44100-2-d79287960c43b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-16T19:57:15+00:00",
+          "duration": "00:25:19"
+        },
         {
           "kind": "audio",
           "title": "Trump Rails Against AI Slowdown \"Hoax\"",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-19T20:12:22+00:00",
           "duration": "00:29:41"
-        },
-        {
-          "kind": "audio",
-          "title": "The AI Engineering Skills Map for Knowledge Workers",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/124408465/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-18%2F430095623-44100-2-9e94421297cfc.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-18T21:42:07+00:00",
-          "duration": "00:26:40"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Third Party Evaluators, Fed Hikes Rates, Zuck Pushes Back On AI Slowdown | Jeremy Allaire, Tomasz Tunguz, William Layden, Justin Beroz, Eli Wachs, Sean McCarthy, Tom Mueller",
+          "src": "https://media.transistor.fm/02034a71/f7aeec92.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-16T13:38:32-07:00",
+          "duration": "8427"
+        },
+        {
+          "kind": "audio",
           "title": "Interest Rates Spike, Politicians Take Sides on the AI Safety Debate, Time’s AI Cover | Diet TBPN",
           "src": "https://media.transistor.fm/6530a3be/ecffe066.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-31T13:53:48-07:00",
           "duration": "8657"
-        },
-        {
-          "kind": "audio",
-          "title": "Tesla’s Roadster, Car Week Takes, Unwell Beverages Shuts Down | Diet TBPN",
-          "src": "https://media.transistor.fm/371338a8/9d281ac5.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-14T19:12:42-07:00",
-          "duration": "2214"
         }
       ]
     },
