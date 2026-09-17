@@ -1,5 +1,5 @@
 {
-  "updated": 1789591875,
+  "updated": 1789615199,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Brad_G_AIS26_AUDIO_v9k.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-09-17T03:04:00+00:00",
+          "duration": "18:10"
+        },
+        {
+          "kind": "audio",
           "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Vance_Ch.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-10T01:26:00+00:00",
           "duration": "01:03:57"
-        },
-        {
-          "kind": "audio",
-          "title": "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E279_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-07-03T22:12:00+00:00",
-          "duration": "01:42:11"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "METR and AI Regulation, Zuck Pushes Back on AI Slowdown, Fed Hikes Rates | Diet TBPN",
+          "src": "https://media.transistor.fm/3ba7681f/8486d689.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-16T16:12:17-07:00",
+          "duration": "1835"
+        },
+        {
+          "kind": "audio",
           "title": "Third Party Evaluators, Fed Hikes Rates, Zuck Pushes Back On AI Slowdown | Jeremy Allaire, Tomasz Tunguz, William Layden, Justin Beroz, Eli Wachs, Sean McCarthy, Tom Mueller",
           "src": "https://media.transistor.fm/02034a71/f7aeec92.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-31T16:38:39-07:00",
           "duration": "1879"
-        },
-        {
-          "kind": "audio",
-          "title": "WE'RE BACK, Meta Addiction, Tim Cook's Last Day | Jordan Schneider, Robert Mendelsohn & Eric Olszewski, Billy Thalheimer, Aaron Cannon, Stephen Balaban",
-          "src": "https://media.transistor.fm/1b7b60f3/69874211.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-31T13:53:48-07:00",
-          "duration": "8657"
         }
       ]
     },
