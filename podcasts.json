@@ -1,10 +1,18 @@
 {
-  "updated": 1789661517,
+  "updated": 1789678552,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Why Everyone Is Getting Excited About Personal AI Agents",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/125894194/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F432112496-44100-2-15a4ef81e6ed8.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-17T19:41:17+00:00",
+          "duration": "00:29:56"
+        },
         {
           "kind": "audio",
           "title": "Why a New Class of AI “Judgment Models” Could Have Big Business Implications",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-20T21:33:33+00:00",
           "duration": "00:29:53"
-        },
-        {
-          "kind": "audio",
-          "title": "The AI Backlash Is Getting Stupider. But Also Smarter.",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/124453869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-19%2F430156861-44100-2-c3b31ca2f2526.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-19T20:12:22+00:00",
-          "duration": "00:29:41"
         }
       ]
     },
@@ -211,6 +211,14 @@
       "name": "All-In",
       "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Dina_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-09-17T16:54:00+00:00",
+          "duration": "43:52"
+        },
         {
           "kind": "audio",
           "title": "Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-11T02:12:00+00:00",
           "duration": "01:42:05"
-        },
-        {
-          "kind": "audio",
-          "title": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/PARIS_Versailles_Ch4.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-07-10T01:26:00+00:00",
-          "duration": "01:03:57"
         }
       ]
     },
