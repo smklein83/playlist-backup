@@ -1,5 +1,5 @@
 {
-  "updated": 1789642532,
+  "updated": 1789661517,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -877,6 +877,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
+          "src": "https://api.substack.com/feed/podcast/216149332/7d69c76fc9ac6716e7931d0de12ec324.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-17T15:38:13+00:00",
+          "duration": "4810"
+        },
+        {
+          "kind": "audio",
           "title": "AI researchers debate how close we are to recursive self-improvement",
           "src": "https://api.substack.com/feed/podcast/215199144/a0f47ff12d3d6420b3180f18adb9bfa3.mp3",
           "type": "audio/mpeg",
@@ -1066,14 +1074,6 @@
           "type": "audio/mpeg",
           "date": "2026-02-13T16:46:36+00:00",
           "duration": "8540"
-        },
-        {
-          "kind": "audio",
-          "title": "Elon Musk — \"In 36 months, the cheapest place to put AI will be space”",
-          "src": "https://api.substack.com/feed/podcast/186967347/7e1421b0bbe8243af32f70dda75bef63.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-02-05T16:45:08+00:00",
-          "duration": "10185"
         }
       ]
     },
