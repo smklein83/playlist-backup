@@ -1,5 +1,5 @@
 {
-  "updated": 1789615199,
+  "updated": 1789642532,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "What Francis Fukuyama Is Seeing at 'The End of History'",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ae8e06da-4095-4c0f-8fdb-b4c0013c37f4/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-09-17T08:00:00+00:00",
+          "duration": "3264"
+        },
+        {
+          "kind": "audio",
           "title": "OpenAI President Greg Brockman on Doing Business in the Wake of Hugging Face",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/1664f593-6ca2-4a3e-bbe6-b4c201317baa/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-30T08:00:00+00:00",
           "duration": "3446"
-        },
-        {
-          "kind": "audio",
-          "title": "Branko Milanovic on What Comes After Globalization",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/dac96181-5b1e-4549-a0f9-b491013fe961/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-07-27T08:00:00+00:00",
-          "duration": "3677"
         }
       ]
     }
