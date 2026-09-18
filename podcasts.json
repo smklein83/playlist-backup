@@ -1,5 +1,5 @@
 {
-  "updated": 1789746461,
+  "updated": 1789762957,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_JaredIsaacman_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-09-18T15:59:00+00:00",
+          "duration": "38:34"
+        },
+        {
+          "kind": "audio",
           "title": "Nick Shirley: Exposing Government Fraud, Suing California & Taking on the Media",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_NickShirley_Ch.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-15T20:55:00+00:00",
           "duration": "49:44"
-        },
-        {
-          "kind": "audio",
-          "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/1_Paris_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-07-13T22:07:00+00:00",
-          "duration": "51:33"
         }
       ]
     },
