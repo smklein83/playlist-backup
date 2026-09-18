@@ -1,5 +1,5 @@
 {
-  "updated": 1789678552,
+  "updated": 1789700762,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Nick Shirley: Exposing Government Fraud, Suing California & Taking on the Media",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_NickShirley_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-09-18T00:30:00+00:00",
+          "duration": "32:32"
+        },
+        {
+          "kind": "audio",
           "title": "Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Dina_Ch.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-13T22:07:00+00:00",
           "duration": "51:33"
-        },
-        {
-          "kind": "audio",
-          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E280_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-07-11T02:12:00+00:00",
-          "duration": "01:42:05"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Snap Launches SPECS, Paramount Eyes Nashville Offices, OpenAI Explores $1.2T Valuation | Diet TBPN",
+          "src": "https://media.transistor.fm/d42de643/49eb6cea.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-17T16:12:03-07:00",
+          "duration": "1749"
+        },
+        {
+          "kind": "audio",
+          "title": "Snap Launches Specs, Paramount Eyes Nashville, Japan's Monks Turn to Investing, New Clip from 'The Social Reckoning' | Aaref Hilaly, David Gross, Max Junestrand, Chase Lochmiller, Jesse Zhang, Nilam Ganenthiran & Leonard Tang, Joe Weisenthal",
+          "src": "https://media.transistor.fm/e5e7fb3d/760ae8f4.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-17T14:51:30-07:00",
+          "duration": "10891"
+        },
+        {
+          "kind": "audio",
           "title": "METR and AI Regulation, Zuck Pushes Back on AI Slowdown, Fed Hikes Rates | Diet TBPN",
           "src": "https://media.transistor.fm/3ba7681f/8486d689.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-02T14:02:39-07:00",
           "duration": "8219"
-        },
-        {
-          "kind": "audio",
-          "title": "LIVE From CrowdStrike's Fal.Con 2026 | George Kurtz, Michael Sentonas, Daniel Bernard & Justin Boitano",
-          "src": "https://media.transistor.fm/005b6ef7/99f4ee03.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-01T15:21:37-07:00",
-          "duration": "3755"
-        },
-        {
-          "kind": "audio",
-          "title": "Meta Settles Addiction Suits, Tim Cook Signs Off After 15 Years, OpenAI’s Jalapeño Chip | Diet TBPN",
-          "src": "https://media.transistor.fm/80f4e060/f2769c13.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-31T16:38:39-07:00",
-          "duration": "1879"
         }
       ]
     },
