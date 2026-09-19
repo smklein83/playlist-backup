@@ -1,18 +1,10 @@
 {
-  "updated": 1789786954,
+  "updated": 1789812992,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
-        {
-          "kind": "audio",
-          "title": "The AI Challenges Businesses Are Actually Focused On Right Now",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/125968281/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-18%2F432207243-44100-2-425ae6beadbf.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-18T22:20:28+00:00",
-          "duration": "00:30:06"
-        },
         {
           "kind": "audio",
           "title": "Why Everyone Is Getting Excited About Personal AI Agents",
@@ -204,6 +196,14 @@
           "type": "audio/mpeg",
           "date": "2026-08-21T18:26:30+00:00",
           "duration": "00:36:06"
+        },
+        {
+          "kind": "audio",
+          "title": "9 AI Techniques You Probably Haven't Tried",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/124506590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-20%2F430229708-44100-2-b5dcd8ff23ce.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-08-20T21:33:33+00:00",
+          "duration": "00:29:53"
         }
       ]
     },
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "A Goldman M&A Banker Helped Bring the Olympics to Los Angeles",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3c42dc4e-ca08-46cf-b2c6-b4c90112084e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-09-19T08:00:00+00:00",
+          "duration": "1971"
+        },
+        {
+          "kind": "audio",
           "title": "There's a Mind-Boggling Number of Rich People in America",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3715cbfc-b4cf-4840-bf1b-b4c8010bc9bb/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-03T08:00:00+00:00",
           "duration": "2666"
-        },
-        {
-          "kind": "audio",
-          "title": "Why Private Credit Got Entangled With Insurance",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f004446b-a024-4773-bd04-b497017ec344/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-07-31T08:00:00+00:00",
-          "duration": "3103"
         }
       ]
     }
