@@ -1,10 +1,18 @@
 {
-  "updated": 1789812992,
+  "updated": 1789831191,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The AI Challenges Businesses Are Actually Focused On Right Now",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/125968281/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-18%2F432207243-44100-2-425ae6beadbf.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-18T22:20:28+00:00",
+          "duration": "00:30:06"
+        },
         {
           "kind": "audio",
           "title": "Why Everyone Is Getting Excited About Personal AI Agents",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-21T18:26:30+00:00",
           "duration": "00:36:06"
-        },
-        {
-          "kind": "audio",
-          "title": "9 AI Techniques You Probably Haven't Tried",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/124506590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-20%2F430229708-44100-2-b5dcd8ff23ce.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-20T21:33:33+00:00",
-          "duration": "00:29:53"
         }
       ]
     },
