@@ -1,5 +1,5 @@
 {
-  "updated": 1789874308,
+  "updated": 1789900516,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -417,6 +417,14 @@
       "name": "The Ezra Klein Show",
       "feed": "https://feeds.simplecast.com/kEKXbjuJ",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "We’re Not Losing Control of A.I. We’re Giving It Away.",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/24eb71b8-cd6c-4b13-9130-0a047930ef2a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=24eb71b8-cd6c-4b13-9130-0a047930ef2a&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-09-20T04:55:00+00:00",
+          "duration": "00:31:17"
+        },
         {
           "kind": "audio",
           "title": "The ‘But China!’ Dilemma Driving the A.I. Race",
