@@ -1,5 +1,5 @@
 {
-  "updated": 1789935481,
+  "updated": 1789960472,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Adam_Foroughi_AIS26_AUDIO_v88.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-09-20T20:49:00+00:00",
+          "duration": "23:52"
+        },
+        {
+          "kind": "audio",
           "title": "Bill Gurley: Searching for Feynman",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Gurley_Ch_V2.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-20T18:51:00+00:00",
           "duration": "41:39"
-        },
-        {
-          "kind": "audio",
-          "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E281_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-07-18T00:36:00+00:00",
-          "duration": "01:29:55"
         }
       ]
     },
