@@ -1,5 +1,5 @@
 {
-  "updated": 1789960472,
+  "updated": 1789991810,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -440,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-11T09:00:00+00:00",
           "duration": "01:17:30"
-        },
-        {
-          "kind": "audio",
-          "title": "What ‘Hyperpolitics’ Explains About This Era",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/b1dcd8ec-db10-4339-85ac-4f07a678e6cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=b1dcd8ec-db10-4339-85ac-4f07a678e6cd&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-09-08T09:00:00+00:00",
-          "duration": "01:08:17"
         },
         {
           "kind": "audio",
@@ -1091,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "How LA Is Quietly Becoming America's New Industrial Tech Hub",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8d30821d-cf7d-4147-b00e-b4cb01647404/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-09-21T08:00:00+00:00",
+          "duration": "2164"
+        },
+        {
+          "kind": "audio",
           "title": "Introducing: Bloomberg Money",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8e30cc48-c94f-47b3-b450-b4ca014b861f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1280,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-07T08:00:00+00:00",
           "duration": "3467"
-        },
-        {
-          "kind": "audio",
-          "title": "Brad Setser on the US's Unusual Japanese Yen Intervention",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/09ad45b2-ee9c-4482-8700-b49d0161d97f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-08-06T08:00:00+00:00",
-          "duration": "2520"
         }
       ]
     }
