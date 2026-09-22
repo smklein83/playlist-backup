@@ -1,10 +1,18 @@
 {
-  "updated": 1790093643,
+  "updated": 1790110315,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Agent Wars!",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/126155309/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-22%2F432457268-44100-2-e0a7717f54c4e.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-22T19:07:36+00:00",
+          "duration": "00:30:57"
+        },
         {
           "kind": "audio",
           "title": "The State of the AI Debate",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-25T19:35:31+00:00",
           "duration": "00:27:54"
-        },
-        {
-          "kind": "audio",
-          "title": "The AI Model Tier List",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/124674891/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-24%2F430457183-44100-2-24feca95167de.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-24T19:26:22+00:00",
-          "duration": "00:29:20"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Harvey's Margin Whiplash, Human Powered Agents, McLaren Rebrand, Insects > Humans? | Ben Thompson, Gagan Biyani, Alex Ratner, Peter Kalogiannis, Daniel Petkevich",
+          "src": "https://media.transistor.fm/937dd166/64e8676a.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-22T13:40:28-07:00",
+          "duration": "8087"
+        },
+        {
+          "kind": "audio",
           "title": "AI Video Levels Up, Amazon Blocks Muse, Paramount Stays in CA | Diet TBPN",
           "src": "https://media.transistor.fm/b91883a5/c4cc4fa0.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-03T14:12:23-07:00",
           "duration": "8767"
-        },
-        {
-          "kind": "audio",
-          "title": "Another AI Safety Kerfuffle, Markiplier’s Stake in GoPro, SpaceX Getting Into Turbines | Diet TBPN",
-          "src": "https://media.transistor.fm/fe7b131b/fd6bdef8.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-02T14:43:59-07:00",
-          "duration": "1869"
         }
       ]
     },
