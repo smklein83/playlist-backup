@@ -1,5 +1,5 @@
 {
-  "updated": 1790046805,
+  "updated": 1790074578,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Blake_Scholl_AIS26_AUDIO_v99.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-09-22T09:00:00+00:00",
+          "duration": "17:40"
+        },
+        {
+          "kind": "audio",
           "title": "Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Naveen_Rao_AIS26_AUDIO_v100.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-28T20:21:00+00:00",
           "duration": "01:08:35"
-        },
-        {
-          "kind": "audio",
-          "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E282_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-07-24T20:46:00+00:00",
-          "duration": "01:33:44"
         }
       ]
     },
