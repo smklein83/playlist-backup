@@ -1,5 +1,5 @@
 {
-  "updated": 1790160256,
+  "updated": 1790179410,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -419,7 +419,7 @@
       "episodes": [
         {
           "kind": "audio",
-          "title": "Jensen Huang vs. the A.I. Doomers",
+          "title": "Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/fc18cf31-cf20-4fe1-9a8a-4e288a5004f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=fc18cf31-cf20-4fe1-9a8a-4e288a5004f2&feed=kEKXbjuJ",
           "type": "audio/mpeg",
           "date": "2026-09-23T09:00:00+00:00",
@@ -440,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-15T09:00:00+00:00",
           "duration": "01:05:37"
-        },
-        {
-          "kind": "audio",
-          "title": "Why I Can't Stop Thinking About 'The End of History'",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/73541dab-2e84-438a-8c37-cd58533a3381/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=73541dab-2e84-438a-8c37-cd58533a3381&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-09-11T09:00:00+00:00",
-          "duration": "01:17:30"
         },
         {
           "kind": "audio",
