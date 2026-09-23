@@ -1,5 +1,5 @@
 {
-  "updated": 1790110315,
+  "updated": 1790133200,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/HilstonPratt_AIS26_AUDIO_v200.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-09-23T01:44:00+00:00",
+          "duration": "55:44"
+        },
+        {
+          "kind": "audio",
           "title": "Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Blake_Scholl_AIS26_AUDIO_v99.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-07-31T22:23:00+00:00",
           "duration": "01:36:34"
-        },
-        {
-          "kind": "audio",
-          "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_ROBOTS_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-07-28T20:21:00+00:00",
-          "duration": "01:08:35"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Harvey’s Margins, Are Insects Worth More Than Humans?, Meta Tests Human Help for Muse | Diet TBPN",
+          "src": "https://media.transistor.fm/d4179f90/67406491.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-22T16:38:58-07:00",
+          "duration": "1996"
+        },
+        {
+          "kind": "audio",
           "title": "Harvey's Margin Whiplash, Human Powered Agents, McLaren Rebrand, Insects > Humans? | Ben Thompson, Gagan Biyani, Alex Ratner, Peter Kalogiannis, Daniel Petkevich",
           "src": "https://media.transistor.fm/937dd166/64e8676a.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-03T14:38:19-07:00",
           "duration": "1416"
-        },
-        {
-          "kind": "audio",
-          "title": "Model Mayhem, NVIDIA x Hugging Face Deal, GPT-6 Astra | Pablo Torre, Mohit Aron, Akshay Narisetti, Hari Ravichandran, Matt Caldwell & Jordy Leiser, Jeff Thornburg, Charlie O’Neill, Sridhar Ramaswamy",
-          "src": "https://media.transistor.fm/aeb93c8c/5b7943d5.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-03T14:12:23-07:00",
-          "duration": "8767"
         }
       ]
     },
