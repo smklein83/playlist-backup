@@ -1,10 +1,18 @@
 {
-  "updated": 1790179410,
+  "updated": 1790197395,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Opus 5.5 vs GPT-6 Sol and Luna",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/126210884/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-23%2F432533842-44100-2-99559049bf5a5.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-23T20:50:01+00:00",
+          "duration": "00:31:02"
+        },
         {
           "kind": "audio",
           "title": "Agent Wars!",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-26T20:57:06+00:00",
           "duration": "00:23:42"
-        },
-        {
-          "kind": "audio",
-          "title": "What the Top AI Users Are Doing Differently",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/124726457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-25%2F430528130-44100-2-dbcd565f1f136.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-25T19:35:31+00:00",
-          "duration": "00:27:54"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Jensen vs NYT, New Model Reactions, \"You Can See Everything\" Trailer, Saudi EVs | Cristiano Amon, Talia Goldberg, John & Louis Antonelli, Max Levchin, Sam Ross",
+          "src": "https://media.transistor.fm/e6c9bcc4/5ea6f847.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-23T13:05:08-07:00",
+          "duration": "6575"
+        },
+        {
+          "kind": "audio",
           "title": "Harvey’s Margins, Are Insects Worth More Than Humans?, Meta Tests Human Help for Muse | Diet TBPN",
           "src": "https://media.transistor.fm/d4179f90/67406491.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-03T16:43:59-07:00",
           "duration": "1806"
-        },
-        {
-          "kind": "audio",
-          "title": "Pablo Torre Explains the Steve Ballmer & Kawhi Leonard Scandal",
-          "src": "https://media.transistor.fm/2bfd5175/59dc97f9.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-03T14:38:19-07:00",
-          "duration": "1416"
         }
       ]
     },
