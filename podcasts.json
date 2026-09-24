@@ -1,5 +1,5 @@
 {
-  "updated": 1790197395,
+  "updated": 1790219019,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Luca_Ferrari_AIS26_AUDIO_v88.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-09-23T23:00:00+00:00",
+          "duration": "25:30"
+        },
+        {
+          "kind": "audio",
           "title": "Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/HilstonPratt_AIS26_AUDIO_v200.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-05T20:19:00+00:00",
           "duration": "48:19"
-        },
-        {
-          "kind": "audio",
-          "title": "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E283_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-07-31T22:23:00+00:00",
-          "duration": "01:36:34"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Jensen’s Ezra Interview, EV News, Nathan Fielder’s Elizabeth Holmes Doc | Diet TBPN",
+          "src": "https://media.transistor.fm/9d88f7b5/7bf60a19.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-23T17:08:20-07:00",
+          "duration": "1745"
+        },
+        {
+          "kind": "audio",
           "title": "Jensen vs NYT, New Model Reactions, \"You Can See Everything\" Trailer, Saudi EVs | Cristiano Amon, Talia Goldberg, John & Louis Antonelli, Max Levchin, Sam Ross",
           "src": "https://media.transistor.fm/e6c9bcc4/5ea6f847.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-04T17:14:06-07:00",
           "duration": "1953"
-        },
-        {
-          "kind": "audio",
-          "title": "Model Mayhem, GPT-6 Astra, Why Nvidia Bought Hugging Face | Diet TBPN",
-          "src": "https://media.transistor.fm/2593cfdb/3ae18e2b.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-03T16:43:59-07:00",
-          "duration": "1806"
         }
       ]
     },
