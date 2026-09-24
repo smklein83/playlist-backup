@@ -1,10 +1,18 @@
 {
-  "updated": 1790267279,
+  "updated": 1790284031,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "AI Agents Are Moving Into the Real World",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/126257502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432598497-44100-2-61fee1b301566.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-24T19:06:43+00:00",
+          "duration": "00:28:07"
+        },
         {
           "kind": "audio",
           "title": "Opus 5.5 vs GPT-6 Sol and Luna",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-27T19:33:57+00:00",
           "duration": "00:28:39"
-        },
-        {
-          "kind": "audio",
-          "title": "5 Rules for Better AI Writing",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/124781908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-26%2F430605953-44100-2-5c70382db5fa5.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-26T20:57:06+00:00",
-          "duration": "00:23:42"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Meta Connect Reactions, Zuck's Beer Pong Controversy, New Bentley EV | Shalev Lifshitz & Romi Lifshitz, Leif Abraham, Diogo Almeida, Hooman Reza Nezhad, Jordan Nanos, Erika Alden DeBenedictis",
+          "src": "https://media.transistor.fm/9f7d8501/068e051b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-24T13:29:32-07:00",
+          "duration": "7347"
+        },
+        {
+          "kind": "audio",
           "title": "Jensen’s Ezra Interview, EV News, Nathan Fielder’s Elizabeth Holmes Doc | Diet TBPN",
           "src": "https://media.transistor.fm/9d88f7b5/7bf60a19.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-04T19:04:08-07:00",
           "duration": "8392"
-        },
-        {
-          "kind": "audio",
-          "title": "Astra Reactions, Jobs Print, Cybercab Launch | Diet TBPN",
-          "src": "https://media.transistor.fm/e73e051c/f372c3b1.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-04T17:14:06-07:00",
-          "duration": "1953"
         }
       ]
     },
