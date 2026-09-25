@@ -1,5 +1,5 @@
 {
-  "updated": 1790334331,
+  "updated": 1790353732,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -440,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-20T04:55:00+00:00",
           "duration": "00:31:17"
-        },
-        {
-          "kind": "audio",
-          "title": "The ‘But China!’ Dilemma Driving the A.I. Race",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/f3e11617-fc5d-4268-9dcc-fb47bec1433d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=f3e11617-fc5d-4268-9dcc-fb47bec1433d&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-09-15T09:00:00+00:00",
-          "duration": "01:05:37"
         },
         {
           "kind": "audio",
