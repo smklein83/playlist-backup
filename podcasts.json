@@ -1,5 +1,5 @@
 {
-  "updated": 1790284031,
+  "updated": 1790306457,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Meta Connect 2026, OpenAI’s Australia ‘Incident,’ Bentley’s New EV | Diet TBPN",
+          "src": "https://media.transistor.fm/9b20914e/11f8f08f.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-24T16:53:08-07:00",
+          "duration": "1903"
+        },
+        {
+          "kind": "audio",
           "title": "Meta Connect Reactions, Zuck's Beer Pong Controversy, New Bentley EV | Shalev Lifshitz & Romi Lifshitz, Leif Abraham, Diogo Almeida, Hooman Reza Nezhad, Jordan Nanos, Erika Alden DeBenedictis",
           "src": "https://media.transistor.fm/9f7d8501/068e051b.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-08T14:50:23-07:00",
           "duration": "1482"
-        },
-        {
-          "kind": "audio",
-          "title": "Jobs Boom, Astra Reactions, Cybercab Roll Out, The Dyson Debate | Hunter Somerville, Bar Winkler, Bridgit Mendler, Carina Hong & Ken Ono",
-          "src": "https://media.transistor.fm/007570ec/d14e7a7d.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-04T19:04:08-07:00",
-          "duration": "8392"
         }
       ]
     },
