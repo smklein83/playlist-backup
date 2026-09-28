@@ -1,10 +1,18 @@
 {
-  "updated": 1790599889,
+  "updated": 1790636127,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The Real Risks of AI Agents",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/126431664/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2F432833155-44100-2-2d9a2cafc1df1.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-28T17:58:52+00:00",
+          "duration": "00:29:23"
+        },
         {
           "kind": "audio",
           "title": "The Rise of the AI Moderates",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-31T19:39:34+00:00",
           "duration": "00:28:52"
-        },
-        {
-          "kind": "audio",
-          "title": "How to Start AI Coding If You Haven’t Yet",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/124914036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-29%2F430789403-44100-2-3f1dc05107eed.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-29T22:22:44+00:00",
-          "duration": "00:29:27"
         }
       ]
     },
@@ -211,6 +211,14 @@
       "name": "All-In",
       "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_1k_Daniel_Ek_Int.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-09-28T22:16:00+00:00",
+          "duration": "51:16"
+        },
         {
           "kind": "audio",
           "title": "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-13T02:10:00+00:00",
           "duration": "01:11:36"
-        },
-        {
-          "kind": "audio",
-          "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E284_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-08-08T00:32:00+00:00",
-          "duration": "01:15:18"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Dario Goes From SNL to White House, Some Personal Agent News, Mongo Got Zucked | Lo Toney, Zack London, Anish Acharya, Evan Conrad, Gstaad Guy",
+          "src": "https://media.transistor.fm/c0c4126a/c8202ef7.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-28T14:16:59-07:00",
+          "duration": "9967"
+        },
+        {
+          "kind": "audio",
           "title": "Microsoft to Take On Muse, Trump & Xi Dinner, The Mansion Section | Diet TBPN",
           "src": "https://media.transistor.fm/85b21d9f/1c9d12ce.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-09T14:34:58-07:00",
           "duration": "10739"
-        },
-        {
-          "kind": "audio",
-          "title": "OpenAI Cracks Navier-Stokes, Tech Trailers, AI Jobs Apocalypse on Hold | Diet TBPN",
-          "src": "https://media.transistor.fm/70b172a9/eb2b56b2.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-08T16:49:34-07:00",
-          "duration": "1897"
         }
       ]
     },
