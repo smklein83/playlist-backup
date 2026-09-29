@@ -1,5 +1,5 @@
 {
-  "updated": 1790654862,
+  "updated": 1790683546,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -419,6 +419,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Bill Gates’s Blunt Warning on A.I.",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/315b9d5d-a796-4940-ac66-f285a522b4b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=315b9d5d-a796-4940-ac66-f285a522b4b7&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-09-29T09:00:00+00:00",
+          "duration": "01:14:13"
+        },
+        {
+          "kind": "audio",
           "title": "What Does Abdul El-Sayed Believe?",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/9a521442-24d0-4652-877a-8f2464174d9a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=9a521442-24d0-4652-877a-8f2464174d9a&feed=kEKXbjuJ",
           "type": "audio/mpeg",
@@ -432,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-23T09:00:00+00:00",
           "duration": "01:47:56"
-        },
-        {
-          "kind": "audio",
-          "title": "We Can't Lose Control of A.I.",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/24eb71b8-cd6c-4b13-9130-0a047930ef2a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=24eb71b8-cd6c-4b13-9130-0a047930ef2a&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-09-20T04:55:00+00:00",
-          "duration": "00:31:17"
         },
         {
           "kind": "audio",
