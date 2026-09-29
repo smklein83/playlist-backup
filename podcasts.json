@@ -1,10 +1,18 @@
 {
-  "updated": 1790683546,
+  "updated": 1790718586,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How to Build Team Agents",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/126506259/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-29%2F432928767-44100-2-daaa1676841fc.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-29T18:39:47+00:00",
+          "duration": "00:41:48"
+        },
         {
           "kind": "audio",
           "title": "The Real Risks of AI Agents",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-01T23:09:27+00:00",
           "duration": "00:26:05"
-        },
-        {
-          "kind": "audio",
-          "title": "How to Navigate the Next Wave of AI Competition",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/125003069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2F430911698-44100-2-a66bc12f70ce7.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-08-31T19:39:34+00:00",
-          "duration": "00:28:52"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "OpenAI DevDay | Sam Altman, Alexander Embiricos, Andrew Ambrosino, Peter Steinberger, Tibo Sottiaux, Kath Korevec, Casey Neistat",
+          "src": "https://media.transistor.fm/b41e5338/059d2992.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-29T14:29:57-07:00",
+          "duration": "7531"
+        },
+        {
+          "kind": "audio",
           "title": "Cambridge AI Safety Plan, Instinct CEO on Invest Like the Best, Zuck Hires MongoDB CEO | Diet TBPN",
           "src": "https://media.transistor.fm/8958b815/391c83d1.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-10T13:10:18-07:00",
           "duration": "5275"
-        },
-        {
-          "kind": "audio",
-          "title": "Apple’s iPhone Duo, Meta’s Muse AI Agent, Anthropic Researcher Quits Over AI Doom | Diet TBPN",
-          "src": "https://media.transistor.fm/36b0643c/aaf6833f.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-09T17:30:26-07:00",
-          "duration": "1916"
         }
       ]
     },
