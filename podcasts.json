@@ -1,5 +1,5 @@
 {
-  "updated": 1790636127,
+  "updated": 1790654862,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Cambridge AI Safety Plan, Instinct CEO on Invest Like the Best, Zuck Hires MongoDB CEO | Diet TBPN",
+          "src": "https://media.transistor.fm/8958b815/391c83d1.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-28T18:33:53-07:00",
+          "duration": "1798"
+        },
+        {
+          "kind": "audio",
           "title": "Dario Goes From SNL to White House, Some Personal Agent News, Mongo Got Zucked | Lo Toney, Zack London, Anish Acharya, Evan Conrad, Gstaad Guy",
           "src": "https://media.transistor.fm/c0c4126a/c8202ef7.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-09T17:30:26-07:00",
           "duration": "1916"
-        },
-        {
-          "kind": "audio",
-          "title": "Apple Unveils iPhone Duo, Muse AI Agent, Keith Rabois Joins | David Cahn, Mikey Shulman, David Perell, Jim Reilly, Fletcher Richman",
-          "src": "https://media.transistor.fm/3cda42af/406714c7.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-09T14:34:58-07:00",
-          "duration": "10739"
         }
       ]
     },
