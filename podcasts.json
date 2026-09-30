@@ -1,5 +1,5 @@
 {
-  "updated": 1790718586,
+  "updated": 1790740417,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -675,7 +675,7 @@
           "src": "https://media.transistor.fm/b41e5338/059d2992.mp3",
           "type": "audio/mpeg",
           "date": "2026-09-29T14:29:57-07:00",
-          "duration": "7531"
+          "duration": "7514"
         },
         {
           "kind": "audio",
