@@ -1,10 +1,18 @@
 {
-  "updated": 1790789685,
+  "updated": 1790805076,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The Most Important New AI Tools from OpenAI DevDay",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/126573983/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2F433015204-44100-2-5ae726073b88.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-30T18:42:19+00:00",
+          "duration": "00:23:29"
+        },
         {
           "kind": "audio",
           "title": "How to Build Team Agents",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-02T18:49:39+00:00",
           "duration": "00:31:27"
-        },
-        {
-          "kind": "audio",
-          "title": "OpenClaw 2.0 Shows Where AI Agents Are Going Next",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/125063526/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-1%2F430996383-44100-2-cb45518400175.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-01T23:09:27+00:00",
-          "duration": "00:26:05"
         }
       ]
     },
@@ -211,6 +211,14 @@
       "name": "All-In",
       "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Jake Paul & The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? & Venture Bubble Signs",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_88_PaulChainsmokers_AIS26.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-09-30T21:00:00+00:00",
+          "duration": "52:49"
+        },
         {
           "kind": "audio",
           "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-14T20:11:00+00:00",
           "duration": "01:39:30"
-        },
-        {
-          "kind": "audio",
-          "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_Emanuel_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-08-13T02:10:00+00:00",
-          "duration": "01:11:36"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "White House AI Accord, Model Welfare, Ken Griffindor School of Market Wizardry | Ali Golshan, Mike Intrator, Vlad Tenev, Pari Singh, Minna Song, Dev Ittycheria, Daragh Murphy, Noah Friedman",
+          "src": "https://media.transistor.fm/ee2abb9f/22e9613a.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-30T14:27:30-07:00",
+          "duration": "10786"
+        },
+        {
+          "kind": "audio",
           "title": "OpenAI DevDay | Sam Altman, Alexander Embiricos, Andrew Ambrosino, Peter Steinberger, Tibo Sottiaux, Kath Korevec, Casey Neistat",
           "src": "https://media.transistor.fm/b41e5338/059d2992.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-10T14:55:55-07:00",
           "duration": "1614"
-        },
-        {
-          "kind": "audio",
-          "title": "YC Demo Day, Spoon = Bent (Again), iPhone Duo Reactions | Garry Tan, Om Buddhdev, Karen Serfaty, Antonio Li, Edward Ge, Alfredo Gonzalez",
-          "src": "https://media.transistor.fm/35e8db3b/904147ef.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-10T13:10:18-07:00",
-          "duration": "5275"
         }
       ]
     },
