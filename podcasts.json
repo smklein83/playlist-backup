@@ -1,5 +1,5 @@
 {
-  "updated": 1790857436,
+  "updated": 1790893152,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Factory-Cognition Drama, Instinct's Shopping Push, Gemini 4 Argon | Will Bruey, Christophe Beck, Hassaan Raza, Connor Renton",
+          "src": "https://media.transistor.fm/3a7cb60d/23992b1e.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-01T13:24:17-07:00",
+          "duration": "5703"
+        },
+        {
+          "kind": "audio",
           "title": "AI Execs Sign Joint Commitment, Converting Watts to GDP, the Model Consciousness Debate | Diet TBPN",
           "src": "https://media.transistor.fm/02ffb9cc/00948350.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-11T16:40:02-07:00",
           "duration": "1813"
-        },
-        {
-          "kind": "audio",
-          "title": "Fruitfly Hard Takeoff, Washington on AI Risk, 𝕏 Timeline Reactions | Thijs Simonian, Alex Heath & Guy Oseary, Mitesh Agrawal",
-          "src": "https://media.transistor.fm/e0816bdf/559b88ff.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-11T13:26:45-07:00",
-          "duration": "6349"
         }
       ]
     },
@@ -875,6 +875,14 @@
       "name": "Dwarkesh Podcast",
       "feed": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Si Sheppard – How did a few hundred Spanish soldiers topple two empires?",
+          "src": "https://api.substack.com/feed/podcast/218345956/4b5f7bc6865a6ab2f2eeea047dff6d8b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-01T15:28:28+00:00",
+          "duration": "5843"
+        },
         {
           "kind": "audio",
           "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
@@ -1066,14 +1074,6 @@
           "type": "audio/mpeg",
           "date": "2026-03-06T17:14:20+00:00",
           "duration": "7339"
-        },
-        {
-          "kind": "audio",
-          "title": "Dario Amodei — \"We are near the end of the exponential\"",
-          "src": "https://api.substack.com/feed/podcast/187852154/cecdbe38125e2786cbfebe31dd083d4f.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-02-13T16:46:36+00:00",
-          "duration": "8540"
         }
       ]
     },
