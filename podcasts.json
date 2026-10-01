@@ -1,5 +1,5 @@
 {
-  "updated": 1790805076,
+  "updated": 1790827359,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "AI Execs Sign Joint Commitment, Converting Watts to GDP, the Model Consciousness Debate | Diet TBPN",
+          "src": "https://media.transistor.fm/02ffb9cc/00948350.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-09-30T16:30:08-07:00",
+          "duration": "1796"
+        },
+        {
+          "kind": "audio",
           "title": "White House AI Accord, Model Welfare, Ken Griffindor School of Market Wizardry | Ali Golshan, Mike Intrator, Vlad Tenev, Pari Singh, Minna Song, Dev Ittycheria, Daragh Murphy, Noah Friedman",
           "src": "https://media.transistor.fm/ee2abb9f/22e9613a.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-11T13:26:45-07:00",
           "duration": "6349"
-        },
-        {
-          "kind": "audio",
-          "title": "AI Safety Timeline Takeover, Bending Spoons Acquires Miro, iPhone Duo Reactions | Diet TBPN",
-          "src": "https://media.transistor.fm/f1dc8adf/32f672bc.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-10T14:55:55-07:00",
-          "duration": "1614"
         }
       ]
     },
