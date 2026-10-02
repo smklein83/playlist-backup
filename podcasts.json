@@ -1,10 +1,18 @@
 {
-  "updated": 1790961965,
+  "updated": 1790977658,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "What the Best Business AI Users Are Doing Different",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/126703525/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-2%2F433184971-44100-2-7b93ea853ffb3.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-02T18:18:25+00:00",
+          "duration": "00:22:53"
+        },
         {
           "kind": "audio",
           "title": "Gemini 4 Argon, Sonnet 5.5 and What Matters with AI Models",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-04T20:03:43+00:00",
           "duration": "00:24:00"
-        },
-        {
-          "kind": "audio",
-          "title": "Agentic Loops for Knowledge Workers",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/125176194/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F431145568-44100-2-0e1697b267ed2.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-03T22:41:58+00:00",
-          "duration": "00:57:05"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "BYOCompute, Pope Destroys False Idol, Ben Affleck's White Pill | Joe Gebbia, Molly Fowler, Tom Dotan, Pim de Witte, Greg Castle",
+          "src": "https://media.transistor.fm/b134a4e1/400c0ba2.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-02T14:08:22-07:00",
+          "duration": "9980"
+        },
+        {
+          "kind": "audio",
           "title": "Nvidia’s Cloud Strategy Evolves, Factory-Cognition Drama, Instinct Pushes Into Shopping | Diet TBPN",
           "src": "https://media.transistor.fm/a08b06cf/ac6c9a9c.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-14T14:29:40-07:00",
           "duration": "1545"
-        },
-        {
-          "kind": "audio",
-          "title": "The AI Slowdown Debate | Nico Wittenborn, Scott Keogh, Mitchell Green, David Rosenthal & Ben Gilbert, Faraj Aalaei",
-          "src": "https://media.transistor.fm/e172867c/ff578550.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-14T14:19:53-07:00",
-          "duration": "10188"
         }
       ]
     },
