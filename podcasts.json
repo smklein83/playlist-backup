@@ -1,5 +1,5 @@
 {
-  "updated": 1790893152,
+  "updated": 1790913510,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Nvidia’s Cloud Strategy Evolves, Factory-Cognition Drama, Instinct Pushes Into Shopping | Diet TBPN",
+          "src": "https://media.transistor.fm/a08b06cf/ac6c9a9c.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-01T16:29:13-07:00",
+          "duration": "1939"
+        },
+        {
+          "kind": "audio",
           "title": "Factory-Cognition Drama, Instinct's Shopping Push, Gemini 4 Argon | Will Bruey, Christophe Beck, Hassaan Raza, Connor Renton",
           "src": "https://media.transistor.fm/3a7cb60d/23992b1e.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-14T14:19:53-07:00",
           "duration": "10188"
-        },
-        {
-          "kind": "audio",
-          "title": "Washington Hones in on AI Safety, What Are AI Doomers Proposing | Diet TBPN",
-          "src": "https://media.transistor.fm/67d605b2/e38bac75.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-11T16:40:02-07:00",
-          "duration": "1813"
         }
       ]
     },
