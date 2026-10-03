@@ -1,5 +1,5 @@
 {
-  "updated": 1790977658,
+  "updated": 1790999012,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Trump's Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E291_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-10-02T22:30:00+00:00",
+          "duration": "01:22:29"
+        },
+        {
+          "kind": "audio",
           "title": "Jake Paul & The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? & Venture Bubble Signs",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_88_PaulChainsmokers_AIS26.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-18T00:47:00+00:00",
           "duration": "55:58"
-        },
-        {
-          "kind": "audio",
-          "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E285_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-08-14T20:11:00+00:00",
-          "duration": "01:39:30"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Sign-In With GPT, Anthropic Vs. the Pope, Paramount Rebrands as Skydance | Diet TBPN",
+          "src": "https://media.transistor.fm/3fa31a98/36d83cf8.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-02T19:29:56-07:00",
+          "duration": "1948"
+        },
+        {
+          "kind": "audio",
           "title": "BYOCompute, Pope Destroys False Idol, Ben Affleck's White Pill | Joe Gebbia, Molly Fowler, Tom Dotan, Pim de Witte, Greg Castle",
           "src": "https://media.transistor.fm/b134a4e1/400c0ba2.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-15T14:13:44-07:00",
           "duration": "10647"
-        },
-        {
-          "kind": "audio",
-          "title": "The AI Slowdown Debate | Diet TBPN",
-          "src": "https://media.transistor.fm/168b2451/123dbdfd.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-14T14:29:40-07:00",
-          "duration": "1545"
         }
       ]
     },
