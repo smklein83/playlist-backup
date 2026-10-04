@@ -1,10 +1,18 @@
 {
-  "updated": 1791087193,
+  "updated": 1791114335,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How to Choose Your Personal AI Agent",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/126790233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-4%2F433292526-44100-2-f9872d8da355c.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-04T10:56:13+00:00",
+          "duration": "00:24:31"
+        },
         {
           "kind": "audio",
           "title": "What the Best Business AI Users Are Doing Different",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-06T10:51:15+00:00",
           "duration": "00:27:50"
-        },
-        {
-          "kind": "audio",
-          "title": "How AI Changed This Summer",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/125217838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-4%2F431202814-44100-2-80800cec8c0b5.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-04T20:03:43+00:00",
-          "duration": "00:24:00"
         }
       ]
     },
