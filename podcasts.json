@@ -1,10 +1,18 @@
 {
-  "updated": 1791207170,
+  "updated": 1791243753,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Why Companies Want AI They Can Own",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/126898286/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-5%2F433426135-44100-2-ac2ef5eb3e061.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-05T20:33:05+00:00",
+          "duration": "00:26:49"
+        },
         {
           "kind": "audio",
           "title": "How to Choose Your Personal AI Agent",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-07T12:02:43+00:00",
           "duration": "00:25:44"
-        },
-        {
-          "kind": "audio",
-          "title": "How to Build an AI-Native Company Today",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/125274966/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-6%2F431280311-44100-2-3733be45ffc03.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-06T10:51:15+00:00",
-          "duration": "00:27:50"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "AI Video Game Mods, Should You Sell Your Data, Bryan Johnson on Endurance Racing | Sean Frank, Linda Du, Ali Partovi, Sigil Wen, Jerry Wu, Bryan Johnson",
+          "src": "https://media.transistor.fm/435fc7e3/c05a1cc7.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-05T14:28:59-07:00",
+          "duration": "10500"
+        },
+        {
+          "kind": "audio",
           "title": "Sign-In With GPT, Anthropic Vs. the Pope, Paramount Rebrands as Skydance | Diet TBPN",
           "src": "https://media.transistor.fm/3fa31a98/36d83cf8.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-15T14:58:57-07:00",
           "duration": "1908"
-        },
-        {
-          "kind": "audio",
-          "title": "High Interest Rate Phenomenon, Driscoll's China Bet Backfires, Who Votes on AI Safety? | Stephen Colbert & Josh Kline, Jim VandeHei, Steve Menneto, Matthew Wilson, Rune Kvist, Tyler Bahl, James Cadwallader",
-          "src": "https://media.transistor.fm/fd8ffa74/0c4a0307.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-15T14:13:44-07:00",
-          "duration": "10647"
         }
       ]
     },
