@@ -1,5 +1,5 @@
 {
-  "updated": 1791243753,
+  "updated": 1791261989,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "AI Video Game Mods, Chinese Cars Take Over UK, Apple Tightens Mac Data Controls | Diet TBPN",
+          "src": "https://media.transistor.fm/8e130a5f/5ad5183c.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-05T16:42:26-07:00",
+          "duration": "1858"
+        },
+        {
+          "kind": "audio",
           "title": "AI Video Game Mods, Should You Sell Your Data, Bryan Johnson on Endurance Racing | Sean Frank, Linda Du, Ali Partovi, Sigil Wen, Jerry Wu, Bryan Johnson",
           "src": "https://media.transistor.fm/435fc7e3/c05a1cc7.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-16T13:38:32-07:00",
           "duration": "8427"
-        },
-        {
-          "kind": "audio",
-          "title": "Interest Rates Spike, Politicians Take Sides on the AI Safety Debate, Time’s AI Cover | Diet TBPN",
-          "src": "https://media.transistor.fm/6530a3be/ecffe066.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-15T14:58:57-07:00",
-          "duration": "1908"
         }
       ]
     },
