@@ -1,10 +1,18 @@
 {
-  "updated": 1791290608,
+  "updated": 1791325083,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Point-Counterpoint: Consumers Will Never Pay for AI",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/126965801/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2F433513722-44100-2-69f494a7c8499.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-06T20:19:59+00:00",
+          "duration": "00:27:26"
+        },
         {
           "kind": "audio",
           "title": "Why Companies Want AI They Can Own",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-08T23:40:13+00:00",
           "duration": "00:29:25"
-        },
-        {
-          "kind": "audio",
-          "title": "The Multiplayer AI Sprint: Build Your Team’s First Shared Agent",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/125328149/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-7%2F431354178-44100-2-423f1efd1a7df.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-07T12:02:43+00:00",
-          "duration": "00:25:44"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Le Chonk, Buffett Discovers YouTube, The Case Against AI Job Doom | Greg Fleming, TJ Parker, Joowon Kim, Rick Dungey, Dylan Field, Hardik Kabaria",
+          "src": "https://media.transistor.fm/a06bfda5/015601cf.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-06T14:08:56-07:00",
+          "duration": "9075"
+        },
+        {
+          "kind": "audio",
           "title": "AI Video Game Mods, Chinese Cars Take Over UK, Apple Tightens Mac Data Controls | Diet TBPN",
           "src": "https://media.transistor.fm/8e130a5f/5ad5183c.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-16T16:12:17-07:00",
           "duration": "1835"
-        },
-        {
-          "kind": "audio",
-          "title": "Third Party Evaluators, Fed Hikes Rates, Zuck Pushes Back On AI Slowdown | Jeremy Allaire, Tomasz Tunguz, William Layden, Justin Beroz, Eli Wachs, Sean McCarthy, Tom Mueller",
-          "src": "https://media.transistor.fm/02034a71/f7aeec92.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-16T13:38:32-07:00",
-          "duration": "8427"
         }
       ]
     },
