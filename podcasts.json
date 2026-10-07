@@ -1,10 +1,18 @@
 {
-  "updated": 1791376616,
+  "updated": 1791412785,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The Best Way to Test New AI Models",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/127047582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-7%2F433614575-44100-2-a58c6f4f955.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-07T19:02:35+00:00",
+          "duration": "00:49:49"
+        },
         {
           "kind": "audio",
           "title": "Point-Counterpoint: Consumers Will Never Pay for AI",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-09T21:20:58+00:00",
           "duration": "00:34:12"
-        },
-        {
-          "kind": "audio",
-          "title": "Why GPT-6 Astra Is So Significant and So Confounding",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/125430514/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2F431484578-44100-2-75e04d20ee323.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-08T23:40:13+00:00",
-          "duration": "00:29:25"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Some Math Problems, Arsenal-2, Porsche Mission S | Walter Russell Mead, Kat Cole, Tarek Alaruri, Tyler Niday, Scott Morton, Josiah Meyer, Aarush Selvan",
+          "src": "https://media.transistor.fm/048f829a/f63e182f.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-07T13:59:12-07:00",
+          "duration": "8775"
+        },
+        {
+          "kind": "audio",
           "title": "AI’s Economic Impact, Warren Buffett Discovers YouTube, Mistral Launches “Le Chonk” | Diet TBPN",
           "src": "https://media.transistor.fm/45e4cfde/6508006b.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-17T16:12:03-07:00",
           "duration": "1749"
-        },
-        {
-          "kind": "audio",
-          "title": "Snap Launches Specs, Paramount Eyes Nashville, Japan's Monks Turn to Investing, New Clip from 'The Social Reckoning' | Aaref Hilaly, David Gross, Max Junestrand, Chase Lochmiller, Jesse Zhang, Nilam Ganenthiran & Leonard Tang, Joe Weisenthal",
-          "src": "https://media.transistor.fm/e5e7fb3d/760ae8f4.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-17T14:51:30-07:00",
-          "duration": "10891"
         }
       ]
     },
