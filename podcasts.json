@@ -1,5 +1,5 @@
 {
-  "updated": 1791346354,
+  "updated": 1791376616,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -419,6 +419,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "‘This Is Nuts.’ An OpenAI Insider Explains Why He Quit.",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/02a41b6b-aea0-419e-aa9d-01db8ecaef84/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=02a41b6b-aea0-419e-aa9d-01db8ecaef84&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-10-07T09:00:00+00:00",
+          "duration": "01:11:24"
+        },
+        {
+          "kind": "audio",
           "title": "Is the World Getting Uglier?",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/2c489246-e0e7-49db-8523-764636c011bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=2c489246-e0e7-49db-8523-764636c011bc&feed=kEKXbjuJ",
           "type": "audio/mpeg",
@@ -432,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-29T09:00:00+00:00",
           "duration": "01:14:13"
-        },
-        {
-          "kind": "audio",
-          "title": "What Does Abdul El-Sayed Believe?",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/9a521442-24d0-4652-877a-8f2464174d9a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=9a521442-24d0-4652-877a-8f2464174d9a&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-09-25T09:00:00+00:00",
-          "duration": "01:33:53"
         },
         {
           "kind": "audio",
