@@ -1,5 +1,5 @@
 {
-  "updated": 1791325083,
+  "updated": 1791346354,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "AI’s Economic Impact, Warren Buffett Discovers YouTube, Mistral Launches “Le Chonk” | Diet TBPN",
+          "src": "https://media.transistor.fm/45e4cfde/6508006b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-06T16:06:46-07:00",
+          "duration": "1868"
+        },
+        {
+          "kind": "audio",
           "title": "Le Chonk, Buffett Discovers YouTube, The Case Against AI Job Doom | Greg Fleming, TJ Parker, Joowon Kim, Rick Dungey, Dylan Field, Hardik Kabaria",
           "src": "https://media.transistor.fm/a06bfda5/015601cf.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-17T14:51:30-07:00",
           "duration": "10891"
-        },
-        {
-          "kind": "audio",
-          "title": "METR and AI Regulation, Zuck Pushes Back on AI Slowdown, Fed Hikes Rates | Diet TBPN",
-          "src": "https://media.transistor.fm/3ba7681f/8486d689.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-16T16:12:17-07:00",
-          "duration": "1835"
         }
       ]
     },
