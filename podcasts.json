@@ -1,5 +1,5 @@
 {
-  "updated": 1791412785,
+  "updated": 1791433469,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "OpenAI Math Breakthroughs, SpaceX’s $40B Nvidia Deal, Quant Firms Hiring Idea Guys | Diet TBPN",
+          "src": "https://media.transistor.fm/d6c2f7b4/1955854b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-07T16:35:23-07:00",
+          "duration": "1866"
+        },
+        {
+          "kind": "audio",
           "title": "Some Math Problems, Arsenal-2, Porsche Mission S | Walter Russell Mead, Kat Cole, Tarek Alaruri, Tyler Niday, Scott Morton, Josiah Meyer, Aarush Selvan",
           "src": "https://media.transistor.fm/048f829a/f63e182f.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-21T14:48:50-07:00",
           "duration": "10243"
-        },
-        {
-          "kind": "audio",
-          "title": "Snap Launches SPECS, Paramount Eyes Nashville Offices, OpenAI Explores $1.2T Valuation | Diet TBPN",
-          "src": "https://media.transistor.fm/d42de643/49eb6cea.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-17T16:12:03-07:00",
-          "duration": "1749"
         }
       ]
     },
