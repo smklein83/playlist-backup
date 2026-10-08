@@ -1,5 +1,5 @@
 {
-  "updated": 1791463611,
+  "updated": 1791499868,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Crypto Going \"Bunker Mode\", The Mathpocalypse, Starbucks Explores Chipotle Takeover | Rebecca Kaden & Michael Mignano, Nathan Benaich, Michael Sindicich & Healey Cypher, Moritz Stephan, Anastasios Angelopoulos, Zach Yadegari",
+          "src": "https://media.transistor.fm/83f16592/f0b53b29.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-08T13:56:26-07:00",
+          "duration": "8369"
+        },
+        {
+          "kind": "audio",
           "title": "OpenAI Math Breakthroughs, SpaceX’s $40B Nvidia Deal, Quant Firms Hiring Idea Guys | Diet TBPN",
           "src": "https://media.transistor.fm/d6c2f7b4/1955854b.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-21T16:17:53-07:00",
           "duration": "1832"
-        },
-        {
-          "kind": "audio",
-          "title": "Amazon Ban Hammer, Seedance Strategy, Amazon Blocks Muse | Vinod Khosla, Augustus Doricko, Ben Hylak, Aaron Levie, Lucas Shaw",
-          "src": "https://media.transistor.fm/81a5a42e/a8f81ce3.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-21T14:48:50-07:00",
-          "duration": "10243"
         }
       ]
     },
