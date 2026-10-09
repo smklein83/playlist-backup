@@ -1,5 +1,5 @@
 {
-  "updated": 1791549145,
+  "updated": 1791583985,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -7,7 +7,15 @@
       "episodes": [
         {
           "kind": "audio",
-          "title": "The Most Important Trends Showing Up in New AI Products",
+          "title": "What Happens When AI Solves Your Life’s Work",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/127209882/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-9%2F433817882-44100-2-390ed54c878cd.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-09T21:01:23+00:00",
+          "duration": "00:25:17"
+        },
+        {
+          "kind": "audio",
+          "title": "The Most Important Trends in New AI Products",
           "src": "https://anchor.fm/s/f7cac464/podcast/play/127147424/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-8%2F433738897-44100-2-b4fe71a457af3.mp3",
           "type": "audio/mpeg",
           "date": "2026-10-09T00:00:39+00:00",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-11T19:06:27+00:00",
           "duration": "00:31:40"
-        },
-        {
-          "kind": "audio",
-          "title": "Anthropic Researcher Says AI Has Over a 10% Chance of Killing All Humans",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/125559811/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431651702-44100-2-4faca71262dbe.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-10T21:03:22+00:00",
-          "duration": "00:35:41"
         }
       ]
     },
@@ -419,7 +419,7 @@
       "episodes": [
         {
           "kind": "audio",
-          "title": "What if A.I. Is Just a ‘Normal Technology’?",
+          "title": "Intelligence Isn't Power",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/0329ed77-0495-4a94-9c47-057c57d9c7c8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=0329ed77-0495-4a94-9c47-057c57d9c7c8&feed=kEKXbjuJ",
           "type": "audio/mpeg",
           "date": "2026-10-09T09:00:00+00:00",
