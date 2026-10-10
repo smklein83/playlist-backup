@@ -1,5 +1,5 @@
 {
-  "updated": 1791583985,
+  "updated": 1791605673,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math Backlash, France Riots",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E292_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-10-10T02:06:00+00:00",
+          "duration": "01:33:15"
+        },
+        {
+          "kind": "audio",
           "title": "Trump's Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E291_Ch.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-21T14:14:00+00:00",
           "duration": "01:30:53"
-        },
-        {
-          "kind": "audio",
-          "title": "Flock CEO Garrett Langley on Controversy, \"Surveillance State\" Claims, and Privacy vs Safety",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Flock_CEO_INT_AUDIO_V88.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-08-18T00:47:00+00:00",
-          "duration": "55:58"
         }
       ]
     },
