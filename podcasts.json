@@ -1,10 +1,18 @@
 {
-  "updated": 1791633168,
+  "updated": 1791651374,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "When AI Solves Your Life’s Work",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/127209882/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-9%2F433817882-44100-2-390ed54c878cd.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-09T21:01:23+00:00",
+          "duration": "00:25:17"
+        },
         {
           "kind": "audio",
           "title": "The Most Important Trends in New AI Products",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-11T19:06:27+00:00",
           "duration": "00:31:40"
-        },
-        {
-          "kind": "audio",
-          "title": "Anthropic Researcher Says AI Has Over a 10% Chance of Killing All Humans",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/125559811/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F431651702-44100-2-4faca71262dbe.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-10T21:03:22+00:00",
-          "duration": "00:35:41"
         }
       ]
     },
