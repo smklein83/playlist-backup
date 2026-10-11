@@ -1,10 +1,18 @@
 {
-  "updated": 1791690754,
+  "updated": 1791720268,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The 5 Debates Shaping AI",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/127285837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-11%2F433914144-44100-2-0974aebfc49d6.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-11T10:58:13+00:00",
+          "duration": "00:25:26"
+        },
         {
           "kind": "audio",
           "title": "When AI Solves Your Life’s Work",
@@ -23,7 +31,7 @@
         },
         {
           "kind": "audio",
-          "title": "The Best Way to Test New AI Models",
+          "title": "A System for Testing New AI Models",
           "src": "https://anchor.fm/s/f7cac464/podcast/play/127047582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-7%2F433614575-44100-2-a58c6f4f955.mp3",
           "type": "audio/mpeg",
           "date": "2026-10-07T19:02:35+00:00",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-13T11:33:49+00:00",
           "duration": "00:28:01"
-        },
-        {
-          "kind": "audio",
-          "title": "What to Use the Latest AI Tools For",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/125607299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2F431716514-44100-2-455f97d5cbd54.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-11T19:06:27+00:00",
-          "duration": "00:31:40"
         }
       ]
     },
