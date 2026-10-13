@@ -1,10 +1,18 @@
 {
-  "updated": 1791898285,
+  "updated": 1791929762,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Why Muse Wonder Is Dividing AI Users",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/127425638/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-13%2F434102226-44100-2-51e54799abf21.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-13T20:37:58+00:00",
+          "duration": "00:27:47"
+        },
         {
           "kind": "audio",
           "title": "How to Go from AI Power User to AI Leader",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-15T20:00:01+00:00",
           "duration": "00:26:17"
-        },
-        {
-          "kind": "audio",
-          "title": "Even Other AI Labs Are Rallying Around Anthropic’s Slowdown Proposal",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/125742879/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-14%2F431900799-44100-2-3f9797168de63.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-14T23:22:34+00:00",
-          "duration": "00:37:02"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Muse Wonder, Social Reckoning Review, Apple HomeView | Eli Manning & Michael Waldron, Anjney Midha, William Chu & Negin Oliver, Neal Stephenson, Ravi Gupta & John Hegeman, Jack Goldburg, Oege de Moor, Nick Talken, Jeff Holden",
+          "src": "https://media.transistor.fm/feab7636/9d381137.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-13T14:19:31-07:00",
+          "duration": "10298"
+        },
+        {
+          "kind": "audio",
           "title": "Crypto Going Bunker Mode, AI Mathpocalypse, Starbucks Explores Chipotle Takeover | Diet TBPN",
           "src": "https://media.transistor.fm/0d392273/805e2c50.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-22T16:38:58-07:00",
           "duration": "1996"
-        },
-        {
-          "kind": "audio",
-          "title": "Harvey's Margin Whiplash, Human Powered Agents, McLaren Rebrand, Insects > Humans? | Ben Thompson, Gagan Biyani, Alex Ratner, Peter Kalogiannis, Daniel Petkevich",
-          "src": "https://media.transistor.fm/937dd166/64e8676a.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-22T13:40:28-07:00",
-          "duration": "8087"
         }
       ]
     },
