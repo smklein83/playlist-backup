@@ -1,10 +1,18 @@
 {
-  "updated": 1791814943,
+  "updated": 1791850005,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How to Go from AI Power User to AI Leader",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/127334818/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2F433980474-44100-2-50ecff4b40daf.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-12T14:59:24+00:00",
+          "duration": "00:39:29"
+        },
         {
           "kind": "audio",
           "title": "The 5 Debates Shaping AI",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-14T23:22:34+00:00",
           "duration": "00:37:02"
-        },
-        {
-          "kind": "audio",
-          "title": "10 Ways to Think Bigger with Opportunity AI",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/125664526/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-13%2F431794046-44100-2-7fa581c7906a.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-13T11:33:49+00:00",
-          "duration": "00:28:01"
         }
       ]
     },
@@ -211,6 +211,14 @@
       "name": "All-In",
       "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Martin_Shkrely_AIS26_NO_VIVEK_AUDIO_100.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-10-12T15:49:00+00:00",
+          "duration": "25:17"
+        },
         {
           "kind": "audio",
           "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math Backlash, France Riots",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-24T23:19:00+00:00",
           "duration": "55:59"
-        },
-        {
-          "kind": "audio",
-          "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E286_99_AUDIO.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-08-21T14:14:00+00:00",
-          "duration": "01:30:53"
         }
       ]
     },
@@ -1280,6 +1280,172 @@
           "type": "audio/mpeg",
           "date": "2026-08-27T11:30:00+00:00",
           "duration": "1736"
+        }
+      ]
+    },
+    {
+      "name": "Noahpinion",
+      "feed": "https://noahpinion.substack.com/feed",
+      "episodes": [
+        {
+          "kind": "audio",
+          "title": "Why Donald Trump won in 2024",
+          "src": "https://substackcdn.com/image/fetch/$s_!vRZ5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51fc1a78-bd12-4ff0-ba2c-860c969d347e_960x559.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-11T07:31:44+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Maybe the Rapture is already here",
+          "src": "https://substackcdn.com/image/fetch/$s_!WgDI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1adda31-08f7-48de-a13a-dab9ec2ced33_918x653.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-09T09:18:32+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "There is no “Indian Question”",
+          "src": "https://substackcdn.com/image/fetch/$s_!YwSf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90c5c48a-fd0f-4355-ad67-5d4fdcbecaec_704x868.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-07T09:47:37+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "What the AI boom is doing for Americans",
+          "src": "https://substackcdn.com/image/fetch/$s_!i_BZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b615f36-f89f-4762-94bb-9571f1586f03_1200x800.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-05T08:12:53+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "The second Trump presidency is a world-historic failure",
+          "src": "https://substackcdn.com/image/fetch/$s_!vtKs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe161105e-6879-47d0-b401-feeac9f8b643_960x978.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-03T08:47:17+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Roundup #89: It isn’t X, it’s Y",
+          "src": "https://substackcdn.com/image/fetch/$s_!bmHj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ef9c036-df65-4145-b5c3-0f87c4797df3_923x669.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-01T06:14:51+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Stop spending money on smaller classes",
+          "src": "https://substackcdn.com/image/fetch/$s_!zGNi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5ea7469-879e-4deb-82ba-8439a25b70e6_967x725.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-09-28T22:27:25+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Where’s the “intelligence explosion”?",
+          "src": "https://substackcdn.com/image/fetch/$s_!x5a8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08ec0b36-c40e-47a2-831f-16108c969d77_1075x717.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-09-27T07:20:08+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Four eras of San Francisco tech culture",
+          "src": "https://substackcdn.com/image/fetch/$s_!uDTI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3feb8f5b-afd8-492a-8721-f8be9c27a6ec_1944x2110.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-09-25T08:29:29+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "No, you are not on Indigenous land",
+          "src": "https://substackcdn.com/image/fetch/$s_!S7Vl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff197e46e-b61a-4121-874e-4650b9552e23_960x613.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-09-24T07:44:38+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "The problem(s) with utilitarianism",
+          "src": "https://substackcdn.com/image/fetch/$s_!jmDQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc093eb59-a573-426b-8d5d-6a4266ac59c5_1200x675.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-09-22T08:53:46+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "How we can beat China",
+          "src": "https://substackcdn.com/image/fetch/$s_!s-k2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b59f788-2bc6-4efc-983a-0459f2a97e29_1079x714.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-09-20T09:51:30+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Roundup #88: Is it time to panic yet?",
+          "src": "https://substackcdn.com/image/fetch/$s_!HTfj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1eb36da1-4628-4b66-b553-a7b97a2d9af2_992x708.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-09-18T09:04:11+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "The anti-American Right",
+          "src": "https://substackcdn.com/image/fetch/$s_!PF74!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56b3fd94-2610-4321-9782-076906e5042e_683x589.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-09-16T06:08:15+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Two missing pieces in the AI safety discussion",
+          "src": "https://substackcdn.com/image/fetch/$s_!TAhm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6a9248a-046a-44d4-b9e1-3d722b7c9532_1344x564.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-09-14T01:43:28+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Get the Middle East out of my politics!",
+          "src": "https://substackcdn.com/image/fetch/$s_!FtSz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8861e90e-205b-4577-8312-4bce58dc1fd6_947x631.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-09-12T08:44:47+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Liberalism needs a new philosophy of immigration",
+          "src": "https://substackcdn.com/image/fetch/$s_!O38p!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faae26a1b-6442-4ece-879c-09444457b772_936x624.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-09-09T08:39:04+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "AI keeps stubbornly refusing to take our jobs",
+          "src": "https://substackcdn.com/image/fetch/$s_!6REl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7e7ec6-e950-4e5d-bb07-8ddf6d1a6a85_960x733.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-09-07T08:13:49+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "America is still beating China in the AI race",
+          "src": "https://substackcdn.com/image/fetch/$s_!SesW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F339db957-f973-497d-b4e9-b2d3bed7950d_1536x806.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-09-05T07:36:17+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Why you won’t get a flying car",
+          "src": "https://substackcdn.com/image/fetch/$s_!uWie!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa00a9022-e47f-47dc-a25e-ac48a23950f3_684x1000.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-09-03T09:55:22+00:00",
+          "duration": ""
         }
       ]
     }
