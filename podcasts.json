@@ -1,10 +1,18 @@
 {
-  "updated": 1791995371,
+  "updated": 1792012572,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "What Gemini 4 Argon Is Actually Good For",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/127481839/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F434179246-44100-2-5ef2e39d02e93.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-14T19:56:06+00:00",
+          "duration": "00:30:33"
+        },
         {
           "kind": "audio",
           "title": "Why Muse Wonder Is Dividing AI Users",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-16T19:57:15+00:00",
           "duration": "00:25:19"
-        },
-        {
-          "kind": "audio",
-          "title": "Trump Rails Against AI Slowdown \"Hoax\"",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/125784038/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-15%2F431958285-44100-2-ed31ddcd71741.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-15T20:00:01+00:00",
-          "duration": "00:26:17"
         }
       ]
     },
