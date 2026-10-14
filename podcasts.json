@@ -1,5 +1,5 @@
 {
-  "updated": 1791929762,
+  "updated": 1791948449,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "John Reviews The Social Reckoning, Muse Wonder, Apple’s HomeView | Diet TBPN",
+          "src": "https://media.transistor.fm/eeb2ae9e/63c4c5be.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-13T18:29:14-07:00",
+          "duration": "1932"
+        },
+        {
+          "kind": "audio",
           "title": "Muse Wonder, Social Reckoning Review, Apple HomeView | Eli Manning & Michael Waldron, Anjney Midha, William Chu & Negin Oliver, Neal Stephenson, Ravi Gupta & John Hegeman, Jack Goldburg, Oege de Moor, Nick Talken, Jeff Holden",
           "src": "https://media.transistor.fm/feab7636/9d381137.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-23T13:05:08-07:00",
           "duration": "6575"
-        },
-        {
-          "kind": "audio",
-          "title": "Harvey’s Margins, Are Insects Worth More Than Humans?, Meta Tests Human Help for Muse | Diet TBPN",
-          "src": "https://media.transistor.fm/d4179f90/67406491.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-22T16:38:58-07:00",
-          "duration": "1996"
         }
       ]
     },
