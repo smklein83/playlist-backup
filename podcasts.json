@@ -1,10 +1,18 @@
 {
-  "updated": 1792166555,
+  "updated": 1792182525,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The Most Important AI News This Week Is Getting Overlooked",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/127588942/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-16%2F434325005-44100-2-5490e254caf05.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-16T18:19:09+00:00",
+          "duration": "00:29:21"
+        },
         {
           "kind": "audio",
           "title": "How the Latest AI Leap Is Disrupting Business Models",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-18T22:20:28+00:00",
           "duration": "00:30:06"
-        },
-        {
-          "kind": "audio",
-          "title": "Why Everyone Is Getting Excited About Personal AI Agents",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/125894194/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F432112496-44100-2-15a4ef81e6ed8.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-17T19:41:17+00:00",
-          "duration": "00:29:56"
         }
       ]
     },
