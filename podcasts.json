@@ -1,5 +1,5 @@
 {
-  "updated": 1792182525,
+  "updated": 1792205727,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E293_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-10-17T01:51:00+00:00",
+          "duration": "01:34:06"
+        },
+        {
+          "kind": "audio",
           "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Billy_Evans_AIS26_AUDIO_88.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-08-29T01:19:00+00:00",
           "duration": "01:36:41"
-        },
-        {
-          "kind": "audio",
-          "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Eric_Weinstein_Int_AUDIO_v99.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-08-26T23:00:00+00:00",
-          "duration": "01:30:20"
         }
       ]
     },
@@ -420,7 +420,7 @@
         {
           "kind": "audio",
           "title": "Is There an A.I. Bubble? A Debate.",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/282852b4-6a7c-4183-85a4-5bc0008801a5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=282852b4-6a7c-4183-85a4-5bc0008801a5&feed=kEKXbjuJ",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/282852b4-6a7c-4183-85a4-5bc0008801a5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=282852b4-6a7c-4183-85a4-5bc0008801a5&feed=kEKXbjuJ",
           "type": "audio/mpeg",
           "date": "2026-10-16T09:00:00+00:00",
           "duration": "01:07:29"
@@ -428,7 +428,7 @@
         {
           "kind": "audio",
           "title": "Is It a Relationship if No One’s on the Other Side?",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/cf7f523c-b557-4332-a301-6967ae0255df/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=cf7f523c-b557-4332-a301-6967ae0255df&feed=kEKXbjuJ",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/cf7f523c-b557-4332-a301-6967ae0255df/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=cf7f523c-b557-4332-a301-6967ae0255df&feed=kEKXbjuJ",
           "type": "audio/mpeg",
           "date": "2026-10-14T09:00:00+00:00",
           "duration": "01:14:50"
@@ -436,7 +436,7 @@
         {
           "kind": "audio",
           "title": "Intelligence Isn't Power",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/0329ed77-0495-4a94-9c47-057c57d9c7c8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=0329ed77-0495-4a94-9c47-057c57d9c7c8&feed=kEKXbjuJ",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/0329ed77-0495-4a94-9c47-057c57d9c7c8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=0329ed77-0495-4a94-9c47-057c57d9c7c8&feed=kEKXbjuJ",
           "type": "audio/mpeg",
           "date": "2026-10-09T09:00:00+00:00",
           "duration": "01:01:29"
@@ -444,7 +444,7 @@
         {
           "kind": "audio",
           "title": "About the Coming Paywall",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/7724ecc9-c252-4f17-a2c3-48c62eb9f4e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=7724ecc9-c252-4f17-a2c3-48c62eb9f4e0&feed=kEKXbjuJ",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/7724ecc9-c252-4f17-a2c3-48c62eb9f4e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=7724ecc9-c252-4f17-a2c3-48c62eb9f4e0&feed=kEKXbjuJ",
           "type": "audio/mpeg",
           "date": "2024-10-02T09:00:00+00:00",
           "duration": "00:04:10"
@@ -452,7 +452,7 @@
         {
           "kind": "audio",
           "title": "Coming Soon: The Ezra Klein Show",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/a2972dd0-56cb-40e9-8e58-3927c583108c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=a2972dd0-56cb-40e9-8e58-3927c583108c&feed=kEKXbjuJ",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/a2972dd0-56cb-40e9-8e58-3927c583108c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=a2972dd0-56cb-40e9-8e58-3927c583108c&feed=kEKXbjuJ",
           "type": "audio/mpeg",
           "date": "2021-01-13T01:40:00+00:00",
           "duration": "00:02:12"
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "We Review ‘You Can See Everything’, Tesla Unveils Rocket Powered-Roadster | Diet TBPN",
+          "src": "https://media.transistor.fm/b1c74f52/7d0644cf.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-16T17:10:55-07:00",
+          "duration": "1869"
+        },
+        {
+          "kind": "audio",
+          "title": "\"You Can See Everything\" Review, Roadster Reactions, Eric Glyman Joins | Walter Isaacson, Christian Jensen, Tavarish",
+          "src": "https://media.transistor.fm/a2ded295/c7e218eb.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-16T13:45:28-07:00",
+          "duration": "7836"
+        },
+        {
+          "kind": "audio",
           "title": "Inflation Heats Up, Anthropic Investor Day, Tesla Roadster Mania| Diet TBPN",
           "src": "https://media.transistor.fm/65e7d301/d7e3d6a6.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-28T14:16:59-07:00",
           "duration": "9967"
-        },
-        {
-          "kind": "audio",
-          "title": "Microsoft to Take On Muse, Trump & Xi Dinner, The Mansion Section | Diet TBPN",
-          "src": "https://media.transistor.fm/85b21d9f/1c9d12ce.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-25T14:41:10-07:00",
-          "duration": "1859"
-        },
-        {
-          "kind": "audio",
-          "title": "4 Tech Arguments (Number 3 Will Shock You), Mansion Section, John Arnold Joins | Viswa Colluru, Jake Adler, Adam Korsunsky",
-          "src": "https://media.transistor.fm/b018220a/cb24b833.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-25T13:39:12-07:00",
-          "duration": "7931"
         }
       ]
     },
