@@ -1,5 +1,5 @@
 {
-  "updated": 1792205727,
+  "updated": 1792231645,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "David Byrne Explains How Forgotten Ideas Come Back to Life",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/80a8c551-836d-45b7-9004-b4e600024717/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-10-17T08:00:00+00:00",
+          "duration": "3620"
+        },
+        {
+          "kind": "audio",
           "title": "The French Political Crisis That's Turning Into a Debt Crisis",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/9eaa512a-78cf-4f3a-b125-b4e401078052/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-01T08:00:00+00:00",
           "duration": "3582"
-        },
-        {
-          "kind": "audio",
-          "title": "Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/095923e3-5c15-4936-b26b-b4b70018f8d6/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-08-31T08:00:00+00:00",
-          "duration": "1877"
         }
       ]
     }
