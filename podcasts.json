@@ -1,10 +1,18 @@
 {
-  "updated": 1792318898,
+  "updated": 1792336874,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "A Potentially Historic AI Breakthrough",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/127660150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-18%2F434419246-44100-2-359c777b06394.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-18T12:03:35+00:00",
+          "duration": "00:23:54"
+        },
         {
           "kind": "audio",
           "title": "The Most Important AI News This Week Is Getting Overlooked",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-20T11:28:50+00:00",
           "duration": "00:26:21"
-        },
-        {
-          "kind": "audio",
-          "title": "The AI Challenges Businesses Are Actually Focused On Right Now",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/125968281/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-18%2F432207243-44100-2-425ae6beadbf.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-18T22:20:28+00:00",
-          "duration": "00:30:06"
         }
       ]
     },
