@@ -1,10 +1,18 @@
 {
-  "updated": 1792411443,
+  "updated": 1792447099,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The AI Wealth Problem",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/127738167/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F434525113-44100-2-23a7b40fc4d89.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-19T20:02:07+00:00",
+          "duration": "00:32:30"
+        },
         {
           "kind": "audio",
           "title": "A Potentially Historic AI Breakthrough",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-21T20:40:10+00:00",
           "duration": "00:27:12"
-        },
-        {
-          "kind": "audio",
-          "title": "7 Ways How We Use AI Is Changing",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/126024989/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2F432284493-44100-2-de745c4e4f594.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-20T11:28:50+00:00",
-          "duration": "00:26:21"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "\"You Can See Everything\" Sparks Debate, 17% GDP Growth Please, Call of Duty Campaign Review | Katie Drummond, Bing Gordon, Daksh Gupta, Jean-Denis Greze, Quinten Farmer",
+          "src": "https://media.transistor.fm/72dab365/1f3aabee.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-19T14:32:57-07:00",
+          "duration": "8614"
+        },
+        {
+          "kind": "audio",
           "title": "We Review ‘You Can See Everything’, Tesla Unveils Rocket Powered-Roadster | Diet TBPN",
           "src": "https://media.transistor.fm/b1c74f52/7d0644cf.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-28T18:33:53-07:00",
           "duration": "1798"
-        },
-        {
-          "kind": "audio",
-          "title": "Dario Goes From SNL to White House, Some Personal Agent News, Mongo Got Zucked | Lo Toney, Zack London, Anish Acharya, Evan Conrad, Gstaad Guy",
-          "src": "https://media.transistor.fm/c0c4126a/c8202ef7.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-28T14:16:59-07:00",
-          "duration": "9967"
         }
       ]
     },
