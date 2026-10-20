@@ -1,10 +1,18 @@
 {
-  "updated": 1792513163,
+  "updated": 1792530792,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Why AI Companies Are Betting Personality Beats Intelligence",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/127798004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F434605944-44100-2-fba18991e31bf.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-20T20:16:23+00:00",
+          "duration": "00:28:39"
+        },
         {
           "kind": "audio",
           "title": "The AI Wealth Problem",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-22T19:07:36+00:00",
           "duration": "00:30:57"
-        },
-        {
-          "kind": "audio",
-          "title": "The State of the AI Debate",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/126101977/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-21%2F432386739-44100-2-12f7014a45b6c.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-21T20:40:10+00:00",
-          "duration": "00:27:12"
         }
       ]
     },
