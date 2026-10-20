@@ -1,5 +1,5 @@
 {
-  "updated": 1792447099,
+  "updated": 1792466354,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_200_Dylan_Field_INT_1.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-10-19T20:43:00+00:00",
+          "duration": "40:33"
+        },
+        {
+          "kind": "audio",
           "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E293_Ch.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-04T23:10:00+00:00",
           "duration": "01:31:56"
-        },
-        {
-          "kind": "audio",
-          "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E287_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-08-29T01:19:00+00:00",
-          "duration": "01:36:41"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Elizabeth Holmes and Theranos, AI Data Center Forecast Jumps, Poppi’s Pepsi Deal | Diet TBPN",
+          "src": "https://media.transistor.fm/e09555e2/faa1f32d.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-19T17:25:38-07:00",
+          "duration": "1836"
+        },
+        {
+          "kind": "audio",
           "title": "\"You Can See Everything\" Sparks Debate, 17% GDP Growth Please, Call of Duty Campaign Review | Katie Drummond, Bing Gordon, Daksh Gupta, Jean-Denis Greze, Quinten Farmer",
           "src": "https://media.transistor.fm/72dab365/1f3aabee.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-29T14:29:57-07:00",
           "duration": "7514"
-        },
-        {
-          "kind": "audio",
-          "title": "Cambridge AI Safety Plan, Instinct CEO on Invest Like the Best, Zuck Hires MongoDB CEO | Diet TBPN",
-          "src": "https://media.transistor.fm/8958b815/391c83d1.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-28T18:33:53-07:00",
-          "duration": "1798"
         }
       ]
     },
