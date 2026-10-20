@@ -1,5 +1,5 @@
 {
-  "updated": 1792466354,
+  "updated": 1792493667,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -417,6 +417,14 @@
       "name": "The Ezra Klein Show",
       "feed": "https://feeds.simplecast.com/kEKXbjuJ",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Why You Can’t Capitulate to Trump",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/f6fb79b3-b3e3-4ce0-b88c-35bf1e40e124/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=f6fb79b3-b3e3-4ce0-b88c-35bf1e40e124&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-10-20T09:00:00+00:00",
+          "duration": "01:17:23"
+        },
         {
           "kind": "audio",
           "title": "Is There an A.I. Bubble? A Debate.",
@@ -1083,6 +1091,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "CME's Terry Duffy on the Disconcerting State of Finance Regulation",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/32688ea9-4cbb-4bb4-8b3c-b4e8018899f5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-10-20T08:00:00+00:00",
+          "duration": "1784"
+        },
+        {
+          "kind": "audio",
           "title": "Don Wilson on the GPU Market's Trillion Dollar Question",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/80dab570-fb6b-445e-b20e-b4e5015a3603/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1288,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-04T08:00:00+00:00",
           "duration": "3197"
-        },
-        {
-          "kind": "audio",
-          "title": "What's Behind the Big Surge in US Government Bond Yields",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/52b31e33-08b2-4ea7-a5d0-b4b9014b34d9/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-09-03T08:00:00+00:00",
-          "duration": "2196"
         }
       ]
     }
