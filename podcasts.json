@@ -1,5 +1,5 @@
 {
-  "updated": 1792530792,
+  "updated": 1792552417,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,30 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "$1M Trading Cards Heist, Trevor Milton Returns, The Death Of Common Courtesy | Diet TBPN",
+          "src": "https://media.transistor.fm/0084f20d/4f17b79f.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-20T18:21:15-07:00",
+          "duration": "1987"
+        },
+        {
+          "kind": "audio",
+          "title": "Calm Down Markets, Trevor Milton Has A Plane to Sell You, Jay Leno Live in The Ultradome | Alex Niehaus, Alex Blania, Nate Rempe, Connor Sweeney, Jay Leno",
+          "src": "https://media.transistor.fm/2c61a2dc/05af44c2.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-20T14:30:57-07:00",
+          "duration": "9755"
+        },
+        {
+          "kind": "audio",
+          "title": "Jay Leno on Comedy, Supercars, and the State of Hollywood",
+          "src": "https://media.transistor.fm/e6920022/ad6bb45e.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-20T14:24:33-07:00",
+          "duration": "3130"
+        },
+        {
+          "kind": "audio",
           "title": "Elizabeth Holmes and Theranos, AI Data Center Forecast Jumps, Poppi’s Pepsi Deal | Diet TBPN",
           "src": "https://media.transistor.fm/e09555e2/faa1f32d.mp3",
           "type": "audio/mpeg",
@@ -844,30 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-01T13:24:17-07:00",
           "duration": "5703"
-        },
-        {
-          "kind": "audio",
-          "title": "AI Execs Sign Joint Commitment, Converting Watts to GDP, the Model Consciousness Debate | Diet TBPN",
-          "src": "https://media.transistor.fm/02ffb9cc/00948350.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-30T16:30:08-07:00",
-          "duration": "1796"
-        },
-        {
-          "kind": "audio",
-          "title": "White House AI Accord, Model Welfare, Ken Griffindor School of Market Wizardry | Ali Golshan, Mike Intrator, Vlad Tenev, Pari Singh, Minna Song, Dev Ittycheria, Daragh Murphy, Noah Friedman",
-          "src": "https://media.transistor.fm/ee2abb9f/22e9613a.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-30T14:27:30-07:00",
-          "duration": "10786"
-        },
-        {
-          "kind": "audio",
-          "title": "OpenAI DevDay | Sam Altman, Alexander Embiricos, Andrew Ambrosino, Peter Steinberger, Tibo Sottiaux, Kath Korevec, Casey Neistat",
-          "src": "https://media.transistor.fm/b41e5338/059d2992.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-29T14:29:57-07:00",
-          "duration": "7514"
         }
       ]
     },
