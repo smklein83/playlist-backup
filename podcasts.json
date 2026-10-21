@@ -1,10 +1,18 @@
 {
-  "updated": 1792600497,
+  "updated": 1792617225,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How AI Is Changing What Work Means",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/127854152/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434684502-44100-2-fb499778e5ba2.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-21T20:03:52+00:00",
+          "duration": "00:28:20"
+        },
         {
           "kind": "audio",
           "title": "Why AI Companies Are Betting Personality Beats Intelligence",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-23T20:50:01+00:00",
           "duration": "00:31:02"
-        },
-        {
-          "kind": "audio",
-          "title": "Agent Wars!",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/126155309/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-22%2F432457268-44100-2-e0a7717f54c4e.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-22T19:07:36+00:00",
-          "duration": "00:30:57"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "The Internet Is Finished, Early iPhone Duo Reviews, SpaceXSITesla Merger Talks | Nikesh Arora, Aidan Smith, Akhil Iyer, Max Junestrand",
+          "src": "https://media.transistor.fm/76dfa8a5/9febf05d.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-21T13:01:49-07:00",
+          "duration": "5616"
+        },
+        {
+          "kind": "audio",
           "title": "$1M Trading Cards Heist, Trevor Milton Returns, The Death Of Common Courtesy | Diet TBPN",
           "src": "https://media.transistor.fm/0084f20d/4f17b79f.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-01T16:29:13-07:00",
           "duration": "1939"
-        },
-        {
-          "kind": "audio",
-          "title": "Factory-Cognition Drama, Instinct's Shopping Push, Gemini 4 Argon | Will Bruey, Christophe Beck, Hassaan Raza, Connor Renton",
-          "src": "https://media.transistor.fm/3a7cb60d/23992b1e.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-01T13:24:17-07:00",
-          "duration": "5703"
         }
       ]
     },
