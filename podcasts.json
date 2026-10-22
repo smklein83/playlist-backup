@@ -1,5 +1,5 @@
 {
-  "updated": 1792667270,
+  "updated": 1792686960,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -877,6 +877,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "What will computer chips look like in 2045?",
+          "src": "https://api.substack.com/feed/podcast/221632772/30c38515d3ea0554c60350beead67f42.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-22T15:02:21+00:00",
+          "duration": "4140"
+        },
+        {
+          "kind": "audio",
           "title": "Si Sheppard – How did a few hundred Spanish soldiers topple two empires?",
           "src": "https://api.substack.com/feed/podcast/218345956/4b5f7bc6865a6ab2f2eeea047dff6d8b.mp3",
           "type": "audio/mpeg",
@@ -1066,14 +1074,6 @@
           "type": "audio/mpeg",
           "date": "2026-03-11T18:55:20+00:00",
           "duration": "1478"
-        },
-        {
-          "kind": "audio",
-          "title": "Why Leonardo was a saboteur, Gutenberg went broke, and Florence was weird – Ada Palmer",
-          "src": "https://api.substack.com/feed/podcast/190118311/8c3433af58d7b7ad7ee60c28c569017a.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-03-06T17:14:20+00:00",
-          "duration": "7339"
         }
       ]
     },
