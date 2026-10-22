@@ -1,5 +1,5 @@
 {
-  "updated": 1792617225,
+  "updated": 1792638746,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/88_AUDIO_NikeshArvink.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-10-21T23:42:00+00:00",
+          "duration": "40:00"
+        },
+        {
+          "kind": "audio",
           "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_200_Dylan_Field_INT_1.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-11T23:32:00+00:00",
           "duration": "01:35:57"
-        },
-        {
-          "kind": "audio",
-          "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E288_AUDIO_v102.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-09-04T23:10:00+00:00",
-          "duration": "01:31:56"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Cybersecurity Red Alert, SpaceX Earnings, OpenAI Strikes Google Deal | Diet TBPN",
+          "src": "https://media.transistor.fm/af92017e/8d3b0821.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-21T16:50:30-07:00",
+          "duration": "1983"
+        },
+        {
+          "kind": "audio",
           "title": "The Internet Is Finished, Early iPhone Duo Reviews, SpaceXSITesla Merger Talks | Nikesh Arora, Aidan Smith, Akhil Iyer, Max Junestrand",
           "src": "https://media.transistor.fm/76dfa8a5/9febf05d.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-02T14:08:22-07:00",
           "duration": "9980"
-        },
-        {
-          "kind": "audio",
-          "title": "Nvidia’s Cloud Strategy Evolves, Factory-Cognition Drama, Instinct Pushes Into Shopping | Diet TBPN",
-          "src": "https://media.transistor.fm/a08b06cf/ac6c9a9c.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-01T16:29:13-07:00",
-          "duration": "1939"
         }
       ]
     },
