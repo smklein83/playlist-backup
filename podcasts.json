@@ -1,10 +1,18 @@
 {
-  "updated": 1792686960,
+  "updated": 1792703439,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The AI vs AI Battle for the Internet",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/127912717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434765371-44100-2-ba24a88164185.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-22T20:15:15+00:00",
+          "duration": "00:28:08"
+        },
         {
           "kind": "audio",
           "title": "How AI Is Changing What Work Means",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-24T19:06:43+00:00",
           "duration": "00:28:07"
-        },
-        {
-          "kind": "audio",
-          "title": "Opus 5.5 vs GPT-6 Sol and Luna",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/126210884/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-23%2F432533842-44100-2-99559049bf5a5.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-23T20:50:01+00:00",
-          "duration": "00:31:02"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Matthew Prince on PHP2Shell, iPhone Duo Early Reactions, Meta Unveils New Class C Stock | Matthew Prince, Kevin Weil, MC Lader, Dillon Baxter, Richard Starson, Brian Manning",
+          "src": "https://media.transistor.fm/3dd855a5/7f728f47.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-22T13:25:09-07:00",
+          "duration": "6948"
+        },
+        {
+          "kind": "audio",
           "title": "Cybersecurity Red Alert, SpaceX Earnings, OpenAI Strikes Google Deal | Diet TBPN",
           "src": "https://media.transistor.fm/af92017e/8d3b0821.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-02T19:29:56-07:00",
           "duration": "1948"
-        },
-        {
-          "kind": "audio",
-          "title": "BYOCompute, Pope Destroys False Idol, Ben Affleck's White Pill | Joe Gebbia, Molly Fowler, Tom Dotan, Pim de Witte, Greg Castle",
-          "src": "https://media.transistor.fm/b134a4e1/400c0ba2.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-02T14:08:22-07:00",
-          "duration": "9980"
         }
       ]
     },
