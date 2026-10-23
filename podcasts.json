@@ -1,5 +1,5 @@
 {
-  "updated": 1792703439,
+  "updated": 1792725481,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Meta Introducing Class C Stock, iPhone Duo’s Botched Launch | Diet TBPN",
+          "src": "https://media.transistor.fm/0f222702/e0eb7463.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-22T17:15:48-07:00",
+          "duration": "1732"
+        },
+        {
+          "kind": "audio",
           "title": "Matthew Prince on PHP2Shell, iPhone Duo Early Reactions, Meta Unveils New Class C Stock | Matthew Prince, Kevin Weil, MC Lader, Dillon Baxter, Richard Starson, Brian Manning",
           "src": "https://media.transistor.fm/3dd855a5/7f728f47.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-05T14:28:59-07:00",
           "duration": "10500"
-        },
-        {
-          "kind": "audio",
-          "title": "Sign-In With GPT, Anthropic Vs. the Pope, Paramount Rebrands as Skydance | Diet TBPN",
-          "src": "https://media.transistor.fm/3fa31a98/36d83cf8.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-02T19:29:56-07:00",
-          "duration": "1948"
         }
       ]
     },
