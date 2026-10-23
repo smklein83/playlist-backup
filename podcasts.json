@@ -1,5 +1,5 @@
 {
-  "updated": 1792725481,
+  "updated": 1792753121,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -417,6 +417,14 @@
       "name": "The Ezra Klein Show",
       "feed": "https://feeds.simplecast.com/kEKXbjuJ",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Why Trump’s 2024 Voters Are Turning on Him",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/eb463534-5fae-4bbd-b815-dd25c3d38f80/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=eb463534-5fae-4bbd-b815-dd25c3d38f80&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-10-23T09:00:00+00:00",
+          "duration": "01:08:21"
+        },
         {
           "kind": "audio",
           "title": "Trumpism Is Backfiring",
@@ -1083,6 +1091,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "The Forgotten Godmother of Economic Literature",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/99473588-d4a5-4d5e-bdd6-b4eb013c526e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-10-23T08:00:00+00:00",
+          "duration": "2614"
+        },
+        {
+          "kind": "audio",
           "title": "Bhaskar Sunkara Thinks the Market Has a Place Under Socialism",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/a0e15df4-4a62-4b81-bbf5-b4ea00ed7a3c/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1288,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-11T08:00:00+00:00",
           "duration": "3921"
-        },
-        {
-          "kind": "audio",
-          "title": "The Rise of Organized Retail Crime at Big Box Stores",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ac7406bd-0582-4820-af93-b4c100274867/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-09-10T08:00:00+00:00",
-          "duration": "3159"
         }
       ]
     }
