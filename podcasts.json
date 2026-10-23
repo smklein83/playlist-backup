@@ -1,5 +1,5 @@
 {
-  "updated": 1792753121,
+  "updated": 1792772732,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -440,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-16T09:00:00+00:00",
           "duration": "01:07:29"
-        },
-        {
-          "kind": "audio",
-          "title": "Is It a Relationship if No One’s on the Other Side?",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/cf7f523c-b557-4332-a301-6967ae0255df/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=cf7f523c-b557-4332-a301-6967ae0255df&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-10-14T09:00:00+00:00",
-          "duration": "01:14:50"
         },
         {
           "kind": "audio",
