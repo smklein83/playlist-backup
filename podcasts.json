@@ -1,10 +1,18 @@
 {
-  "updated": 1792772732,
+  "updated": 1792789034,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The Most Concerning AI Bubble Signals",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/127968273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F434838595-44100-2-2b56a37789614.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-23T18:50:38+00:00",
+          "duration": "00:28:48"
+        },
         {
           "kind": "audio",
           "title": "The AI vs AI Battle for the Internet",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-25T18:07:32+00:00",
           "duration": "00:25:57"
-        },
-        {
-          "kind": "audio",
-          "title": "AI Agents Are Moving Into the Real World",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/126257502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432598497-44100-2-61fee1b301566.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-24T19:06:43+00:00",
-          "duration": "00:28:07"
         }
       ]
     },
@@ -419,7 +419,7 @@
       "episodes": [
         {
           "kind": "audio",
-          "title": "Why Trump’s 2024 Voters Are Turning on Him",
+          "title": "What Hundreds of Focus Groups With Trump Voters Revealed",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/eb463534-5fae-4bbd-b815-dd25c3d38f80/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=eb463534-5fae-4bbd-b815-dd25c3d38f80&feed=kEKXbjuJ",
           "type": "audio/mpeg",
           "date": "2026-10-23T09:00:00+00:00",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Moderna Drama, WSJ Mansion Section, Genetically Engineered Military Dogs | Thomas Wright, Kyle Schiller, Steven Schwartz",
+          "src": "https://media.transistor.fm/d5538bd5/b2580a52.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-23T13:09:31-07:00",
+          "duration": "6777"
+        },
+        {
+          "kind": "audio",
           "title": "Meta Introducing Class C Stock, iPhone Duo’s Botched Launch | Diet TBPN",
           "src": "https://media.transistor.fm/0f222702/e0eb7463.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-05T16:42:26-07:00",
           "duration": "1858"
-        },
-        {
-          "kind": "audio",
-          "title": "AI Video Game Mods, Should You Sell Your Data, Bryan Johnson on Endurance Racing | Sean Frank, Linda Du, Ali Partovi, Sigil Wen, Jerry Wu, Bryan Johnson",
-          "src": "https://media.transistor.fm/435fc7e3/c05a1cc7.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-05T14:28:59-07:00",
-          "duration": "10500"
         }
       ]
     },
