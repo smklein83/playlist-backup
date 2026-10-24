@@ -1,5 +1,5 @@
 {
-  "updated": 1792811503,
+  "updated": 1792836915,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "How a Chicago Restaurant Has Stayed Open For Nearly Three Decades",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/0e910a81-d26f-4e7f-852a-b4ec0142c272/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-10-24T08:00:00+00:00",
+          "duration": "2925"
+        },
+        {
+          "kind": "audio",
           "title": "The Forgotten Godmother of Economic Literature",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/99473588-d4a5-4d5e-bdd6-b4eb013c526e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-12T08:00:00+00:00",
           "duration": "4194"
-        },
-        {
-          "kind": "audio",
-          "title": "Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b614da06-213b-4d27-ae05-b4c101309140/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-09-11T08:00:00+00:00",
-          "duration": "3921"
         }
       ]
     }
