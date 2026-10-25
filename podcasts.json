@@ -1,10 +1,18 @@
 {
-  "updated": 1792924849,
+  "updated": 1792942248,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How I'm Actually Using AI Right Now (Including Claude Duet)",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/128042332/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F434934876-44100-2-bf71c322fe7c4.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-25T11:36:36+00:00",
+          "duration": "00:32:28"
+        },
         {
           "kind": "audio",
           "title": "The Most Concerning AI Bubble Signals",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-27T11:14:50+00:00",
           "duration": "00:32:50"
-        },
-        {
-          "kind": "audio",
-          "title": "How People Are Actually Using Jev",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/126304563/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-25%2F432662503-44100-2-4dbca7b913e13.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-25T18:07:32+00:00",
-          "duration": "00:25:57"
         }
       ]
     },
