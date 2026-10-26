@@ -1,10 +1,26 @@
 {
-  "updated": 1793016801,
+  "updated": 1793052983,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "4 Questions for AI This Week",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/128131715/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2F435051380-44100-2-16afd38d48655.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-26T19:49:36+00:00",
+          "duration": "00:27:08"
+        },
+        {
+          "kind": "audio",
+          "title": "Introducing How We Got Here -- NLW's new podcast",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/128111532/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2F435024080-44100-2-8b9418d4e908.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-26T14:22:15+00:00",
+          "duration": "00:06:17"
+        },
         {
           "kind": "audio",
           "title": "How I'm Actually Using AI Right Now (Including Claude Duet)",
@@ -188,22 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-29T18:39:47+00:00",
           "duration": "00:41:48"
-        },
-        {
-          "kind": "audio",
-          "title": "The Real Risks of AI Agents",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/126431664/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2F432833155-44100-2-2d9a2cafc1df1.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-28T17:58:52+00:00",
-          "duration": "00:29:23"
-        },
-        {
-          "kind": "audio",
-          "title": "The Rise of the AI Moderates",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/126366221/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-27%2F432744736-44100-2-0b12dc2a815e.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-27T11:14:50+00:00",
-          "duration": "00:32:50"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Anthropic's S-1, Samsung Controversy, IGTV | Doug O'Laughlin & Joey Brookhart, Andre Haddad, David Faugno, Mark Swan, Chanda A. Bell & Christa Pitts, Ivan Zhang & Luisa San Martin",
+          "src": "https://media.transistor.fm/ed9f8835/d7289861.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-26T14:05:37-07:00",
+          "duration": "9524"
+        },
+        {
+          "kind": "audio",
           "title": "Why Moderna Tanked, MSG Employees Duped By Their Boss, The Mansion Section | Diet TBPN",
           "src": "https://media.transistor.fm/c682dd2a/2c705908.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-06T16:06:46-07:00",
           "duration": "1868"
-        },
-        {
-          "kind": "audio",
-          "title": "Le Chonk, Buffett Discovers YouTube, The Case Against AI Job Doom | Greg Fleming, TJ Parker, Joowon Kim, Rick Dungey, Dylan Field, Hardik Kabaria",
-          "src": "https://media.transistor.fm/a06bfda5/015601cf.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-06T14:08:56-07:00",
-          "duration": "9075"
         }
       ]
     },
