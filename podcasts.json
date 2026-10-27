@@ -1,5 +1,5 @@
 {
-  "updated": 1793121949,
+  "updated": 1793137675,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Anduril Laptop, DoorDash + Instacart, Gavin Baker Joins | Miles Arnone, Rahul Sengottuvelu",
+          "src": "https://media.transistor.fm/0bc5367e/babb8606.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-27T14:05:23-07:00",
+          "duration": "7856"
+        },
+        {
+          "kind": "audio",
+          "title": "Gavin Baker on Anthropic's S-1, GPU Prices, and SpaceX",
+          "src": "https://media.transistor.fm/9c66fec3/9015117c.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-27T13:53:54-07:00",
+          "duration": "2487"
+        },
+        {
+          "kind": "audio",
           "title": "Anthropic Files for IPO, Samsung Spyware Concerns | Diet TBPN",
           "src": "https://media.transistor.fm/3afd0fce/45598697.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-08T13:56:26-07:00",
           "duration": "8369"
-        },
-        {
-          "kind": "audio",
-          "title": "OpenAI Math Breakthroughs, SpaceX’s $40B Nvidia Deal, Quant Firms Hiring Idea Guys | Diet TBPN",
-          "src": "https://media.transistor.fm/d6c2f7b4/1955854b.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-07T16:35:23-07:00",
-          "duration": "1866"
-        },
-        {
-          "kind": "audio",
-          "title": "Some Math Problems, Arsenal-2, Porsche Mission S | Walter Russell Mead, Kat Cole, Tarek Alaruri, Tyler Niday, Scott Morton, Josiah Meyer, Aarush Selvan",
-          "src": "https://media.transistor.fm/048f829a/f63e182f.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-07T13:59:12-07:00",
-          "duration": "8775"
         }
       ]
     },
