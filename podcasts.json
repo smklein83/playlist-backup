@@ -1,5 +1,5 @@
 {
-  "updated": 1793052983,
+  "updated": 1793072271,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Anthropic Files for IPO, Samsung Spyware Concerns | Diet TBPN",
+          "src": "https://media.transistor.fm/3afd0fce/45598697.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-26T16:00:22-07:00",
+          "duration": "2056"
+        },
+        {
+          "kind": "audio",
           "title": "Anthropic's S-1, Samsung Controversy, IGTV | Doug O'Laughlin & Joey Brookhart, Andre Haddad, David Faugno, Mark Swan, Chanda A. Bell & Christa Pitts, Ivan Zhang & Luisa San Martin",
           "src": "https://media.transistor.fm/ed9f8835/d7289861.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-07T13:59:12-07:00",
           "duration": "8775"
-        },
-        {
-          "kind": "audio",
-          "title": "AI’s Economic Impact, Warren Buffett Discovers YouTube, Mistral Launches “Le Chonk” | Diet TBPN",
-          "src": "https://media.transistor.fm/45e4cfde/6508006b.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-06T16:06:46-07:00",
-          "duration": "1868"
         }
       ]
     },
