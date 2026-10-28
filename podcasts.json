@@ -1,10 +1,18 @@
 {
-  "updated": 1793189094,
+  "updated": 1793225329,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "AI Can Now Create Worlds You Can Change in Real Time",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/128303802/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-28%2F435269554-44100-2-27523823ae90a.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-28T20:43:55+00:00",
+          "duration": "00:29:16"
+        },
         {
           "kind": "audio",
           "title": "What Anthropic’s IPO Filing Reveals",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-01T20:42:00+00:00",
           "duration": "00:29:00"
-        },
-        {
-          "kind": "audio",
-          "title": "The Most Important New AI Tools from OpenAI DevDay",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/126573983/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2F433015204-44100-2-5ae726073b88.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-30T18:42:19+00:00",
-          "duration": "00:23:29"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Apple Pro and Tell, Genie 4, The Gurmanator Joins | Mark Gurman, Zach Rash, Ben Liu, Amiram Shachar, Jasper Zhang",
+          "src": "https://media.transistor.fm/2b33fcee/6383ac7c.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-28T13:29:07-07:00",
+          "duration": "7620"
+        },
+        {
+          "kind": "audio",
           "title": "Anduril’s American-Made Laptops, OpenAI Disproves ETH, New MacBook Pro | Diet TBPN",
           "src": "https://media.transistor.fm/a6c1d130/2f0cdba3.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-13T14:19:31-07:00",
           "duration": "10298"
-        },
-        {
-          "kind": "audio",
-          "title": "Crypto Going Bunker Mode, AI Mathpocalypse, Starbucks Explores Chipotle Takeover | Diet TBPN",
-          "src": "https://media.transistor.fm/0d392273/805e2c50.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-08T17:11:59-07:00",
-          "duration": "1908"
         }
       ]
     },
