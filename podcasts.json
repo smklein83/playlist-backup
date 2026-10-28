@@ -1,10 +1,18 @@
 {
-  "updated": 1793137675,
+  "updated": 1793159652,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "What Anthropic’s IPO Filing Reveals",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/128215973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2F435159882-44100-2-9781de5240b11.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-27T21:10:01+00:00",
+          "duration": "00:28:47"
+        },
         {
           "kind": "audio",
           "title": "4 Questions for AI This Week",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-30T18:42:19+00:00",
           "duration": "00:23:29"
-        },
-        {
-          "kind": "audio",
-          "title": "How to Build Team Agents",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/126506259/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-29%2F432928767-44100-2-daaa1676841fc.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-09-29T18:39:47+00:00",
-          "duration": "00:41:48"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Anduril’s American-Made Laptops, OpenAI Disproves ETH, New MacBook Pro | Diet TBPN",
+          "src": "https://media.transistor.fm/a6c1d130/2f0cdba3.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-27T16:39:54-07:00",
+          "duration": "1911"
+        },
+        {
+          "kind": "audio",
           "title": "Anduril Laptop, DoorDash + Instacart, Gavin Baker Joins | Miles Arnone, Rahul Sengottuvelu",
           "src": "https://media.transistor.fm/0bc5367e/babb8606.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-08T17:11:59-07:00",
           "duration": "1908"
-        },
-        {
-          "kind": "audio",
-          "title": "Crypto Going \"Bunker Mode\", The Mathpocalypse, Starbucks Explores Chipotle Takeover | Rebecca Kaden & Michael Mignano, Nathan Benaich, Michael Sindicich & Healey Cypher, Moritz Stephan, Anastasios Angelopoulos, Zach Yadegari",
-          "src": "https://media.transistor.fm/83f16592/f0b53b29.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-08T13:56:26-07:00",
-          "duration": "8369"
         }
       ]
     },
