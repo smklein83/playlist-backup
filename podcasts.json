@@ -1,5 +1,5 @@
 {
-  "updated": 1793225329,
+  "updated": 1793247479,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Apple’s ‘Pro and Tell,’ Google’s Two New AI Models, OpenAI Eyes Google’s Custom Chips | Diet TBPN",
+          "src": "https://media.transistor.fm/092366c0/09c36386.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-28T17:23:07-07:00",
+          "duration": "2030"
+        },
+        {
+          "kind": "audio",
           "title": "Apple Pro and Tell, Genie 4, The Gurmanator Joins | Mark Gurman, Zach Rash, Ben Liu, Amiram Shachar, Jasper Zhang",
           "src": "https://media.transistor.fm/2b33fcee/6383ac7c.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-13T18:29:14-07:00",
           "duration": "1932"
-        },
-        {
-          "kind": "audio",
-          "title": "Muse Wonder, Social Reckoning Review, Apple HomeView | Eli Manning & Michael Waldron, Anjney Midha, William Chu & Negin Oliver, Neal Stephenson, Ravi Gupta & John Hegeman, Jack Goldburg, Oege de Moor, Nick Talken, Jeff Holden",
-          "src": "https://media.transistor.fm/feab7636/9d381137.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-13T14:19:31-07:00",
-          "duration": "10298"
         }
       ]
     },
