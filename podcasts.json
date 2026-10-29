@@ -1,5 +1,5 @@
 {
-  "updated": 1793276124,
+  "updated": 1793312699,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/88_AUDIO_WILL_AHMED_INT.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-10-29T21:26:00+00:00",
+          "duration": "55:39"
+        },
+        {
+          "kind": "audio",
           "title": "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E294_Ch.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-15T03:42:00+00:00",
           "duration": "01:04:25"
-        },
-        {
-          "kind": "audio",
-          "title": "Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Jensen_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-09-14T21:24:00+00:00",
-          "duration": "46:47"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Google Earnings, Jensen Targeted in Chinese Spy Plot, Ice Cube Joins | Luke Igel, David Rader & Jared Allen, Jake Stauch, Jay Madheswaran, Arthur Querou",
+          "src": "https://media.transistor.fm/1ac96317/fc662e45.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-29T13:34:56-07:00",
+          "duration": "7580"
+        },
+        {
+          "kind": "audio",
           "title": "Apple’s ‘Pro and Tell,’ Google’s Two New AI Models, OpenAI Eyes Google’s Custom Chips | Diet TBPN",
           "src": "https://media.transistor.fm/092366c0/09c36386.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-14T14:17:13-07:00",
           "duration": "9580"
-        },
-        {
-          "kind": "audio",
-          "title": "John Reviews The Social Reckoning, Muse Wonder, Apple’s HomeView | Diet TBPN",
-          "src": "https://media.transistor.fm/eeb2ae9e/63c4c5be.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-13T18:29:14-07:00",
-          "duration": "1932"
         }
       ]
     },
@@ -875,6 +875,14 @@
       "name": "Dwarkesh Podcast",
       "feed": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "What I learned about power from LBJ and Robert Moses",
+          "src": "https://api.substack.com/feed/podcast/222663001/6186ffb07362cafe940665b0be4b2936.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-29T16:48:39+00:00",
+          "duration": "1482"
+        },
         {
           "kind": "audio",
           "title": "What will computer chips look like in 2045?",
@@ -1066,14 +1074,6 @@
           "type": "audio/mpeg",
           "date": "2026-03-13T16:00:42+00:00",
           "duration": "9044"
-        },
-        {
-          "kind": "audio",
-          "title": "The most important question nobody's asking about AI",
-          "src": "https://api.substack.com/feed/podcast/190633588/94a1857634f9ebd3857e20d95893ec75.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-03-11T18:55:20+00:00",
-          "duration": "1478"
         }
       ]
     },
