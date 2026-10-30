@@ -1,10 +1,18 @@
 {
-  "updated": 1793312699,
+  "updated": 1793333857,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The AI Rankings Just Got Reshuffled",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/128373712/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F435359682-44100-2-ea262663c4827.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-29T19:31:10+00:00",
+          "duration": "00:27:12"
+        },
         {
           "kind": "audio",
           "title": "AI Can Now Create Worlds You Can Change in Real Time",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-02T18:18:25+00:00",
           "duration": "00:22:53"
-        },
-        {
-          "kind": "audio",
-          "title": "Gemini 4 Argon, Sonnet 5.5 and What Matters with AI Models",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/126650979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-1%2F433115992-44100-2-1af35d9d568da.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-01T20:42:00+00:00",
-          "duration": "00:29:00"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Google Earnings, Jensen Targeted in Chinese Spy Plot, The Rise of Fake Wall St. Traders | Diet TBPN",
+          "src": "https://media.transistor.fm/6716bbe6/eaf98e38.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-29T15:56:09-07:00",
+          "duration": "1870"
+        },
+        {
+          "kind": "audio",
           "title": "Google Earnings, Jensen Targeted in Chinese Spy Plot, Ice Cube Joins | Luke Igel, David Rader & Jared Allen, Jake Stauch, Jay Madheswaran, Arthur Querou",
           "src": "https://media.transistor.fm/1ac96317/fc662e45.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-14T18:19:55-07:00",
           "duration": "1948"
-        },
-        {
-          "kind": "audio",
-          "title": "OpenAI Uncovers Spy Device, Apple x LG, Home Devices Tier List | Thomas Neckel, Kabir Jain, Danielle Axman, John Urschel, Nicolas Sharp, Jason Ballard, Erik Bernhardsson, Josh Tyrangiel, Aida Baradari",
-          "src": "https://media.transistor.fm/6209dfad/3f2d0934.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-14T14:17:13-07:00",
-          "duration": "9580"
         }
       ]
     },
