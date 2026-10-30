@@ -1,10 +1,18 @@
 {
-  "updated": 1793361946,
+  "updated": 1793397310,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How the Most AI-Pilled Company in the World Works",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/128447035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F435453145-44100-2-256f1fce3e72d.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-30T19:05:17+00:00",
+          "duration": "00:31:01"
+        },
         {
           "kind": "audio",
           "title": "The AI Rankings Just Got Reshuffled",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-04T10:56:13+00:00",
           "duration": "00:24:31"
-        },
-        {
-          "kind": "audio",
-          "title": "What the Best Business AI Users Are Doing Different",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/126703525/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-2%2F433184971-44100-2-7b93ea853ffb3.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-02T18:18:25+00:00",
-          "duration": "00:22:53"
         }
       ]
     },
@@ -419,7 +419,7 @@
       "episodes": [
         {
           "kind": "audio",
-          "title": "What’s Driving Elon Musk?",
+          "title": "Elon Musk’s Endgame",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/5992c694-91bf-4809-891e-5a67afb35d30/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=5992c694-91bf-4809-891e-5a67afb35d30&feed=kEKXbjuJ",
           "type": "audio/mpeg",
           "date": "2026-10-30T09:00:00+00:00",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Warren Buffett & Charlie Munger LIVE on TBPN, Intel Stock Crashes, WSJ Mansion Section | Darren Rovell, Will Manidis, David Senra",
+          "src": "https://media.transistor.fm/a4f1489d/8f4d665b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-30T13:34:54-07:00",
+          "duration": "6937"
+        },
+        {
+          "kind": "audio",
           "title": "Google Earnings, Jensen Targeted in Chinese Spy Plot, The Rise of Fake Wall St. Traders | Diet TBPN",
           "src": "https://media.transistor.fm/6716bbe6/eaf98e38.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-15T13:23:25-07:00",
           "duration": "7651"
-        },
-        {
-          "kind": "audio",
-          "title": "OpenAI Bugging Incident, Are Your Devices Listening? Xbox Launches Remix Lab | Diet TBPN",
-          "src": "https://media.transistor.fm/86e9563a/a792e56e.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-14T18:19:55-07:00",
-          "duration": "1948"
         }
       ]
     },
@@ -875,6 +875,14 @@
       "name": "Dwarkesh Podcast",
       "feed": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Robert Caro – The master biographer reflects at 91",
+          "src": "https://api.substack.com/feed/podcast/222791845/56a1d43c065b8f432a85b78b449d6b1f.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-30T16:56:02+00:00",
+          "duration": "3670"
+        },
         {
           "kind": "audio",
           "title": "What I learned about power from LBJ and Robert Moses",
@@ -1066,14 +1074,6 @@
           "type": "audio/mpeg",
           "date": "2026-03-20T16:00:55+00:00",
           "duration": "5024"
-        },
-        {
-          "kind": "audio",
-          "title": "Dylan Patel — Deep dive on the 3 big bottlenecks to scaling AI compute",
-          "src": "https://api.substack.com/feed/podcast/190839917/e3c75a06762af10f374661e8af1d1af6.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-03-13T16:00:42+00:00",
-          "duration": "9044"
         }
       ]
     },
