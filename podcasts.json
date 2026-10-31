@@ -1,5 +1,5 @@
 {
-  "updated": 1793397310,
+  "updated": 1793419073,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E295_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-10-30T21:44:00+00:00",
+          "duration": "01:25:47"
+        },
+        {
+          "kind": "audio",
           "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/88_AUDIO_WILL_AHMED_INT.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-15T17:10:00+00:00",
           "duration": "36:33"
-        },
-        {
-          "kind": "audio",
-          "title": "Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Gwynne_Elon_AIS26_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-09-15T03:42:00+00:00",
-          "duration": "01:04:25"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Tech Stock Bloodbath, Binance Hacked, The Mansion Section | Diet TBPN",
+          "src": "https://media.transistor.fm/1db8fade/e39599d2.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-10-30T16:34:21-07:00",
+          "duration": "1801"
+        },
+        {
+          "kind": "audio",
           "title": "Warren Buffett & Charlie Munger LIVE on TBPN, Intel Stock Crashes, WSJ Mansion Section | Darren Rovell, Will Manidis, David Senra",
           "src": "https://media.transistor.fm/a4f1489d/8f4d665b.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-15T21:31:10-07:00",
           "duration": "2009"
-        },
-        {
-          "kind": "audio",
-          "title": "SELL EVERYTHING (Including Your Dollars), Tesla Roadster Hype, Valar Atomics VC Feud | Reed Albergotti, Bryan Cantrill, Daniel Kimminau",
-          "src": "https://media.transistor.fm/9a25aaac/11129794.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-15T13:23:25-07:00",
-          "duration": "7651"
         }
       ]
     },
