@@ -1,10 +1,18 @@
 {
-  "updated": 1793506566,
+  "updated": 1793536747,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "AI Won’t Make Our Minds Useless According to 400 Years of History",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/128554822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F435584507-44100-2-12cd313a5700b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-01T11:52:15+00:00",
+          "duration": "00:26:52"
+        },
         {
           "kind": "audio",
           "title": "How the Most AI-Pilled Company in the World Works",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-05T20:33:05+00:00",
           "duration": "00:26:49"
-        },
-        {
-          "kind": "audio",
-          "title": "How to Choose Your Personal AI Agent",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/126790233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-4%2F433292526-44100-2-f9872d8da355c.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-04T10:56:13+00:00",
-          "duration": "00:24:31"
         }
       ]
     },
