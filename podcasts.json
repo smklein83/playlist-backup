@@ -1,5 +1,5 @@
 {
-  "updated": 1793665707,
+  "updated": 1793712958,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Anthropic Q3 Revenue, Europe’s Freezer Hack Scare, Northwood Raises $375M | Diet TBPN",
+          "src": "https://media.transistor.fm/a546e788/21741fa9.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-02T16:34:12-08:00",
+          "duration": "1723"
+        },
+        {
+          "kind": "audio",
           "title": "Live from NYSE | Joe Weisenthal, Emily Sundberg, Ryan Serhant, Lynn Martin",
           "src": "https://media.transistor.fm/87348358/9dbe2770.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-16T17:10:55-07:00",
           "duration": "1869"
-        },
-        {
-          "kind": "audio",
-          "title": "\"You Can See Everything\" Review, Roadster Reactions, Eric Glyman Joins | Walter Isaacson, Christian Jensen, Tavarish",
-          "src": "https://media.transistor.fm/a2ded295/c7e218eb.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-16T13:45:28-07:00",
-          "duration": "7836"
         }
       ]
     },
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "An Election Day Special With Nate Silver",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8d41f02c-cfbb-4d5d-9940-b4f6012379c2/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-11-03T09:00:00+00:00",
+          "duration": "2579"
+        },
+        {
+          "kind": "audio",
           "title": "The $300 Billion Structured Notes Market Is Booming",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/c83156f0-326c-44af-9f49-b4f300fbe7d5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-20T12:00:00+00:00",
           "duration": "30"
-        },
-        {
-          "kind": "audio",
-          "title": "A Goldman M&A Banker Helped Bring the Olympics to Los Angeles",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3c42dc4e-ca08-46cf-b2c6-b4c90112084e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-09-19T08:00:00+00:00",
-          "duration": "1971"
         }
       ]
     }
