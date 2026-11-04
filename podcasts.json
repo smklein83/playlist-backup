@@ -1,10 +1,18 @@
 {
-  "updated": 1793799889,
+  "updated": 1793833842,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How the Midterm Results Change AI",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/128791666/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-4%2F435892590-44100-2-69b4a6a796c84.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-04T19:57:20+00:00",
+          "duration": "00:24:41"
+        },
         {
           "kind": "audio",
           "title": "AI Lurches Toward Recursive Self-Improvement",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-09T00:00:39+00:00",
           "duration": "00:27:53"
-        },
-        {
-          "kind": "audio",
-          "title": "A System for Testing New AI Models",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/127047582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-7%2F433614575-44100-2-a58c6f4f955.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-07T19:02:35+00:00",
-          "duration": "00:49:49"
         }
       ]
     },
@@ -417,6 +417,14 @@
       "name": "The Ezra Klein Show",
       "feed": "https://feeds.simplecast.com/kEKXbjuJ",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The End of Trumpism",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/c4b2aeef-c679-4933-adc4-3e7f5750d89a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=c4b2aeef-c679-4933-adc4-3e7f5750d89a&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-11-04T21:43:47+00:00",
+          "duration": "00:50:04"
+        },
         {
           "kind": "audio",
           "title": "Elon Musk’s Endgame",
@@ -671,6 +679,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Politics 101, Prediction Markets Win, FOGO | Apoorva Mehta, Alex Spiro, Anish Agarwal, Derek Blasberg",
+          "src": "https://media.transistor.fm/36863f1f/cba80ddc.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-04T13:41:35-08:00",
+          "duration": "8082"
+        },
+        {
+          "kind": "audio",
           "title": "Apple & Palantir Earnings, Elon Caps Grok Bot Usage, SpaceX’s Starfall | Diet TBPN",
           "src": "https://media.transistor.fm/252d59a6/f3ff9106.mp3",
           "type": "audio/mpeg",
@@ -860,14 +876,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-20T14:24:33-07:00",
           "duration": "3130"
-        },
-        {
-          "kind": "audio",
-          "title": "Elizabeth Holmes and Theranos, AI Data Center Forecast Jumps, Poppi’s Pepsi Deal | Diet TBPN",
-          "src": "https://media.transistor.fm/e09555e2/faa1f32d.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-19T17:25:38-07:00",
-          "duration": "1836"
         }
       ]
     },
