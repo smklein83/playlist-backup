@@ -1,10 +1,18 @@
 {
-  "updated": 1793887044,
+  "updated": 1793920463,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Why a Data Center Slowdown Benefits Big Tech",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/128874509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F435997667-44100-2-573632689c4ca8.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-05T22:32:18+00:00",
+          "duration": "00:25:56"
+        },
         {
           "kind": "audio",
           "title": "How the Midterm Results Change AI",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-09T21:01:23+00:00",
           "duration": "00:25:17"
-        },
-        {
-          "kind": "audio",
-          "title": "The Most Important Trends in New AI Products",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/127147424/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-8%2F433738897-44100-2-b4fe71a457af3.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-09T00:00:39+00:00",
-          "duration": "00:27:53"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "NASDAQ Plunges As AI Stocks Sink, GTA 6, OpenAI’s Revenue Inflection | Diet TBPN",
+          "src": "https://media.transistor.fm/9e05369d/294b6603.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-05T13:43:23-08:00",
+          "duration": "1857"
+        },
+        {
+          "kind": "audio",
+          "title": "The Market Cries Out for Help, Neocloud FUD, Strauss Zelnick Fires Back at Take-Two Slander",
+          "src": "https://media.transistor.fm/2d88d61c/41bf1c9a.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-05T12:55:29-08:00",
+          "duration": "3190"
+        },
+        {
+          "kind": "audio",
           "title": "Wall Street Soars, Midterms Shake Up AI Race, Prediction Markets Win | Diet TBPN",
           "src": "https://media.transistor.fm/89a79de3/9ec7810e.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-21T13:01:49-07:00",
           "duration": "5616"
-        },
-        {
-          "kind": "audio",
-          "title": "$1M Trading Cards Heist, Trevor Milton Returns, The Death Of Common Courtesy | Diet TBPN",
-          "src": "https://media.transistor.fm/0084f20d/4f17b79f.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-20T18:21:15-07:00",
-          "duration": "1987"
-        },
-        {
-          "kind": "audio",
-          "title": "Calm Down Markets, Trevor Milton Has A Plane to Sell You, Jay Leno Live in The Ultradome | Alex Niehaus, Alex Blania, Nate Rempe, Connor Sweeney, Jay Leno",
-          "src": "https://media.transistor.fm/2c61a2dc/05af44c2.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-20T14:30:57-07:00",
-          "duration": "9755"
         }
       ]
     },
