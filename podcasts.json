@@ -1,5 +1,5 @@
 {
-  "updated": 1793833842,
+  "updated": 1793854799,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -679,6 +679,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Wall Street Soars, Midterms Shake Up AI Race, Prediction Markets Win | Diet TBPN",
+          "src": "https://media.transistor.fm/89a79de3/9ec7810e.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-04T15:20:03-08:00",
+          "duration": "1842"
+        },
+        {
+          "kind": "audio",
           "title": "Politics 101, Prediction Markets Win, FOGO | Apoorva Mehta, Alex Spiro, Anish Agarwal, Derek Blasberg",
           "src": "https://media.transistor.fm/36863f1f/cba80ddc.mp3",
           "type": "audio/mpeg",
@@ -868,14 +876,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-20T14:30:57-07:00",
           "duration": "9755"
-        },
-        {
-          "kind": "audio",
-          "title": "Jay Leno on Comedy, Supercars, and the State of Hollywood",
-          "src": "https://media.transistor.fm/e6920022/ad6bb45e.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-20T14:24:33-07:00",
-          "duration": "3130"
         }
       ]
     },
@@ -1288,6 +1288,172 @@
           "type": "audio/mpeg",
           "date": "2026-09-20T12:00:00+00:00",
           "duration": "30"
+        }
+      ]
+    },
+    {
+      "name": "Noahpinion",
+      "feed": "https://noahpinion.substack.com/feed",
+      "episodes": [
+        {
+          "kind": "audio",
+          "title": "Normal Americans punished MAGA",
+          "src": "https://substackcdn.com/image/fetch/$s_!QV66!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62ebb013-7443-461a-afba-ea14ef2391b9_1075x717.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-11-04T10:33:58+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Anthropic’s moat is Claude",
+          "src": "https://substackcdn.com/image/fetch/$s_!Nln0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bdc77a3-c7e3-45e1-a044-c1158f08968f_1170x659.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-11-02T11:03:51+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Farewell, my Captain",
+          "src": "https://substackcdn.com/image/fetch/$s_!HEZg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa176bc60-4616-46a6-b5f9-4b704291c825_1000x750.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-31T01:39:39+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "A golden age of science is coming",
+          "src": "https://substackcdn.com/image/fetch/$s_!SL4d!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec55b4f8-db63-4e5c-b909-d963207c5f98_1029x686.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-29T09:55:51+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Roundup #90: In which Noah joins a Japanese VC firm",
+          "src": "https://substackcdn.com/image/fetch/$s_!KCl-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b5caa2f-6bdf-48cc-9785-963744ee4cae_1006x600.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-27T07:17:34+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "The internet breaks",
+          "src": "https://substackcdn.com/image/fetch/$s_!o244!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7188959d-9dd1-4495-b047-a37f0ee21d86_1075x717.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-25T07:19:36+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "France and the limits of liberalism",
+          "src": "https://substackcdn.com/image/fetch/$s_!Fn-r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F090cf4c6-e298-4dcb-9d3e-7122fc74dbcd_960x640.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-22T08:04:41+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "“You Can See Everything” and the nature of liars",
+          "src": "https://substackcdn.com/image/fetch/$s_!F2Iq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc32d26e4-3148-4652-b05f-70ec4b28985e_810x705.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-21T08:45:19+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Can a Million AI Agents Create Superintelligence?",
+          "src": "https://substackcdn.com/image/fetch/$s_!3OFc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6335ee9e-3d13-4a47-9213-3c1d01cd8eff_1075x717.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-19T04:33:30+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Why are we ruled by barbarians?",
+          "src": "https://substackcdn.com/image/fetch/$s_!Jttc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fd375b7-8d5f-488e-8674-79bb9fc6f03a_1012x857.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-18T06:34:00+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "AI vs. the railroads",
+          "src": "https://substackcdn.com/image/fetch/$s_!vYOA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6954c481-0787-4359-90fd-1ce2f1075daf_1536x1258.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-15T08:47:39+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "A Nobel for New Keynesian macro, at last!",
+          "src": "https://substackcdn.com/image/fetch/$s_!QxZh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a0a350e-0f39-4bd9-b3bb-719ead46d2ca_1630x1630.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-13T05:28:43+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Why Donald Trump won in 2024",
+          "src": "https://substackcdn.com/image/fetch/$s_!vRZ5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51fc1a78-bd12-4ff0-ba2c-860c969d347e_960x559.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-11T07:31:44+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Maybe the Rapture is already here",
+          "src": "https://substackcdn.com/image/fetch/$s_!WgDI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1adda31-08f7-48de-a13a-dab9ec2ced33_918x653.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-09T09:18:32+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "There is no “Indian Question”",
+          "src": "https://substackcdn.com/image/fetch/$s_!YwSf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90c5c48a-fd0f-4355-ad67-5d4fdcbecaec_704x868.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-07T09:47:37+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "What the AI boom is doing for Americans",
+          "src": "https://substackcdn.com/image/fetch/$s_!i_BZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b615f36-f89f-4762-94bb-9571f1586f03_1200x800.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-05T08:12:53+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "The second Trump presidency is a world-historic failure",
+          "src": "https://substackcdn.com/image/fetch/$s_!vtKs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe161105e-6879-47d0-b401-feeac9f8b643_960x978.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-03T08:47:17+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Roundup #89: It isn’t X, it’s Y",
+          "src": "https://substackcdn.com/image/fetch/$s_!bmHj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ef9c036-df65-4145-b5c3-0f87c4797df3_923x669.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-01T06:14:51+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Stop spending money on smaller classes",
+          "src": "https://substackcdn.com/image/fetch/$s_!zGNi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5ea7469-879e-4deb-82ba-8439a25b70e6_967x725.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-09-28T22:27:25+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Where’s the “intelligence explosion”?",
+          "src": "https://substackcdn.com/image/fetch/$s_!x5a8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08ec0b36-c40e-47a2-831f-16108c969d77_1075x717.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-09-27T07:20:08+00:00",
+          "duration": ""
         }
       ]
     }
