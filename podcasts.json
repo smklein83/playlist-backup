@@ -1,5 +1,5 @@
 {
-  "updated": 1793972568,
+  "updated": 1794004904,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "AI Boom Reality Check, Jobs Boom, Cybertruck Scrapped | Praveer Melwani, Keller Cliffton, Rahul Sonwalkar, Max Siegelman, D.A. Wallach",
+          "src": "https://media.transistor.fm/b1ba345a/25682b17.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-06T13:37:03-08:00",
+          "duration": "8005"
+        },
+        {
+          "kind": "audio",
           "title": "NASDAQ Plunges As AI Stocks Sink, GTA 6, OpenAI’s Revenue Inflection | Diet TBPN",
           "src": "https://media.transistor.fm/9e05369d/294b6603.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-21T16:50:30-07:00",
           "duration": "1983"
-        },
-        {
-          "kind": "audio",
-          "title": "The Internet Is Finished, Early iPhone Duo Reviews, SpaceXSITesla Merger Talks | Nikesh Arora, Aidan Smith, Akhil Iyer, Max Junestrand",
-          "src": "https://media.transistor.fm/76dfa8a5/9febf05d.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-21T13:01:49-07:00",
-          "duration": "5616"
         }
       ]
     },
