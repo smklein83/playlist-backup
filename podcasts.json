@@ -1,5 +1,5 @@
 {
-  "updated": 1794026006,
+  "updated": 1794054286,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -417,6 +417,14 @@
       "name": "The Ezra Klein Show",
       "feed": "https://feeds.simplecast.com/kEKXbjuJ",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How the Democrats Did It",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/881d9663-8713-4a17-8415-99451e0ef854/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=881d9663-8713-4a17-8415-99451e0ef854&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-11-07T12:00:00+00:00",
+          "duration": "01:07:20"
+        },
         {
           "kind": "audio",
           "title": "The End of Trumpism",
