@@ -1,5 +1,5 @@
 {
-  "updated": 1794054286,
+  "updated": 1794086730,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E296_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-11-07T18:27:00+00:00",
+          "duration": "01:33:04"
+        },
+        {
+          "kind": "audio",
           "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E295_Ch.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-15T20:46:00+00:00",
           "duration": "27:32"
-        },
-        {
-          "kind": "audio",
-          "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Satya_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-09-15T17:10:00+00:00",
-          "duration": "36:33"
         }
       ]
     },
