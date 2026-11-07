@@ -1,10 +1,18 @@
 {
-  "updated": 1794004904,
+  "updated": 1794026006,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Companies Are Spending 5x More on AI Now",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/128940058/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F436080818-44100-2-1aad56ffe7cd3.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-07T00:24:27+00:00",
+          "duration": "00:30:50"
+        },
         {
           "kind": "audio",
           "title": "Why a Data Center Slowdown Benefits Big Tech",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-11T10:58:13+00:00",
           "duration": "00:25:26"
-        },
-        {
-          "kind": "audio",
-          "title": "When AI Solves Your Life’s Work",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/127209882/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-9%2F433817882-44100-2-390ed54c878cd.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-09T21:01:23+00:00",
-          "duration": "00:25:17"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Tech Stocks Face $2.5T Rout, Anthropic IPO, Tesla Winds Down CyberTruck | Diet TBPN",
+          "src": "https://media.transistor.fm/7712e3d7/e6f1cbc8.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-06T16:03:08-08:00",
+          "duration": "1908"
+        },
+        {
+          "kind": "audio",
           "title": "AI Boom Reality Check, Jobs Boom, Cybertruck Scrapped | Praveer Melwani, Keller Cliffton, Rahul Sonwalkar, Max Siegelman, D.A. Wallach",
           "src": "https://media.transistor.fm/b1ba345a/25682b17.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-22T13:25:09-07:00",
           "duration": "6948"
-        },
-        {
-          "kind": "audio",
-          "title": "Cybersecurity Red Alert, SpaceX Earnings, OpenAI Strikes Google Deal | Diet TBPN",
-          "src": "https://media.transistor.fm/af92017e/8d3b0821.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-21T16:50:30-07:00",
-          "duration": "1983"
         }
       ]
     },
