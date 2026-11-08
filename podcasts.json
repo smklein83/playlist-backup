@@ -1,10 +1,18 @@
 {
-  "updated": 1794111600,
+  "updated": 1794141822,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Agentic Video Is Real and Here’s What You Should Try",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/129045509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-8%2F436212145-44100-2-565cf3ede86b88.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-08T12:05:09+00:00",
+          "duration": "00:30:58"
+        },
         {
           "kind": "audio",
           "title": "Companies Are Spending 5x More on AI Now",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-12T14:59:24+00:00",
           "duration": "00:39:29"
-        },
-        {
-          "kind": "audio",
-          "title": "The 5 Debates Shaping AI",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/127285837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-11%2F433914144-44100-2-0974aebfc49d6.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-11T10:58:13+00:00",
-          "duration": "00:25:26"
         }
       ]
     },
