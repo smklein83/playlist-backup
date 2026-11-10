@@ -1,10 +1,18 @@
 {
-  "updated": 1794236788,
+  "updated": 1794272950,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Nvidia CEO Admits Affair With Suspected Chinese Spy",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/129142850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-9%2F436336137-44100-2-f1c89ec6f8a918.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-09T19:34:01+00:00",
+          "duration": "00:26:41"
+        },
         {
           "kind": "audio",
           "title": "Agentic Video Is Real and Here’s What You Should Try",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-13T20:37:58+00:00",
           "duration": "00:27:47"
-        },
-        {
-          "kind": "audio",
-          "title": "How to Go from AI Power User to AI Leader",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/127334818/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2F433980474-44100-2-50ecff4b40daf.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-12T14:59:24+00:00",
-          "duration": "00:39:29"
         }
       ]
     },
@@ -679,6 +679,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Jensen Huang Admits to Affair With Alleged Chinese Spy | Diet TBPN",
+          "src": "https://media.transistor.fm/f0237921/bc5b5279.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-09T15:10:42-08:00",
+          "duration": "2026"
+        },
+        {
+          "kind": "audio",
+          "title": "Jensen Secures Top Spot on Naughty List, Rockefeller Christmas Tree Delivered, Timeline in Turmoil | Jonathan Neman, Bryce Strauss, Adam Blake, Adarsh Kulkarni, Josh Payne",
+          "src": "https://media.transistor.fm/a7961b2c/fecb1ed1.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-09T13:49:20-08:00",
+          "duration": "7655"
+        },
+        {
+          "kind": "audio",
           "title": "Tech Stocks Face $2.5T Rout, Anthropic IPO, Tesla Winds Down CyberTruck | Diet TBPN",
           "src": "https://media.transistor.fm/7712e3d7/e6f1cbc8.mp3",
           "type": "audio/mpeg",
@@ -860,22 +876,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-23T13:09:31-07:00",
           "duration": "6777"
-        },
-        {
-          "kind": "audio",
-          "title": "Meta Introducing Class C Stock, iPhone Duo’s Botched Launch | Diet TBPN",
-          "src": "https://media.transistor.fm/0f222702/e0eb7463.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-22T17:15:48-07:00",
-          "duration": "1732"
-        },
-        {
-          "kind": "audio",
-          "title": "Matthew Prince on PHP2Shell, iPhone Duo Early Reactions, Meta Unveils New Class C Stock | Matthew Prince, Kevin Weil, MC Lader, Dillon Baxter, Richard Starson, Brian Manning",
-          "src": "https://media.transistor.fm/3dd855a5/7f728f47.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-22T13:25:09-07:00",
-          "duration": "6948"
         }
       ]
     },
