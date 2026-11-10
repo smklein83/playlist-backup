@@ -1,5 +1,5 @@
 {
-  "updated": 1794272950,
+  "updated": 1794320278,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -419,6 +419,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Thinking Like a Supermajority",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/86058bb0-f2b9-4aaa-bbb3-2dc556c6d206/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=86058bb0-f2b9-4aaa-bbb3-2dc556c6d206&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-11-10T10:00:00+00:00",
+          "duration": "00:54:35"
+        },
+        {
+          "kind": "audio",
           "title": "How the Democrats Did It",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/881d9663-8713-4a17-8415-99451e0ef854/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=881d9663-8713-4a17-8415-99451e0ef854&feed=kEKXbjuJ",
           "type": "audio/mpeg",
@@ -432,22 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-11-04T21:43:47+00:00",
           "duration": "00:50:04"
-        },
-        {
-          "kind": "audio",
-          "title": "Elon Musk’s Endgame",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/5992c694-91bf-4809-891e-5a67afb35d30/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=5992c694-91bf-4809-891e-5a67afb35d30&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-10-30T09:00:00+00:00",
-          "duration": "01:11:00"
-        },
-        {
-          "kind": "audio",
-          "title": "Nate Silver Predicts a ‘Momentous’ Midterm",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/50149e7c-02e8-4181-a1d8-c9d26fc15b0a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=50149e7c-02e8-4181-a1d8-c9d26fc15b0a&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-10-27T09:00:00+00:00",
-          "duration": "00:55:05"
         },
         {
           "kind": "audio",
