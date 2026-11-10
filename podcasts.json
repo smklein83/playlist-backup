@@ -1,10 +1,18 @@
 {
-  "updated": 1794320278,
+  "updated": 1794350920,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Fable 5.2 Is the Best AI Ever. So Why Am I Not Switching Yet?",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/129220537/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436438429-44100-2-c6f55ce15027c.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-10T21:38:24+00:00",
+          "duration": "00:30:08"
+        },
         {
           "kind": "audio",
           "title": "Nvidia CEO Admits Affair With Suspected Chinese Spy",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-14T19:56:06+00:00",
           "duration": "00:30:33"
-        },
-        {
-          "kind": "audio",
-          "title": "Why Muse Wonder Is Dividing AI Users",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/127425638/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-13%2F434102226-44100-2-51e54799abf21.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-13T20:37:58+00:00",
-          "duration": "00:27:47"
         }
       ]
     },
@@ -419,7 +419,7 @@
       "episodes": [
         {
           "kind": "audio",
-          "title": "Thinking Like a Supermajority",
+          "title": "The Path to a Democratic Supermajority",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/86058bb0-f2b9-4aaa-bbb3-2dc556c6d206/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=86058bb0-f2b9-4aaa-bbb3-2dc556c6d206&feed=kEKXbjuJ",
           "type": "audio/mpeg",
           "date": "2026-11-10T10:00:00+00:00",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "The Name's Huang. Alice Huang. The Markets. Shaken, and Stirred. | Chris Miller, Ed Bolian, Justin Sealy, Christopher Kercher",
+          "src": "https://media.transistor.fm/3c8e14b5/e82ef2d9.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-10T13:26:58-08:00",
+          "duration": "7103"
+        },
+        {
+          "kind": "audio",
           "title": "Jensen Huang Admits to Affair With Alleged Chinese Spy | Diet TBPN",
           "src": "https://media.transistor.fm/f0237921/bc5b5279.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-23T14:40:57-07:00",
           "duration": "2003"
-        },
-        {
-          "kind": "audio",
-          "title": "Moderna Drama, WSJ Mansion Section, Genetically Engineered Military Dogs | Thomas Wright, Kyle Schiller, Steven Schwartz",
-          "src": "https://media.transistor.fm/d5538bd5/b2580a52.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-23T13:09:31-07:00",
-          "duration": "6777"
         }
       ]
     },
