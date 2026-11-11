@@ -1,5 +1,5 @@
 {
-  "updated": 1794350920,
+  "updated": 1794371864,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_RickSmith_Ch.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-11-10T23:03:00+00:00",
+          "duration": "55:36"
+        },
+        {
+          "kind": "audio",
           "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E296_Ch.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-17T03:04:00+00:00",
           "duration": "18:10"
-        },
-        {
-          "kind": "audio",
-          "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Vance_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-09-15T20:46:00+00:00",
-          "duration": "27:32"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Jensen’s Spy Scandal Deepens, Ring’s Flying Security Cam, Anthropic IPO Roadshow | Diet TBPN",
+          "src": "https://media.transistor.fm/923c1722/f710b08d.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-10T16:53:58-08:00",
+          "duration": "1981"
+        },
+        {
+          "kind": "audio",
           "title": "The Name's Huang. Alice Huang. The Markets. Shaken, and Stirred. | Chris Miller, Ed Bolian, Justin Sealy, Christopher Kercher",
           "src": "https://media.transistor.fm/3c8e14b5/e82ef2d9.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-26T14:05:37-07:00",
           "duration": "9524"
-        },
-        {
-          "kind": "audio",
-          "title": "Why Moderna Tanked, MSG Employees Duped By Their Boss, The Mansion Section | Diet TBPN",
-          "src": "https://media.transistor.fm/c682dd2a/2c705908.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-23T14:40:57-07:00",
-          "duration": "2003"
         }
       ]
     },
