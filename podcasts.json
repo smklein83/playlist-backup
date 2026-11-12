@@ -1,10 +1,18 @@
 {
-  "updated": 1794466735,
+  "updated": 1794511847,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/129337553/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436594723-44100-2-2942f44a0831c8.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-12T18:44:45+00:00",
+          "duration": "00:29:42"
+        },
         {
           "kind": "audio",
           "title": "Wall Street Has No Idea What Anthropic Is Worth",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-16T18:19:09+00:00",
           "duration": "00:29:21"
-        },
-        {
-          "kind": "audio",
-          "title": "How the Latest AI Leap Is Disrupting Business Models",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/127543720/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F434264462-44100-2-58a405fb5f99f.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-15T22:35:40+00:00",
-          "duration": "00:30:45"
         }
       ]
     },
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "What Nvidia's Megaspeed Scandal Is Really All About",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/9390c1d9-8076-46f9-89ef-b500001b8ce0/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-11-12T09:00:00+00:00",
+          "duration": "3249"
+        },
+        {
+          "kind": "audio",
           "title": "The Perfect Storm That Clobbered Hedge Funds",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/d50c15fb-6c5a-4836-89a2-b4fe0174107c/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-01T08:00:00+00:00",
           "duration": "2658"
-        },
-        {
-          "kind": "audio",
-          "title": "Why Building a Crosswalk in LA Is Kafkaesque",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/7a3568d9-8263-4e3a-8f8f-b4d00139959f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-09-28T08:00:00+00:00",
-          "duration": "1318"
         }
       ]
     }
