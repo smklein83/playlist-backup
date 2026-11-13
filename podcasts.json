@@ -1,10 +1,18 @@
 {
-  "updated": 1794577990,
+  "updated": 1794611605,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Washington Is Taking Control of AI",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/129398427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2F436676989-44100-2-009d4f3260eb38.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-13T19:59:53+00:00",
+          "duration": "00:26:32"
+        },
         {
           "kind": "audio",
           "title": "Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-18T12:03:35+00:00",
           "duration": "00:23:54"
-        },
-        {
-          "kind": "audio",
-          "title": "The Most Important AI News This Week Is Getting Overlooked",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/127588942/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-16%2F434325005-44100-2-5490e254caf05.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-16T18:19:09+00:00",
-          "duration": "00:29:21"
         }
       ]
     },
@@ -671,6 +671,30 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Tech World Debates Jensen’s Exit | Diet TBPN",
+          "src": "https://media.transistor.fm/0a701c27/77f19a58.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-13T14:41:49-08:00",
+          "duration": "1759"
+        },
+        {
+          "kind": "audio",
+          "title": "TSMC Hacked, Vibes Down Outlook Down, NVIDIA v2 | Tae Kim, Ben Smith, Gunjan Banerji, Abhishek Malani",
+          "src": "https://media.transistor.fm/16016545/00ecf9dc.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-13T13:03:05-08:00",
+          "duration": "6061"
+        },
+        {
+          "kind": "audio",
+          "title": "NVIDIA Won’t Be the Same Without Jensen Huang — Tae Kim",
+          "src": "https://media.transistor.fm/6f9b7193/b25e90ea.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-13T12:38:43-08:00",
+          "duration": "1643"
+        },
+        {
+          "kind": "audio",
           "title": "Jensen Huang Resigns as NVIDIA CEO | Diet TBPN",
           "src": "https://media.transistor.fm/7253c528/5bf976f7.mp3",
           "type": "audio/mpeg",
@@ -844,30 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-29T15:56:09-07:00",
           "duration": "1870"
-        },
-        {
-          "kind": "audio",
-          "title": "Google Earnings, Jensen Targeted in Chinese Spy Plot, Ice Cube Joins | Luke Igel, David Rader & Jared Allen, Jake Stauch, Jay Madheswaran, Arthur Querou",
-          "src": "https://media.transistor.fm/1ac96317/fc662e45.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-29T13:34:56-07:00",
-          "duration": "7580"
-        },
-        {
-          "kind": "audio",
-          "title": "Apple’s ‘Pro and Tell,’ Google’s Two New AI Models, OpenAI Eyes Google’s Custom Chips | Diet TBPN",
-          "src": "https://media.transistor.fm/092366c0/09c36386.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-28T17:23:07-07:00",
-          "duration": "2030"
-        },
-        {
-          "kind": "audio",
-          "title": "Apple Pro and Tell, Genie 4, The Gurmanator Joins | Mark Gurman, Zach Rash, Ben Liu, Amiram Shachar, Jasper Zhang",
-          "src": "https://media.transistor.fm/2b33fcee/6383ac7c.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-28T13:29:07-07:00",
-          "duration": "7620"
         }
       ]
     },
@@ -875,6 +875,14 @@
       "name": "Dwarkesh Podcast",
       "feed": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The avalanche that hit math is coming for AI development",
+          "src": "https://api.substack.com/feed/podcast/224624765/6681869400340558d9a7bc295e9a3127.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-13T18:37:51+00:00",
+          "duration": "2666"
+        },
         {
           "kind": "audio",
           "title": "What Robert Caro learned about power after studying it for 50 years",
@@ -1066,14 +1074,6 @@
           "type": "audio/mpeg",
           "date": "2026-04-07T15:49:28+00:00",
           "duration": "7383"
-        },
-        {
-          "kind": "audio",
-          "title": "Terence Tao – Kepler, Newton, and the true nature of mathematical discovery",
-          "src": "https://api.substack.com/feed/podcast/191582481/09bfc20781f3d248e53c5f3350823514.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-03-20T16:00:55+00:00",
-          "duration": "5024"
         }
       ]
     },
