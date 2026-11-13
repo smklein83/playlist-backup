@@ -1,5 +1,5 @@
 {
-  "updated": 1794545887,
+  "updated": 1794577990,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -419,6 +419,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Hasan Piker Has Joined the Party",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/063cfbaa-9228-4fb5-a876-6dac25e308bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=063cfbaa-9228-4fb5-a876-6dac25e308bc&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-11-13T10:00:00+00:00",
+          "duration": "01:26:26"
+        },
+        {
+          "kind": "audio",
           "title": "The Path to a Democratic Supermajority",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/86058bb0-f2b9-4aaa-bbb3-2dc556c6d206/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=86058bb0-f2b9-4aaa-bbb3-2dc556c6d206&feed=kEKXbjuJ",
           "type": "audio/mpeg",
@@ -432,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-11-07T12:00:00+00:00",
           "duration": "01:07:20"
-        },
-        {
-          "kind": "audio",
-          "title": "The End of Trumpism",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/c4b2aeef-c679-4933-adc4-3e7f5750d89a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=c4b2aeef-c679-4933-adc4-3e7f5750d89a&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-11-04T21:43:47+00:00",
-          "duration": "00:50:04"
         },
         {
           "kind": "audio",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Why a $2 Billion Law Firm Suddenly Collapsed",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/6c3646fe-afa0-45cf-8682-b500015998ac/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-11-13T09:00:00+00:00",
+          "duration": "3480"
+        },
+        {
+          "kind": "audio",
           "title": "What Nvidia's Megaspeed Scandal Is Really All About",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/9390c1d9-8076-46f9-89ef-b500001b8ce0/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-02T08:00:00+00:00",
           "duration": "3211"
-        },
-        {
-          "kind": "audio",
-          "title": "Everything in Markets Is Now Moving Incredibly Fast",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/cf3994af-6383-4b79-a266-b4d50143f150/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-10-01T08:00:00+00:00",
-          "duration": "2658"
         }
       ]
     }
