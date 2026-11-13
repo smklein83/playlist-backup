@@ -1,5 +1,5 @@
 {
-  "updated": 1794511847,
+  "updated": 1794545887,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,30 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Jensen Huang Resigns as NVIDIA CEO | Diet TBPN",
+          "src": "https://media.transistor.fm/7253c528/5bf976f7.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-12T16:12:55-08:00",
+          "duration": "1990"
+        },
+        {
+          "kind": "audio",
+          "title": "Jensen Out, TBPN Merch Drop, GPT-6 Cyber | Dylan Patel, Eric Newcomer, Tantum \"Teddy\" Collins, Joe Fioti",
+          "src": "https://media.transistor.fm/fb5aa0bc/8b42605b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-12T13:31:53-08:00",
+          "duration": "7415"
+        },
+        {
+          "kind": "audio",
+          "title": "\"Jensen Huang's Exit Could Change the AI Industry Forever\" - Dylan Patel",
+          "src": "https://media.transistor.fm/47eb0612/fb276dfe.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-12T13:18:28-08:00",
+          "duration": "1868"
+        },
+        {
+          "kind": "audio",
           "title": "Jensen’s Scandal Tests Nvidia’s Board, AI Trade Roars Back, The Great Hobby Debate | Diet TBPN",
           "src": "https://media.transistor.fm/ad6d1b85/ba0dfe73.mp3",
           "type": "audio/mpeg",
@@ -844,30 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-28T13:29:07-07:00",
           "duration": "7620"
-        },
-        {
-          "kind": "audio",
-          "title": "Anduril’s American-Made Laptops, OpenAI Disproves ETH, New MacBook Pro | Diet TBPN",
-          "src": "https://media.transistor.fm/a6c1d130/2f0cdba3.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-27T16:39:54-07:00",
-          "duration": "1911"
-        },
-        {
-          "kind": "audio",
-          "title": "Anduril Laptop, DoorDash + Instacart, Gavin Baker Joins | Miles Arnone, Rahul Sengottuvelu",
-          "src": "https://media.transistor.fm/0bc5367e/babb8606.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-27T14:05:23-07:00",
-          "duration": "7856"
-        },
-        {
-          "kind": "audio",
-          "title": "Gavin Baker on Anthropic's S-1, GPU Prices, and SpaceX",
-          "src": "https://media.transistor.fm/9c66fec3/9015117c.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-27T13:53:54-07:00",
-          "duration": "2487"
         }
       ]
     },
