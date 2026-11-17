@@ -1,5 +1,5 @@
 {
-  "updated": 1794879144,
+  "updated": 1794929303,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -419,6 +419,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "The Winning Democrat Who Wants to Break Up Political Parties",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/ed5c691c-6843-47fc-a41e-932593163be6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=ed5c691c-6843-47fc-a41e-932593163be6&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-11-17T10:00:00+00:00",
+          "duration": "01:04:41"
+        },
+        {
+          "kind": "audio",
           "title": "Hasan Piker Has Joined the Party",
           "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/063cfbaa-9228-4fb5-a876-6dac25e308bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=063cfbaa-9228-4fb5-a876-6dac25e308bc&feed=kEKXbjuJ",
           "type": "audio/mpeg",
@@ -432,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-11-10T10:00:00+00:00",
           "duration": "00:54:33"
-        },
-        {
-          "kind": "audio",
-          "title": "How the Democrats Did It",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/881d9663-8713-4a17-8415-99451e0ef854/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=881d9663-8713-4a17-8415-99451e0ef854&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-11-07T12:00:00+00:00",
-          "duration": "01:07:20"
         },
         {
           "kind": "audio",
