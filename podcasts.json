@@ -1,5 +1,5 @@
 {
-  "updated": 1794929303,
+  "updated": 1794961752,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -7,11 +7,19 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "How Business AI Use is Changing",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/129647280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F437003892-44100-2-fac7f105dc9d.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-17T22:09:59+00:00",
+          "duration": "00:24:21"
+        },
+        {
+          "kind": "audio",
           "title": "5 Questions That Could Reshape AI",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/129567717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-16%2F436897777-44100-2-ce5a89d7de7118.mp3",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/129567717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436988991-44100-2-949caea549d48.mp3",
           "type": "audio/mpeg",
           "date": "2026-11-16T19:21:28+00:00",
-          "duration": "00:28:11"
+          "duration": "00:28:28"
         },
         {
           "kind": "audio",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-21T20:03:52+00:00",
           "duration": "00:28:20"
-        },
-        {
-          "kind": "audio",
-          "title": "Why AI Companies Are Betting Personality Beats Intelligence",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/127798004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F434605944-44100-2-fba18991e31bf.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-20T20:16:23+00:00",
-          "duration": "00:28:39"
         }
       ]
     },
@@ -211,6 +211,14 @@
       "name": "All-In",
       "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_99_AliGhodsi_Databricks.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-11-17T21:43:00+00:00",
+          "duration": "01:02:06"
+        },
         {
           "kind": "audio",
           "title": "Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-18T00:30:00+00:00",
           "duration": "32:32"
-        },
-        {
-          "kind": "audio",
-          "title": "Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Dina_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-09-17T16:54:00+00:00",
-          "duration": "43:52"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "🔴 LIVE From TomorrowX | David Solomon, Brian Armstrong, Ron Biscardi, Gavin Baker, Alex Davis, Guy Oseary, Andrew Feldman, Keller Cliffton, Chantel Jeffries, Cornelius Schmitt, Chase Lochmiller",
+          "src": "https://media.transistor.fm/352043a1/aa4aefc1.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-17T11:12:43-08:00",
+          "duration": "10244"
+        },
+        {
+          "kind": "audio",
+          "title": "Goldman Sachs CEO Reacts to Jensen Huang's Potential Return to NVIDIA",
+          "src": "https://media.transistor.fm/9ad0e6dc/c9631494.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-17T09:42:18-08:00",
+          "duration": "1807"
+        },
+        {
+          "kind": "audio",
           "title": "Will Jensen Return? FAA Meltdown, Amazon Casts Pattinson as Bond | Diet TBPN",
           "src": "https://media.transistor.fm/26d01554/58b56321.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-11-02T16:34:12-08:00",
           "duration": "1723"
-        },
-        {
-          "kind": "audio",
-          "title": "Live from NYSE | Joe Weisenthal, Emily Sundberg, Ryan Serhant, Lynn Martin",
-          "src": "https://media.transistor.fm/87348358/9dbe2770.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-11-02T12:54:15-08:00",
-          "duration": "5415"
-        },
-        {
-          "kind": "audio",
-          "title": "Tech Stock Bloodbath, Binance Hacked, The Mansion Section | Diet TBPN",
-          "src": "https://media.transistor.fm/1db8fade/e39599d2.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-30T16:34:21-07:00",
-          "duration": "1801"
         }
       ]
     },
@@ -1280,6 +1280,172 @@
           "type": "audio/mpeg",
           "date": "2026-10-08T08:00:00+00:00",
           "duration": "3159"
+        }
+      ]
+    },
+    {
+      "name": "Noahpinion",
+      "feed": "https://noahpinion.substack.com/feed",
+      "episodes": [
+        {
+          "kind": "audio",
+          "title": "Bumbition",
+          "src": "https://substackcdn.com/image/fetch/$s_!J4NB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a9253da-dc61-4fdc-bbf0-ac94bce4a414_1050x700.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-11-16T09:52:30+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "I’m feeling more optimistic about American politics",
+          "src": "https://substackcdn.com/image/fetch/$s_!0o6H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc5843a6-59b4-4c76-9897-3fc3a9503220_1020x680.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-11-14T09:00:44+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Brad and Noah discuss the reindustrialization of America",
+          "src": "https://api.substack.com/feed/podcast/224390948/bcce9a5ed9100c9b65f55df3704b5022.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-13T07:10:54+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "India is quietly doing great",
+          "src": "https://substackcdn.com/image/fetch/$s_!pQ8H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c9f730d-8548-4656-ac33-b06664a1edde_832x624.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-11-11T08:51:56+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Noah Smith and Azeem Azhar discuss the AI boom",
+          "src": "https://api.substack.com/feed/podcast/222820415/91300f26f912faf69d1c23457579238f.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-09T23:01:29+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Noah, Brad DeLong, and Dan Wang discuss the Anthropic IPO",
+          "src": "https://api.substack.com/feed/podcast/223841880/216295e6323521ba10b0709764d11c1a.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-09T07:59:29+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Why I’m becoming a China bear",
+          "src": "https://substackcdn.com/image/fetch/$s_!qzAX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b6fa44b-61d4-43f0-ad50-8c2f95c32bdf_947x711.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-11-07T21:11:43+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "For the Democrats, now comes the hard part",
+          "src": "https://substackcdn.com/image/fetch/$s_!UZ2O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa87774d-6622-40d3-b443-16d67cb52b1b_990x659.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-11-06T06:46:24+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Normal Americans punished MAGA",
+          "src": "https://substackcdn.com/image/fetch/$s_!QV66!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62ebb013-7443-461a-afba-ea14ef2391b9_1075x717.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-11-04T10:33:58+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Anthropic’s moat is Claude",
+          "src": "https://substackcdn.com/image/fetch/$s_!Nln0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bdc77a3-c7e3-45e1-a044-c1158f08968f_1170x659.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-11-02T11:03:51+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Farewell, my Captain",
+          "src": "https://substackcdn.com/image/fetch/$s_!HEZg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa176bc60-4616-46a6-b5f9-4b704291c825_1000x750.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-31T01:39:39+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "A golden age of science is coming",
+          "src": "https://substackcdn.com/image/fetch/$s_!SL4d!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec55b4f8-db63-4e5c-b909-d963207c5f98_1029x686.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-29T09:55:51+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Roundup #90: In which Noah joins a Japanese VC firm",
+          "src": "https://substackcdn.com/image/fetch/$s_!KCl-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b5caa2f-6bdf-48cc-9785-963744ee4cae_1006x600.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-27T07:17:34+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "The internet breaks",
+          "src": "https://substackcdn.com/image/fetch/$s_!o244!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7188959d-9dd1-4495-b047-a37f0ee21d86_1075x717.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-25T07:19:36+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "France and the limits of liberalism",
+          "src": "https://substackcdn.com/image/fetch/$s_!Fn-r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F090cf4c6-e298-4dcb-9d3e-7122fc74dbcd_960x640.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-22T08:04:41+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "“You Can See Everything” and the nature of liars",
+          "src": "https://substackcdn.com/image/fetch/$s_!F2Iq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc32d26e4-3148-4652-b05f-70ec4b28985e_810x705.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-21T08:45:19+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Can a Million AI Agents Create Superintelligence?",
+          "src": "https://substackcdn.com/image/fetch/$s_!3OFc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6335ee9e-3d13-4a47-9213-3c1d01cd8eff_1075x717.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-19T04:33:30+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "Why are we ruled by barbarians?",
+          "src": "https://substackcdn.com/image/fetch/$s_!Jttc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fd375b7-8d5f-488e-8674-79bb9fc6f03a_1012x857.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-18T06:34:00+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "AI vs. the railroads",
+          "src": "https://substackcdn.com/image/fetch/$s_!vYOA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6954c481-0787-4359-90fd-1ce2f1075daf_1536x1258.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-15T08:47:39+00:00",
+          "duration": ""
+        },
+        {
+          "kind": "audio",
+          "title": "A Nobel for New Keynesian macro, at last!",
+          "src": "https://substackcdn.com/image/fetch/$s_!QxZh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a0a350e-0f39-4bd9-b3bb-719ead46d2ca_1630x1630.jpeg",
+          "type": "image/jpeg",
+          "date": "2026-10-13T05:28:43+00:00",
+          "duration": ""
         }
       ]
     }
