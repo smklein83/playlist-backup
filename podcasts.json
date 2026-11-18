@@ -1,10 +1,18 @@
 {
-  "updated": 1795014220,
+  "updated": 1795045922,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Why the AI Kids Hate Astra 6.2",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/129714909/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-18%2F437094342-44100-2-3bdfdcb09f0668.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-18T21:29:03+00:00",
+          "duration": "00:25:01"
+        },
         {
           "kind": "audio",
           "title": "How Business AI Use is Changing",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-22T20:15:15+00:00",
           "duration": "00:28:08"
-        },
-        {
-          "kind": "audio",
-          "title": "How AI Is Changing What Work Means",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/127854152/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434684502-44100-2-fb499778e5ba2.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-21T20:03:52+00:00",
-          "duration": "00:28:20"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "🤠 LIVE from TomorrowX Day 2 | Jon Gray, Scott DeBoer, Jed Finn, Scott Wu, Travis Kalanick",
+          "src": "https://media.transistor.fm/0764a1c0/1208964b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-18T10:00:50-08:00",
+          "duration": "5151"
+        },
+        {
+          "kind": "audio",
+          "title": "“If I Were Jensen, Here’s What I’d Do” — Travis Kalanick",
+          "src": "https://media.transistor.fm/1d6c66b4/d757cb8b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-18T09:48:33-08:00",
+          "duration": "1333"
+        },
+        {
+          "kind": "audio",
           "title": "🔴 LIVE From TomorrowX | David Solomon, Brian Armstrong, Ron Biscardi, Gavin Baker, Alex Davis, Guy Oseary, Andrew Feldman, Keller Cliffton, Chantel Jeffries, Cornelius Schmitt, Chase Lochmiller",
           "src": "https://media.transistor.fm/352043a1/aa4aefc1.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-11-03T14:57:06-08:00",
           "duration": "1754"
-        },
-        {
-          "kind": "audio",
-          "title": "$AAPL + $PLTR, Value of a Search, Grok Bot Breaks the Bank | Harley Finkelstein, Bridgit Mendler, Dylan Patel & Max Kan & Andrew Megalaa",
-          "src": "https://media.transistor.fm/ffb6f312/a8d0a208.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-11-03T13:03:14-08:00",
-          "duration": "5417"
-        },
-        {
-          "kind": "audio",
-          "title": "Anthropic Q3 Revenue, Europe’s Freezer Hack Scare, Northwood Raises $375M | Diet TBPN",
-          "src": "https://media.transistor.fm/a546e788/21741fa9.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-11-02T16:34:12-08:00",
-          "duration": "1723"
         }
       ]
     },
