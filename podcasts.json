@@ -1,5 +1,5 @@
 {
-  "updated": 1795067432,
+  "updated": 1795101167,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "This Is The Problem With AI's Most Bullish Chart",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/53c36daa-840c-48b3-b071-b5070021e016/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-11-19T09:00:00+00:00",
+          "duration": "4170"
+        },
+        {
+          "kind": "audio",
           "title": "How GTA VI Became the Most Expensive Video Game Ever Made",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8dad6dc9-ed8d-497d-8cde-b50501578aa2/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-12T08:00:00+00:00",
           "duration": "4571"
-        },
-        {
-          "kind": "audio",
-          "title": "How AI Is Upending the World of Mathematics",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f49c2ca3-dfe7-4a67-bc11-b4dd01463f66/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-10-09T08:00:00+00:00",
-          "duration": "3621"
         }
       ]
     }
