@@ -1,5 +1,5 @@
 {
-  "updated": 1795217984,
+  "updated": 1795239183,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "AI Solves Riemann Hypothesis, Stock Market Plunges, The Mansion Section | Diet TBPN",
+          "src": "https://media.transistor.fm/f83b0c2b/7b40761d.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-20T16:40:27-08:00",
+          "duration": "1687"
+        },
+        {
+          "kind": "audio",
           "title": "Market Nukes, Math Solved Again, Mansion Section | Alex Epstein, David Chang, Zhou Xian, Eric Wind",
           "src": "https://media.transistor.fm/216b6b63/90c87341.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-11-05T13:43:23-08:00",
           "duration": "1857"
-        },
-        {
-          "kind": "audio",
-          "title": "The Market Cries Out for Help, Neocloud FUD, Strauss Zelnick Fires Back at Take-Two Slander",
-          "src": "https://media.transistor.fm/2d88d61c/41bf1c9a.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-11-05T12:55:29-08:00",
-          "duration": "3190"
         }
       ]
     },
