@@ -1,10 +1,18 @@
 {
-  "updated": 1795454407,
+  "updated": 1795492003,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Too Big to Fire: Jensen Huang Is Back as Nvidia CEO",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/129969396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-23%2F437442747-44100-2-331e70c28ee87.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-23T18:23:30+00:00",
+          "duration": "00:24:45"
+        },
         {
           "kind": "audio",
           "title": "When AI Labs Rival Nations",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-26T19:49:36+00:00",
           "duration": "00:27:08"
-        },
-        {
-          "kind": "audio",
-          "title": "Introducing How We Got Here -- NLW's new podcast",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/128111532/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2F435024080-44100-2-8b9418d4e908.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-26T14:22:15+00:00",
-          "duration": "00:06:17"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Huang Returns, Ferrari 296 CS Stuns, GTA 6 Breaks Sales Records | Julia Black, Bill Gross, Jay Jandrain, Lincoln Murr, Thijs Simonian, Elliott Potter",
+          "src": "https://media.transistor.fm/ca7b9f75/0751ff75.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-23T13:58:08-08:00",
+          "duration": "7620"
+        },
+        {
+          "kind": "audio",
+          "title": "Jensen Huang Returns As NVIDIA CEO | Diet TBPN",
+          "src": "https://media.transistor.fm/90952213/4e62036b.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-23T13:11:56-08:00",
+          "duration": "1914"
+        },
+        {
+          "kind": "audio",
           "title": "AI Solves Riemann Hypothesis, Stock Market Plunges, The Mansion Section | Diet TBPN",
           "src": "https://media.transistor.fm/f83b0c2b/7b40761d.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-11-06T16:03:08-08:00",
           "duration": "1908"
-        },
-        {
-          "kind": "audio",
-          "title": "AI Boom Reality Check, Jobs Boom, Cybertruck Scrapped | Praveer Melwani, Keller Cliffton, Rahul Sonwalkar, Max Siegelman, D.A. Wallach",
-          "src": "https://media.transistor.fm/b1ba345a/25682b17.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-11-06T13:37:03-08:00",
-          "duration": "8005"
-        },
-        {
-          "kind": "audio",
-          "title": "NASDAQ Plunges As AI Stocks Sink, GTA 6, OpenAI’s Revenue Inflection | Diet TBPN",
-          "src": "https://media.transistor.fm/9e05369d/294b6603.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-11-05T13:43:23-08:00",
-          "duration": "1857"
         }
       ]
     },
