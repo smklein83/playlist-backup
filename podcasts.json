@@ -1,5 +1,5 @@
 {
-  "updated": 1795492003,
+  "updated": 1795539366,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -213,6 +213,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
+          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/88_AUDIO_Geoge_Kurtz_INT.mp3?dest-id=1928300",
+          "type": "audio/mpeg",
+          "date": "2026-11-24T02:30:00+00:00",
+          "duration": "53:28"
+        },
+        {
+          "kind": "audio",
           "title": "Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?",
           "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E298_Ch.mp3?dest-id=1928300",
           "type": "audio/mpeg",
@@ -402,14 +410,6 @@
           "type": "audio/mpeg",
           "date": "2026-09-19T00:20:00+00:00",
           "duration": "38:29"
-        },
-        {
-          "kind": "audio",
-          "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
-          "src": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_JaredIsaacman_Ch.mp3?dest-id=1928300",
-          "type": "audio/mpeg",
-          "date": "2026-09-18T15:59:00+00:00",
-          "duration": "38:34"
         }
       ]
     },
@@ -417,6 +417,14 @@
       "name": "The Ezra Klein Show",
       "feed": "https://feeds.simplecast.com/kEKXbjuJ",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "The ‘Everywhere, All at Once’ Cybersecurity Crisis",
+          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/eac3bd0c-a507-497b-b76a-66b39eb39e43/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=eac3bd0c-a507-497b-b76a-66b39eb39e43&feed=kEKXbjuJ",
+          "type": "audio/mpeg",
+          "date": "2026-11-24T10:00:00+00:00",
+          "duration": "00:55:50"
+        },
         {
           "kind": "audio",
           "title": "How Do You Investigate a President This Corrupt?",
@@ -432,14 +440,6 @@
           "type": "audio/mpeg",
           "date": "2026-11-17T10:00:00+00:00",
           "duration": "01:04:41"
-        },
-        {
-          "kind": "audio",
-          "title": "Hasan Piker Has Joined the Party",
-          "src": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/063cfbaa-9228-4fb5-a876-6dac25e308bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=063cfbaa-9228-4fb5-a876-6dac25e308bc&feed=kEKXbjuJ",
-          "type": "audio/mpeg",
-          "date": "2026-11-13T10:00:00+00:00",
-          "duration": "01:26:26"
         },
         {
           "kind": "audio",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "What Jensen Huang's Stunning Return Means for the AI Trade",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/e1cd0e3e-9e03-40db-bc4b-b50b0165eab4/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-11-24T09:00:00+00:00",
+          "duration": "2162"
+        },
+        {
+          "kind": "audio",
           "title": "What a Town Full of Vibecoders Says About the Chinese Economy",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ef741101-1572-4ac7-b9c9-b507017075ac/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-19T08:00:00+00:00",
           "duration": "1619"
-        },
-        {
-          "kind": "audio",
-          "title": "David Byrne Explains How Forgotten Ideas Come Back to Life",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/80a8c551-836d-45b7-9004-b4e600024717/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-10-17T08:00:00+00:00",
-          "duration": "3620"
         }
       ]
     }
