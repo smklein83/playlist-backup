@@ -1,10 +1,18 @@
 {
-  "updated": 1795539366,
+  "updated": 1795571611,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "AI Just Made History in the Middle of a Meltdown",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/130043247/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F437541143-44100-2-3f2cc326c94d7.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-24T20:12:22+00:00",
+          "duration": "00:29:42"
+        },
         {
           "kind": "audio",
           "title": "Too Big to Fire: Jensen Huang Is Back as Nvidia CEO",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-27T21:10:01+00:00",
           "duration": "00:28:47"
-        },
-        {
-          "kind": "audio",
-          "title": "4 Questions for AI This Week",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/128131715/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2F435051380-44100-2-16afd38d48655.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-26T19:49:36+00:00",
-          "duration": "00:27:08"
         }
       ]
     },
@@ -671,6 +671,22 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Stripe Eyes $200B Valuation, The Boomer Bubble, Microsoft Declares Code Red | Diet TBPN",
+          "src": "https://media.transistor.fm/5bbe6ac9/60b959ed.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-24T16:32:07-08:00",
+          "duration": "1966"
+        },
+        {
+          "kind": "audio",
+          "title": "The Boomer Put, Stripe @ $200B, Microsoft Code Red | John Tesh, Jason Buechel, Brian Halligan, Owen Rapaport & John Harris",
+          "src": "https://media.transistor.fm/a149a9dd/dc59e342.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-24T13:49:22-08:00",
+          "duration": "7386"
+        },
+        {
+          "kind": "audio",
           "title": "Huang Returns, Ferrari 296 CS Stuns, GTA 6 Breaks Sales Records | Julia Black, Bill Gross, Jay Jandrain, Lincoln Murr, Thijs Simonian, Elliott Potter",
           "src": "https://media.transistor.fm/ca7b9f75/0751ff75.mp3",
           "type": "audio/mpeg",
@@ -852,22 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-11-09T15:10:42-08:00",
           "duration": "2026"
-        },
-        {
-          "kind": "audio",
-          "title": "Jensen Secures Top Spot on Naughty List, Rockefeller Christmas Tree Delivered, Timeline in Turmoil | Jonathan Neman, Bryce Strauss, Adam Blake, Adarsh Kulkarni, Josh Payne",
-          "src": "https://media.transistor.fm/a7961b2c/fecb1ed1.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-11-09T13:49:20-08:00",
-          "duration": "7655"
-        },
-        {
-          "kind": "audio",
-          "title": "Tech Stocks Face $2.5T Rout, Anthropic IPO, Tesla Winds Down CyberTruck | Diet TBPN",
-          "src": "https://media.transistor.fm/7712e3d7/e6f1cbc8.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-11-06T16:03:08-08:00",
-          "duration": "1908"
         }
       ]
     },
@@ -875,6 +875,14 @@
       "name": "Dwarkesh Podcast",
       "feed": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "Responding to objections to recursive self-improvement",
+          "src": "https://api.substack.com/feed/podcast/226413128/4ad273437a5ffb5c6234fc0a6a855326.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-24T21:45:30+00:00",
+          "duration": "3923"
+        },
         {
           "kind": "audio",
           "title": "Paul Christiano – We could be 12 months away from AIs that can overthrow the government",
@@ -1066,14 +1074,6 @@
           "type": "audio/mpeg",
           "date": "2026-04-29T17:07:03+00:00",
           "duration": "8030"
-        },
-        {
-          "kind": "audio",
-          "title": "Jensen Huang – TPU competition, why we should sell chips to China, & Nvidia’s supply chain moat",
-          "src": "https://api.substack.com/feed/podcast/194289889/4ad9f4582dd59f13b5a5cc452125b1f6.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-04-15T15:45:23+00:00",
-          "duration": "6192"
         }
       ]
     },
