@@ -1,10 +1,18 @@
 {
-  "updated": 1795656650,
+  "updated": 1795710066,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "How Anthropic Went From Anti-Product to $81B a Year",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/130104672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437622914-44100-2-85d3ae3be3d62.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-26T15:00:00+00:00",
+          "duration": "00:19:39"
+        },
         {
           "kind": "audio",
           "title": "How to Talk About AI at Thanksgiving",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-29T19:31:10+00:00",
           "duration": "00:27:12"
-        },
-        {
-          "kind": "audio",
-          "title": "AI Can Now Create Worlds You Can Change in Real Time",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/128303802/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-28%2F435269554-44100-2-27523823ae90a.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-28T20:43:55+00:00",
-          "duration": "00:29:16"
         }
       ]
     },
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Marc Levinson on How UPS Created Modern Logistics",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/84bd57a3-7784-4f39-9716-b50d01106c9e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-11-26T09:00:00+00:00",
+          "duration": "2990"
+        },
+        {
+          "kind": "audio",
           "title": "What Jensen Huang's Stunning Return Means for the AI Trade",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/e1cd0e3e-9e03-40db-bc4b-b50b0165eab4/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,180 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-20T08:00:00+00:00",
           "duration": "1784"
-        },
-        {
-          "kind": "audio",
-          "title": "Don Wilson on the GPU Market's Trillion Dollar Question",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/80dab570-fb6b-445e-b20e-b4e5015a3603/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-10-19T08:00:00+00:00",
-          "duration": "1619"
-        }
-      ]
-    },
-    {
-      "name": "Noahpinion",
-      "feed": "https://noahpinion.substack.com/feed",
-      "episodes": [
-        {
-          "kind": "audio",
-          "title": "How to make Thanksgiving even better",
-          "src": "https://substackcdn.com/image/fetch/$s_!vmmn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14f3ac74-09da-47fe-96aa-506ded1ce24e_1053x702.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-11-25T19:23:28+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Why the New Right is failing",
-          "src": "https://substackcdn.com/image/fetch/$s_!rMPJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4bda677-cd48-49d1-bbbb-edc394fcc30d_961x596.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-11-24T06:42:26+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "AI people are very, very, very, very rich",
-          "src": "https://substackcdn.com/image/fetch/$s_!2W5G!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16b71af9-bdf6-4eb4-bcb2-1bc293ffb154_855x570.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-11-22T06:27:25+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Does it really matter if there’s an intelligence explosion?",
-          "src": "https://substackcdn.com/image/fetch/$s_!K2Dk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83c7465d-0a2a-4032-b386-8b2c83298ba1_1086x611.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-11-20T10:13:06+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Roundup #91: Rocketing into the technofuture",
-          "src": "https://substackcdn.com/image/fetch/$s_!gLlb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc7da4d0-68da-4941-b8e2-2ac79e09ddf6_1171x659.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-11-18T09:50:29+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Bumbition",
-          "src": "https://substackcdn.com/image/fetch/$s_!J4NB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a9253da-dc61-4fdc-bbf0-ac94bce4a414_1050x700.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-11-16T09:52:30+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "I’m feeling more optimistic about American politics",
-          "src": "https://substackcdn.com/image/fetch/$s_!0o6H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc5843a6-59b4-4c76-9897-3fc3a9503220_1020x680.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-11-14T09:00:44+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Brad and Noah discuss the reindustrialization of America",
-          "src": "https://api.substack.com/feed/podcast/224390948/bcce9a5ed9100c9b65f55df3704b5022.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-11-13T07:10:54+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "India is quietly doing great",
-          "src": "https://substackcdn.com/image/fetch/$s_!pQ8H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c9f730d-8548-4656-ac33-b06664a1edde_832x624.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-11-11T08:51:56+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Noah Smith and Azeem Azhar discuss the AI boom",
-          "src": "https://api.substack.com/feed/podcast/222820415/91300f26f912faf69d1c23457579238f.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-11-09T23:01:29+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Noah, Brad DeLong, and Dan Wang discuss the Anthropic IPO",
-          "src": "https://api.substack.com/feed/podcast/223841880/216295e6323521ba10b0709764d11c1a.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-11-09T07:59:29+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Why I’m becoming a China bear",
-          "src": "https://substackcdn.com/image/fetch/$s_!qzAX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b6fa44b-61d4-43f0-ad50-8c2f95c32bdf_947x711.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-11-07T21:11:43+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "For the Democrats, now comes the hard part",
-          "src": "https://substackcdn.com/image/fetch/$s_!UZ2O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa87774d-6622-40d3-b443-16d67cb52b1b_990x659.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-11-06T06:46:24+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Normal Americans punished MAGA",
-          "src": "https://substackcdn.com/image/fetch/$s_!QV66!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62ebb013-7443-461a-afba-ea14ef2391b9_1075x717.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-11-04T10:33:58+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Anthropic’s moat is Claude",
-          "src": "https://substackcdn.com/image/fetch/$s_!Nln0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bdc77a3-c7e3-45e1-a044-c1158f08968f_1170x659.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-11-02T11:03:51+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Farewell, my Captain",
-          "src": "https://substackcdn.com/image/fetch/$s_!HEZg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa176bc60-4616-46a6-b5f9-4b704291c825_1000x750.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-10-31T01:39:39+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "A golden age of science is coming",
-          "src": "https://substackcdn.com/image/fetch/$s_!SL4d!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec55b4f8-db63-4e5c-b909-d963207c5f98_1029x686.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-10-29T09:55:51+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "Roundup #90: In which Noah joins a Japanese VC firm",
-          "src": "https://substackcdn.com/image/fetch/$s_!KCl-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b5caa2f-6bdf-48cc-9785-963744ee4cae_1006x600.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-10-27T07:17:34+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "The internet breaks",
-          "src": "https://substackcdn.com/image/fetch/$s_!o244!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7188959d-9dd1-4495-b047-a37f0ee21d86_1075x717.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-10-25T07:19:36+00:00",
-          "duration": ""
-        },
-        {
-          "kind": "audio",
-          "title": "France and the limits of liberalism",
-          "src": "https://substackcdn.com/image/fetch/$s_!Fn-r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F090cf4c6-e298-4dcb-9d3e-7122fc74dbcd_960x640.jpeg",
-          "type": "image/jpeg",
-          "date": "2026-10-22T08:04:41+00:00",
-          "duration": ""
         }
       ]
     }
