@@ -1,5 +1,5 @@
 {
-  "updated": 1795742888,
+  "updated": 1795795524,
   "shows": [
     {
       "name": "The AI Daily Brief",
@@ -15,7 +15,7 @@
         },
         {
           "kind": "audio",
-          "title": "How to Talk About AI at Thanksgiving",
+          "title": "How to Talk About AI with Your Family",
           "src": "https://anchor.fm/s/f7cac464/podcast/play/130122747/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437646451-44100-2-5bfe36b839b42.mp3",
           "type": "audio/mpeg",
           "date": "2026-11-25T21:41:57+00:00",
@@ -1083,6 +1083,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "Isabella Weber's Vision for an Affordability Agenda",
+          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/cac23723-26f1-4df3-b177-b50d011072f1/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+          "type": "audio/mpeg",
+          "date": "2026-11-27T09:00:00+00:00",
+          "duration": "2823"
+        },
+        {
+          "kind": "audio",
           "title": "Marc Levinson on How UPS Created Modern Logistics",
           "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/84bd57a3-7784-4f39-9716-b50d01106c9e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
           "type": "audio/mpeg",
@@ -1272,14 +1280,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-21T08:00:00+00:00",
           "duration": "2270"
-        },
-        {
-          "kind": "audio",
-          "title": "CME's Terry Duffy on the Disconcerting State of Finance Regulation",
-          "src": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/32688ea9-4cbb-4bb4-8b3c-b4e8018899f5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-          "type": "audio/mpeg",
-          "date": "2026-10-20T08:00:00+00:00",
-          "duration": "1784"
         }
       ]
     }
