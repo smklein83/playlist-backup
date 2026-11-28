@@ -1,10 +1,18 @@
 {
-  "updated": 1795795524,
+  "updated": 1795827784,
   "shows": [
     {
       "name": "The AI Daily Brief",
       "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "AI is Too Big to Fail",
+          "src": "https://anchor.fm/s/f7cac464/podcast/play/130211103/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-27%2F437768288-44100-2-88439098df2f68.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-27T18:00:01+00:00",
+          "duration": "00:27:17"
+        },
         {
           "kind": "audio",
           "title": "How Anthropic Went From Anti-Product to $81B a Year",
@@ -196,14 +204,6 @@
           "type": "audio/mpeg",
           "date": "2026-10-30T19:05:17+00:00",
           "duration": "00:31:01"
-        },
-        {
-          "kind": "audio",
-          "title": "The AI Rankings Just Got Reshuffled",
-          "src": "https://anchor.fm/s/f7cac464/podcast/play/128373712/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F435359682-44100-2-ea262663c4827.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-10-29T19:31:10+00:00",
-          "duration": "00:27:12"
         }
       ]
     },
@@ -671,6 +671,14 @@
       "episodes": [
         {
           "kind": "audio",
+          "title": "🛍️ Shopify Black Friday Gigastream with Harley Finkelstein | Stéphane de La Faverie, Sara Foster, Chet Kittleson, Max Siegelman, Brian Keller, Sean Frank",
+          "src": "https://media.transistor.fm/ff0fd7b7/36bd2d7e.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-27T13:22:21-08:00",
+          "duration": "6750"
+        },
+        {
+          "kind": "audio",
           "title": "Stripe Eyes $200B Valuation, The Boomer Bubble, Microsoft Declares Code Red | Diet TBPN",
           "src": "https://media.transistor.fm/5bbe6ac9/60b959ed.mp3",
           "type": "audio/mpeg",
@@ -860,14 +868,6 @@
           "type": "audio/mpeg",
           "date": "2026-11-10T13:26:58-08:00",
           "duration": "7103"
-        },
-        {
-          "kind": "audio",
-          "title": "Jensen Huang Admits to Affair With Alleged Chinese Spy | Diet TBPN",
-          "src": "https://media.transistor.fm/f0237921/bc5b5279.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-11-09T15:10:42-08:00",
-          "duration": "2026"
         }
       ]
     },
@@ -875,6 +875,14 @@
       "name": "Dwarkesh Podcast",
       "feed": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
       "episodes": [
+        {
+          "kind": "audio",
+          "title": "AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil",
+          "src": "https://api.substack.com/feed/podcast/226789196/89485c0543b57f829184d38024dba666.mp3",
+          "type": "audio/mpeg",
+          "date": "2026-11-27T18:01:14+00:00",
+          "duration": "5762"
+        },
         {
           "kind": "audio",
           "title": "Responding to objections to recursive self-improvement",
@@ -1066,14 +1074,6 @@
           "type": "audio/mpeg",
           "date": "2026-05-08T16:38:22+00:00",
           "duration": "8000"
-        },
-        {
-          "kind": "audio",
-          "title": "Reiner Pope – The math behind how LLMs are trained and served",
-          "src": "https://api.substack.com/feed/podcast/195859978/d0ec0edfef14862f0fc2e095a1ee64b0.mp3",
-          "type": "audio/mpeg",
-          "date": "2026-04-29T17:07:03+00:00",
-          "duration": "8030"
         }
       ]
     },
